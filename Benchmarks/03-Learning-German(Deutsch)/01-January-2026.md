@@ -4,7 +4,7 @@
 - **Vocab**: [X amount of New Words + English meaning]
 - **Logic**: [x amount of Grammar Rule - example: Verb position or Gender]
 - **Output**: [1 Original Sentence using that rule]
-- **sentences** :
+- **sentences** : ...
 
 Example:
 
@@ -56,3 +56,35 @@ Example:
     - Vielen Dank für Ihre Hilfe (Thank you so much for your help!).
     - Vielen Dank für den netten Abend (Thank you for the lovely evening.)
     - Vikram und seine Frau Priya sind im Flughafen. (vikram and his wife priya are at the airport) 
+---
+---
+
+# 29th January Thursday : 
+- **Lesson**: Nicos Weg A1/Von A bis Z
+
+- **Vocab(Nicos weg)**: die Adresse, die Adressen (address) || die Straße, die Straßen (street) || der Buchstabe, die Buchstaben (letter (of the alphabet)) || (etwas) buchstabieren (to spell) || das (that) || fliegen (to fly) || die Hausnummer, die Hausnummern (house number) || die Mama, die Mamas (mom/mother) || der Name, die Namen (name) || etwas suchen (to search for something/to look for something) || die Tante, die Tanten (aunt) || 
+
+- **Vocab(Duolingo)**: no new words learnt today.
+
+- **Logic**: greeting and saying goodbyes in german is very complicated, lol.
+
+- **Output**: wiedersehen for bye and guten tag for greeting . thats it
+
+- **Sentences**:   
+        - Wie ist dein Name?{informell}/Wie ist Ihr Name?{formell} (What's your name?)  
+        - Wie schreibt man das? (How do you write that?)
+        - Bitte buchstabiere das! (Please spell that.)
+        - Bitte buchstabieren Sie das (Please spell that.)
+        - Langsam, bitte! (Slowly, please!)
+        - Noch einmal, bitte! (Again please!)
+---
+---
+
+# 30th January Friday : 
+
+
+
+
+
+
+

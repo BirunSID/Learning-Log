@@ -17,5 +17,5 @@
 - Reading books 1."Deep work" (by Cal Newport) & 2.The Psychology of Money (Morgan Housel) |
 
 **Naming conventions** : 
-- hyphen will be used instead of space for ensuring no errors happen.
+- hyphen(-) and underscore(_) will be used instead of space for ensuring no errors happen.
 - proper numbers will be assinged to make sure we dont mess up the file order because vs code default is file order by name.
