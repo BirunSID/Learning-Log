@@ -1,7 +1,5 @@
 # 📅 Entry: 27 January (Tuesday)
 
----
-
 ### 📘 Source: Nicos Weg A1 — *Tschüss!*
 
 | German                         | English                      | Notes / Context            |
@@ -71,8 +69,6 @@ Vielen Dank! Bis bald.
 
 # 📅 Entry: 28 January (Wednesday)
 
----
-
 ### 📘 Source: Nicos Weg A1 — *Tschüss!*
 
 | German                  | English         | Notes / Context                        |
@@ -122,8 +118,6 @@ Vikram und seine Frau Priya sind im Flughafen.
 ---
 
 # 📅 Entry: 29 January (Thursday)
-
----
 
 ### 📘 Source: Nicos Weg A1 — *Von A bis Z*
 
@@ -175,7 +169,54 @@ Noch einmal, bitte!
 ---
 ---
 
+# 📅 Entry: 31 January 2026
 
+**Lesson:** *Ich heiße Emma*
 
+### 📘 Source: Nicos Weg — Vocabulary
 
+| German                                                     | English                                       | Notes/Context               |
+| ---------------------------------------------------------- | --------------------------------------------- | --------------------------- |
+| Wie heißt du?                                              | What’s your name                              | Informal                    |
+| Ich heiße X                                                | My name is X                                  | Self-introduction           |
+| Wer ist das?                                               | Who is that                                   | Asking about a third person |
+| Und du?                                                    | And you                                       | Informal follow-up          |
+| Wähl die fehlenden Wörter in der richtigen Reihenfolge aus | Choose the missing words in the correct order | Instruction sentence        |
+| Wie heißen Sie?                                            | What’s your name                              | Formal                      |
+| Ich bin Sabine Moll. Und wer sind Sie?                     | I am Sabine Moll. And who are you             | Formal introduction         |
+| Ich bin ihre Deutschlehrerin                               | I am her German teacher                       | Possessive + profession     |
 
+---
+
+### 📗 Source: Duolingo — Vocabulary
+
+| German | English | Notes/Context        |
+| ------ | ------- | -------------------- |
+| —      | —       | No new words learned |
+
+---
+
+### 🧠 Logic / Grammar Notes
+
+> **German Introductions:**
+>
+> * German introductions have multiple forms depending on **formality (du vs Sie)**.
+> * It is important to learn all common variations early, as introductions are used frequently in real conversations.
+
+---
+
+### 📝 Output / Practice
+
+> I can now ask for someone’s name and introduce myself using both informal and formal structures.
+
+---
+
+### 📝 Practice Sentences
+
+```text
+Need practice for this
+```
+---
+---
+
+# 📅 Entry: 1st February 2026

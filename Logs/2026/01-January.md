@@ -1,7 +1,5 @@
 # Daily Log : January 2026 ( ISO 8601 | UTC +6)
 
-## January 27th, Tuesday:
-
 # 📅 Tuesday, January 27th
 
 ### 🚀 Engineering & Skills Log
@@ -26,15 +24,15 @@
 ---
 ---
 
-## January 28th, Wednesday:
+# 📅 January 28th, Wednesday:
 
 ### 🚀 Engineering & Skills Log
-- **IELTS 🇬🇧**
+- **IELTS **
     - **Activity:** Reading Test (Mar-1).
     - **Result:** Score 7.5 (Band 7.5).
     - **Detailed Notes:** [click here](../../Benchmarks/01-IELTS-Tests/READING/01-IELTS_PRACTICE_SITE/02-March-1.md)
 
-- **German 🇩🇪**
+- **German **
     - **Focus:** Review / General Study.
     - **Status:** Maintained consistency.
     - **Detailed Notes:** [click here](../../Benchmarks/03-Learning-German(Deutsch)/2026/01-January.md)
@@ -50,15 +48,15 @@
 ---
 ---
 
-## January 29th, Thursday:
+# 📅 January 29th, Thursday:
 
 ### 🚀 Engineering & Skills Log
-- **IELTS 🇬🇧**
+- **IELTS**
     - **Result:** Score 8.0 (Band 8.0).
     - **Trend:** +0.5 Band Improvement 📈
     - **Detailed Notes:** [click here](../../Benchmarks/01-IELTS-Tests/READING/01-IELTS_PRACTICE_SITE/02-March-2.md)
 
-- **German 🇩🇪**
+- **German**
     - **Focus:** Lesson Completion & Duolingo maintenance.
     - **Status:** Barely keeping up with promotion zone.
     - **Detailed Notes:** [click here](../../Benchmarks/03-Learning-German(Deutsch)/2026/01-January.md)
@@ -72,11 +70,10 @@
     - **Deep Work:** Pages 61-70 (Completed).
     - **Psychology of Money:** Pages 81-90 (Completed).
 
-
 ---
 ---
 
-## January 29th, Thursday:
+# 📅 January 30th, Friday:
 
 ### 🚀 Engineering & Skills Log
 - **Did only Duolingo today, no nicos weg**
@@ -97,3 +94,31 @@
     - **Deep work :** [10 pages/ 71-80]
     - Psychology of money :** [10 pages/ 91-100]
     - **Article/Paper:** NA
+
+---
+---
+
+# 📅 Saturday,  January 31st
+(**Naming convention change:** the weekday comes first)
+
+### 🚀 Engineering & Skills Log
+- **German**
+    - **Focus:**  learned a lot of German introductory sentences and terms and variations.  
+    - **Progress:** now i can ask for others name and stuff
+    - **Detailed Notes:** find details [here](../../Benchmarks/03-Learning-German(Deutsch)/2026/01-January.md)
+
+- **IELTS**
+    - **Activity:**  Did an IELTS Cambridge test, book 20, reading test 1. 
+    - **Result:** scored band 8.0 (35/40). Find details [here](../../Benchmarks/01-IELTS-Tests/READING/02-Cambridge-book-Test/test-1.md).
+    - **Analysis:** the band score has been stabilized so far. 
+
+- **CS50x 💻**
+    - **Topic:** problem set 1 Solved find details [here](../../Benchmarks/02-CS50x/01-Logs/06_January_31th_2026_Saturday.md).
+    - **Notes:** The task was manageable, but documenting it was challenging due to the complexity and the amount of detail involved. Comments were added to improve clarity and readability.
+
+- **Reading & Research 📚**
+    - Psychology of money : pages 100 to 110 . find details here(redacted, experimental)
+    - Deep work : pages 81 to 90 . find details here(redacted, experimental)
+    - **Article/Paper:** NA
+---
+---
