@@ -1,12 +1,12 @@
 # AUSTRALIA ADMISSION & SCHOLARSHIP MATRIX (JULY 2026) [This is a template]
 
 ## 1. TARGET UNIVERSITIES & SCHOLARSHIPS
-| University   | Scholarship Name        | Value (%/Amount)   | IELTS Req. | App. Deadline |
-| :---         | :---                    | :---               | :---       | :---          |
-| e.g. UNSW    | Global Excellence       | 50% - 100%         |    7.5+    |  March 2026   |
-| e.g. UniMelb | Melbourne International | $10k - 100%        |    7.0+    |  March 2026   |
-|              |                         |                    |            |               |
-|              |                         |                    |            |               |
+| University    | Scholarship Name        | Value (%/Amount)   | IELTS Req. | App. Deadline |
+| :---          | :---                    | :---               | :---       | :---          |
+| e.g. UNSW     | Global Excellence       | 50% - 100%         |    7.5+    |  March 2026   |
+| e.g. UniMelb  | Melbourne International | $10k - 100%        |    7.0+    |  March 2026   |
+|               |                         |                    |            |               |
+|               |                         |                    |            |               |
 
 ## 2. DOCUMENT CHECKLIST (STATUS)
 -[ ] **Passport:** [Valid / Expiring / Not Issued]
