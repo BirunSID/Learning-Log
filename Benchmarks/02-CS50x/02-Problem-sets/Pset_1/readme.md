@@ -6,8 +6,7 @@ This project recreates the double-sided pyramids from Super Mario Bros. The prog
 
 ---
 
-
-
+<a id="Local_compilation_guide"></a>
 ### 🛠️ Local Compilation Guide
 
 If you are running these programs on a local machine (not the CS50 Sandbox), you will encounter a "Linker Error" if you try to run the code normally. This is because the programs depend on the `cs50.c` library located in the parent directory. This surely is a hassle. Here's the solution below.
