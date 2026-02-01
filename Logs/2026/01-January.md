@@ -15,7 +15,7 @@
 
 - **CS50x 💻**
     - **Topic:** C Operators and Logic.
-    - **Notes:** [click here](../../Benchmarks/02-CS50x/01-Logs/02_January_27th_2026_Tuesday.md)
+    - **Notes:** [click here](../../Benchmarks/02-CS50x/01-Logs/01-January-2026/02_January_27th_2026_Tuesday.md)
 
 - **Reading & Research 📚**
     - **Deep Work:** Pages 41-50 (Completed).
@@ -39,7 +39,7 @@
 
 - **CS50x 💻**
     - **Topic:** Covered 4 new topics (Operators/Logic).
-    - **Notes:** [click here](../../Benchmarks/02-CS50x/01-Logs/03_January_28th_2026_Wednesday.md)
+    - **Notes:** [click here](../../Benchmarks/02-CS50x/01-Logs/01-January-2026/03_January_28th_2026_Wednesday.md)
 
 - **Reading & Research 📚**
     - **Deep Work:** Pages 51-60 (Completed).
@@ -64,7 +64,7 @@
 - **CS50x 💻**
     - **Activity:** Pset 1 (Triangle) - 50% Complete.
     - **Next:** Finishing remaining logic on Saturday.
-    - **Notes:** [click here](../../Benchmarks/02-CS50x/01-Logs/04_January_29th_2026_Thursday.md)
+    - **Notes:** [click here](../../Benchmarks/02-CS50x/01-Logs/01-January-2026/04_January_29th_2026_Thursday.md)
 
 - **Reading & Research 📚**
     - **Deep Work:** Pages 61-70 (Completed).
@@ -113,7 +113,7 @@
     - **Analysis:** the band score has been stabilized so far. 
 
 - **CS50x 💻**
-    - **Topic:** problem set 1 Solved find details [here](../../Benchmarks/02-CS50x/01-Logs/06_January_31th_2026_Saturday.md).
+    - **Topic:** problem set 1 Solved find details [here](../../Benchmarks/02-CS50x/01-Logs/01-January-2026/06_January_31th_2026_Saturday.md).
     - **Notes:** The task was manageable, but documenting it was challenging due to the complexity and the amount of detail involved. Comments were added to improve clarity and readability.
 
 - **Reading & Research 📚**
