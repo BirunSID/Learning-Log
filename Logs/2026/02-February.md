@@ -27,8 +27,8 @@
 
 ### 🚀 Engineering & Skills Log
 - **German 🇩🇪**
-    - **Focus:**   
-    - **Progress:** 
+    - **Focus:**  Did the Das ist Nico lesson and a  bit of Duolingo but my heart ran out.
+    - **Progress:** Not much today.
     - **Detailed Notes:** find them [here](../../Benchmarks/03-Learning-German(Deutsch)/2026/02-February.md#2026-02-02)
 
 - **IELTS 🇬🇧**
@@ -44,3 +44,29 @@
     - Psychology of money : Read page 121-130, find them here.(redacted)
     - Deep work : Read page 101-110 . find them here.(redacted)
     - **Article/Paper:** NA
+
+---
+
+# 📅 Tuesday ,  February 3rd: 
+
+### 🚀 Engineering & Skills Log
+- **German 🇩🇪**
+    - **Focus:** 
+    - **Progress:**
+    - **Detailed Notes:**
+
+- **IELTS 🇬🇧**
+    - **Activity:**
+    - **Result:**
+    - **Analysis:**
+  
+- **CS50x 💻**
+    - **Topic:**
+    - **Notes:**
+
+- **Reading & Research 📚**
+    - Psychology of money :
+    - Deep work :
+    - **Article/Paper:** NA
+
+---
