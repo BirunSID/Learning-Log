@@ -22,3 +22,25 @@
     - **Article/Paper:** NA
 
 ---
+
+# 📅 Monday ,  February 2nd : 
+
+### 🚀 Engineering & Skills Log
+- **German 🇩🇪**
+    - **Focus:**   
+    - **Progress:** 
+    - **Detailed Notes:** find them [here](../../Benchmarks/03-Learning-German(Deutsch)/2026/02-February.md#2026-02-02)
+
+- **IELTS 🇬🇧**
+    - **Activity:** Did the worst yet cambridge test which gave a band 7.5 only .
+    - **Result:** find details [here](../../Benchmarks/01-IELTS-Tests/READING/02-Cambridge-book-Test/test-3.md).
+    - **Analysis:** Passage 3 was very difficult and couldn't anticipate such. 
+  
+- **CS50x 💻**
+    - **Topic:** solved the digit summing problem and how to solve digit summing when in the case of skipping one.
+    - **Notes:** find them [here](../../Benchmarks/02-CS50x/01-Logs/02-February-2026/02_February_2nd_2026_Monday.md)
+
+- **Reading & Research 📚**
+    - Psychology of money : Read page 121-130, find them here.(redacted)
+    - Deep work : Read page 101-110 . find them here.(redacted)
+    - **Article/Paper:** NA

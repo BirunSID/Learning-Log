@@ -1,12 +1,23 @@
-# Daily Log: January 2026
+# Daily Log: February 2026
 
-## Jan 27, 2026
-- **IELTS:** Completed 2 Listening Mocks. Analyzed Part 4 errors.
-- **CS50x:** Finished Week 1 Lecture. Started 'Mario' problem set.
-- **German:** Learned 20 new verbs. Practiced Nicos Weg A1 (Lesson 6).
-- **Reading:** 10 pages of *Deep Work*. 10 pages of *Psychology of Money*.
+# 📅 Monday ,  February 2nd : 
 
-## Jan 26, 2026
-- **IELTS:** Focused on Reading - True/False/Not Given questions.
-- **CS50x:** Setup local VS Code environment for C.
-- **German:** Duolingo streak maintained.
+### 🚀 Engineering & Skills Log
+- **German 🇩🇪**
+    - **Focus:**   Did the ccd lesson
+    - **Progress:** scored xx% 
+    - **Detailed Notes:** find them <span style="color:blue">here</span>.
+
+- **IELTS 🇬🇧**
+    - **Activity:** 
+    - **Result:** find them <span style="color:blue">here</span>.
+    - **Analysis:** 
+  
+- **CS50x 💻**
+    - **Topic:** 
+    - **Notes:** find them <span style="color:blue">here</span>.
+
+- **Reading & Research 📚**
+    - Psychology of money :find them <span style="color:blue">here</span>.
+    - Deep work : find them <span style="color:blue">here</span>.
+    - **Article/Paper:** NA
