@@ -1,6 +1,6 @@
 ### **IELTS Reading: Benchmark 03**
 
-**Score:** 30/40 | **Band:** 7.5 (regression ❌)  
+**Score:** 33/40 | **Band:** 7.5 (regression ❌)  
 **Source:** Cambridge 20 — Test 3 (Computer-Based)
 
 *   **The Breakdown:**

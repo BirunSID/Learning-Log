@@ -131,4 +131,57 @@ Ist der Käse heiß?
 <a id="2026-02-03"></a>  
 # 📅 Entry: 3rd February 2026
 
+### 📘 Source: Nicos Weg
 
+*No vocabulary recorded for this source today.*
+
+---
+
+### 📗 Source: Duolingo — Vocabulary
+
+| German | English | Notes / Context |
+|------|--------|----------------|
+| Das Mineralwasser | The mineral water | Beverage |
+| Das Ei | Egg | Food item |
+| Das Restaurant | The restaurant | Place |
+| Das Salz | The salt | Condiment |
+| Der Kellner | The waiter | Person / service staff |
+| Die Speisekarte | The menu | Restaurant context |
+| Entschuldigung | Excuse me | Polite expression |
+| Kalt | Cold | Adjective |
+
+---
+
+### 🧠 Logic / Grammar Notes
+
+> **Noun Capitalization Rule**
+- All German nouns are **always capitalized**, regardless of position in a sentence.
+- Articles (*der / die / das*) help identify gender and must match the noun.
+
+> **Definite Articles in Context**
+- *Das* → neutral nouns (Das Ei, Das Salz, Das Restaurant)
+- *Der* → masculine nouns (Der Kellner)
+- *Die* → feminine nouns (Die Speisekarte)
+
+> **Adjectives**
+- Adjectives like **kalt** do **not** get capitalized unless used as nouns.
+
+> **Fixed Expressions**
+- **Entschuldigung** functions as a standalone polite expression, commonly used to get attention or apologize.
+
+---
+
+### 📝 Output / Practice Sentences
+
+```text
+Hier ist ein Ei.
+Das Mineralwasser ist kalt.
+Der Kellner bringt die Speisekarte.
+Entschuldigung, das Salz bitte.
+```
+
+---
+
+
+<a id="2026-02-04"></a>  
+# 📅 Entry: 4th February 2026
