@@ -67,10 +67,30 @@
     - Psychology of money : Read page 131-140. (redaction message will be lifted from today onwards.)
     - Deep work : read page 111-120. (redaction message will be lifted from today onwards)
     - **Article/Paper:** NA
+---
 
+# 📅 Tuesday ,  February 3rd : 
 
+### 🚀 Engineering & Skills Log
+- **German 🇩🇪**
+    - **Focus:** 
+    - **Progress:** 
+    - **Detailed Notes:** Find it [here](../../Benchmarks/03-Learning-German(Deutsch)/2026/02-February.md#2026-02-04).
 
-
+- **IELTS 🇬🇧**
+    - **Activity:** youtube searching.
+    - **Result:** There will be no tests done today, only writing introduction.
+    - **Analysis:** We shall just see youtube for how writing is done.
+  
+- **CS50x 💻**
+    - **Topic:** 
+    - **Notes:** Find it [here](../../Benchmarks/02-CS50x/01-Logs/02-February-2026/04_February_4th_2026_Wednesday.md).
+  
+- **Reading & Research 📚**
+    - Psychology of money : Read page 141-150. 
+    - Deep work : read page 121-130. 
+    - **Article/Paper:** NA
+---
 
 
 
