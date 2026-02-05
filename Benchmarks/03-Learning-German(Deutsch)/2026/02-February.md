@@ -185,3 +185,44 @@ Entschuldigung, das Salz bitte.
 
 <a id="2026-02-04"></a>  
 # 📅 Entry: 4th February 2026
+
+---
+
+### 📘 Lesson
+- No specific lesson content recorded for this entry.
+
+---
+
+### 📘 Vocabulary — Nicos Weg
+- No vocabulary recorded from this source.
+
+---
+
+### 📗 Vocabulary — Duolingo
+
+| German        | English      | Notes/Context |
+|---------------|--------------|---------------|
+| das Essen     | the food     |               |
+| die Wurst     | the sausage  |               |
+| die Rechnung  | the check    |               |
+| das Schnitzel | schnitzel    |               |
+| zu            | too          | Adverb        |
+
+---
+
+### 🧠 Logic / Grammar Notes
+> No grammar or logic notes were recorded for this day.
+
+---
+
+### 📝 Output / Practice Notes
+- No structured output or reflections recorded.
+
+---
+
+### 📝 Practice Sentences
+
+---
+
+<a id="2026-02-05"></a>  
+# 📅 Entry: 5th February 2026

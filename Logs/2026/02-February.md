@@ -69,12 +69,12 @@
     - **Article/Paper:** NA
 ---
 
-# 📅 Tuesday ,  February 3rd : 
+# 📅 Wednesday ,  February 4th : 
 
 ### 🚀 Engineering & Skills Log
 - **German 🇩🇪**
-    - **Focus:** 
-    - **Progress:** 
+    - **Focus:** Not much , just one lesson of Duolingo. in vacation period. 
+    - **Progress:** just one lesson of Duolingo.
     - **Detailed Notes:** Find it [here](../../Benchmarks/03-Learning-German(Deutsch)/2026/02-February.md#2026-02-04).
 
 - **IELTS 🇬🇧**
@@ -83,7 +83,7 @@
     - **Analysis:** We shall just see youtube for how writing is done.
   
 - **CS50x 💻**
-    - **Topic:** 
+    - **Topic:** There was no coding today either. other important works came up.
     - **Notes:** Find it [here](../../Benchmarks/02-CS50x/01-Logs/02-February-2026/04_February_4th_2026_Wednesday.md).
   
 - **Reading & Research 📚**
