@@ -92,6 +92,30 @@
     - **Article/Paper:** NA
 ---
 
+# 📅 Thursday ,  February 5t : 
+
+### 🚀 Engineering & Skills Log
+- **German 🇩🇪**
+    - **Focus:**  
+    - **Progress:** 
+    - **Detailed Notes:** Find it [here](02-February.md#2026-02-05)
+
+- **IELTS 🇬🇧**
+    - **Activity:** Goal is to watch youtube for writing.
+    - **Result:** 
+    - **Analysis:** 
+
+- **CS50x 💻**
+    - **Topic:** Today we shall finish problem set 2!! We made great progress today. we are almost there.
+    - **Notes:** Find it [here](../../Benchmarks/02-CS50x/01-Logs/02-February-2026/05_February_5th_2026_Thursday.md).
+
+- **Reading & Research 📚**
+    - Psychology of money : read page 151-160.
+    - Deep work : read page 131-140.
+    - **Article/Paper:** NA
+
+---
+
 
 
 
