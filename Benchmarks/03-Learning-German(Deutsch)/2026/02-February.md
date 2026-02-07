@@ -226,3 +226,21 @@ Entschuldigung, das Salz bitte.
 
 <a id="2026-02-05"></a>  
 # 📅 Entry: 5th February 2026
+VACATION BEGAN
+
+---
+
+<a id="2026-02-06"></a>  
+# 📅 Entry: 6th February 2026
+VACATION DAY
+
+---
+
+<a id="2026-02-07"></a>  
+# 📅 Entry: 7th February 2026
+VACATION BEGAN
+
+---
+
+<a id="2026-02-08"></a>  
+# 📅 Entry: 8th February 2026

@@ -92,16 +92,16 @@
     - **Article/Paper:** NA
 ---
 
-# 📅 Thursday ,  February 5t : 
+# 📅 Thursday ,  February 5th : 
 
 ### 🚀 Engineering & Skills Log
 - **German 🇩🇪**
-    - **Focus:**  
+    - **Focus:**  no activity due to vacation.
     - **Progress:** 
-    - **Detailed Notes:** Find it [here](02-February.md#2026-02-05)
+    - **Detailed Notes:**
 
 - **IELTS 🇬🇧**
-    - **Activity:** Goal is to watch youtube for writing.
+    - **Activity:** no activity due to vacation.
     - **Result:** 
     - **Analysis:** 
 
@@ -110,17 +110,47 @@
     - **Notes:** Find it [here](../../Benchmarks/02-CS50x/01-Logs/02-February-2026/05_February_5th_2026_Thursday.md).
 
 - **Reading & Research 📚**
-    - Psychology of money : read page 151-160.
+    - Psychology of money : read page none.
     - Deep work : read page 131-140.
     - **Article/Paper:** NA
 
 ---
 
+# 📅 Friday ,  February 6th : 
 
+VACATION DAY.
 
+---
 
+# 📅 Saturday ,  February 7th : 
 
+VACATION ENDS.
 
+---
+
+# 📅 Sunday ,  February 8th : 
+
+### 🚀 Engineering & Skills Log
+- **German 🇩🇪**
+    - **Focus:**  
+    - **Progress:**  
+    - **Detailed Notes:** [CLICK HERE](../../Benchmarks/03-Learning-German(Deutsch)/2026/02-February.md#2026-02-08)
+
+- **IELTS 🇬🇧**
+    - **Activity:** 
+    - **Result:** 
+    - **Analysis:**
+
+- **CS50x 💻**
+    - **Topic:** 
+    - **Notes:** [CLICK HERE](../../Benchmarks/02-CS50x/01-Logs/02-February-2026/08_February_8th_2026_Sunday.md)
+
+- **Reading & Research 📚**
+    - Psychology of money : Read page 151-160
+    - Deep work : Read page 141-150 
+    - **Article/Paper:** NA
+
+---
 
 
 
