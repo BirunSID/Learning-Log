@@ -5,12 +5,14 @@
 int main(void)
 {
     long long card_number = get_long_long("Input card number: "); // get_long automatically filters out anything else and makes sure we get a number only
-    long long a=card_number,d=card_number;
+    long long a=card_number,d=card_number;  // we give the card number to different variables to later not mix things up.
     long long sum=0,card_length=0;
+
+
    // every iteration cuts one digit , takes the next and then drops both.
     while(a>0)
     {
-        long long digit_untaken=a%10;
+        long long digit_untaken=a%10;      // we sum up the digit starting with the last one and skipping one and then so on and forth.
         sum+=digit_untaken;
 
         a=a/10;                                  // cuts off last digit
@@ -24,12 +26,24 @@ int main(void)
         }
         a=a/10;                                  // remove the summed digit(remainder_taken) and moves on.
     }
-    printf("%li\n",sum);
 
-    while(d>0)
+    
+      while(d>0)
+      {
+          card_length+=1 ;      // This section gets the card length 
+          d/=10;                // It counts the card number by counting from 0 everytime it cuts a digit off.
+      }
+
+
+    float last_digit=sum%10; 
+    if(last_digit==0 && (card_length==13 || card_length==15 || card_length==16))   // comparing conditions to validate credit card.
     {
-        card_length+=1 ;
-        d/=10;
+        printf("valid");
     }
-    printf("%lld",card_length);
+    else
+    {
+        printf("invalid");
+    }
+
+
 }
