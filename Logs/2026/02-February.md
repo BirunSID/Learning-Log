@@ -161,7 +161,7 @@ VACATION ENDS.
 
 - **IELTS 🇬🇧**
     - **Activity:** NO activity due to undiscloseable reasons.
-    - **Result:** 
+    - **Result:**
     - **Analysis:** 
 
 - **CS50x 💻**
@@ -203,8 +203,8 @@ A day full of stress and pressure, but did the ielts writing test somehow.
 
 ### 🚀 Engineering & Skills Log
 - **German 🇩🇪**
-    - **Focus:**  
-    - **Progress:**  
+    - **Focus:**  Not much progress was done today, just a lesson in duolingo to fire up the learn engine.
+    - **Progress:**  just one lesson in duolingo. nothing new learn. except sandwich. but that wont be logged, we will start nicos weg.
     - **Detailed Notes:**[click here](../../Benchmarks/03-Learning-German(Deutsch)/2026/02-February.md#2026-02-11)
 
 - **IELTS 🇬🇧**
@@ -213,7 +213,7 @@ A day full of stress and pressure, but did the ielts writing test somehow.
     - **Analysis:** [click here for the bar graph](<../../Benchmarks/01-IELTS-Tests/WRITING/01_IELTS_PRACTICE_SITE/01 Jan 2 , 2025 (Dynamic bar charts).md>) & [click here for the line graph](<../../Benchmarks/01-IELTS-Tests/WRITING/01_IELTS_PRACTICE_SITE/02 APR 1 , 2025 (static Line graph).md>)
 
 - **CS50x 💻**
-    - **Topic:** 
+    - **Topic:** tidied up the validation part, but now the only thing part left is the card's first digits to validate specific card.
     - **Notes:** [click here](../../Benchmarks/02-CS50x/01-Logs/02-February-2026/11_February_11th_2026_Wednesday.md).
 
 - **Reading & Research 📚**

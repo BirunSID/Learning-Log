@@ -60,7 +60,7 @@ submit50 cs50/problems/2026/x/credit
 - [x] prompt for input.
 - [x] Do the programming of the checksum validation.
 - [x] credit card length figure out math and programme
-- [ ] credit card length validation.
+- [x] credit card length validation.
 - [ ] credit card starting digit validation.
 - [ ] print output programming. (AMEX, VISA, MASTERCARD, INVALID)
 
