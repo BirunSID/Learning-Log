@@ -238,9 +238,24 @@ VACATION DAY
 
 <a id="2026-02-07"></a>  
 # 📅 Entry: 7th February 2026
-VACATION BEGAN
+VACATION ENDS
 
 ---
 
 <a id="2026-02-08"></a>  
 # 📅 Entry: 8th February 2026
+
+---
+
+<a id="2026-02-09"></a>  
+# 📅 Entry: 9th February 2026
+
+---
+
+<a id="2026-02-10"></a>  
+# 📅 Entry: 10th February 2026
+
+---
+
+<a id="2026-02-11"></a>  
+# 📅 Entry: 11th February 2026

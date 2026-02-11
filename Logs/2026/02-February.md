@@ -132,25 +132,96 @@ VACATION ENDS.
 
 ### 🚀 Engineering & Skills Log
 - **German 🇩🇪**
-    - **Focus:**  
+    - **Focus:**  No task due to extreme stress.
     - **Progress:**  
     - **Detailed Notes:** [CLICK HERE](../../Benchmarks/03-Learning-German(Deutsch)/2026/02-February.md#2026-02-08)
 
 - **IELTS 🇬🇧**
-    - **Activity:** 
+    - **Activity:** No task due to extreme stress.
     - **Result:** 
     - **Analysis:**
 
 - **CS50x 💻**
-    - **Topic:** 
+    - **Topic:** No task due to extreme stress.
     - **Notes:** [CLICK HERE](../../Benchmarks/02-CS50x/01-Logs/02-February-2026/08_February_8th_2026_Sunday.md)
 
 - **Reading & Research 📚**
     - Psychology of money : Read page 151-160
     - Deep work : Read page 141-150 
     - **Article/Paper:** NA
-
 ---
+
+# 📅 Monday, February 9th
+
+### 🚀 Engineering & Skills Log
+- **German 🇩🇪**
+    - **Focus:**  
+    - **Progress:**  
+    - **Detailed Notes:** [Click here](../../Benchmarks/03-Learning-German(Deutsch)/2026/02-February.md#2026-02-09)
+
+- **IELTS 🇬🇧**
+    - **Activity:** NO activity due to undiscloseable reasons.
+    - **Result:** 
+    - **Analysis:** 
+
+- **CS50x 💻**
+    - **Topic:** 
+    - **Notes:** [Click here](../../Benchmarks/02-CS50x/01-Logs/02-February-2026/09_February_9th_2026_Monday.md)
+
+- **Reading & Research 📚**
+    - **Psychology of money** : Read page 151-160
+    - **Deep work** : Read page 141-150 
+    - **Article/Paper:** NA 
+---
+
+# 📅 Tuesday, February 10th
+
+A day full of stress and pressure, but did the ielts writing test somehow.
+
+### 🚀 Engineering & Skills Log
+- **German 🇩🇪**
+    - **Focus:**  
+    - **Progress:**  
+    - **Detailed Notes:**
+
+- **IELTS 🇬🇧**
+    - **Activity:** writing part video seen.
+    - **Result:** 
+    - **Analysis:** 
+
+- **CS50x 💻**
+    - **Topic:** 
+    - **Notes:** 
+
+- **Reading & Research 📚**
+    - **Psychology of money** : Read page 161-170. (done)
+    - **Deep work** : Read page 151-155. (Book done)
+    - **Article/Paper:** NA 
+---
+
+# 📅 Tuesday, February 11th
+
+### 🚀 Engineering & Skills Log
+- **German 🇩🇪**
+    - **Focus:**  
+    - **Progress:**  
+    - **Detailed Notes:**[click here](../../Benchmarks/03-Learning-German(Deutsch)/2026/02-February.md#2026-02-11)
+
+- **IELTS 🇬🇧**
+    - **Activity:** Completed a dynamic bar & a line graph. Later, fixed my shortcomings and improved to band 7.5 in both graph types.
+    - **Result:** Bar chart and line graph complete.
+    - **Analysis:** [click here for the bar graph](<../../Benchmarks/01-IELTS-Tests/WRITING/01_IELTS_PRACTICE_SITE/01 Jan 2 , 2025 (Dynamic bar charts).md>) & [click here for the line graph](<../../Benchmarks/01-IELTS-Tests/WRITING/01_IELTS_PRACTICE_SITE/02 APR 1 , 2025 (static Line graph).md>)
+
+- **CS50x 💻**
+    - **Topic:** 
+    - **Notes:** [click here](../../Benchmarks/02-CS50x/01-Logs/02-February-2026/11_February_11th_2026_Wednesday.md).
+
+- **Reading & Research 📚**
+    - **Psychology of money** : Read page 171-180.(done)
+    - **Can't hurt me** : Read page 1-10.(done)
+    - **Article/Paper:** NA 
+---
+
 
 
 
