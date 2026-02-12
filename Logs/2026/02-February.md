@@ -220,7 +220,34 @@ A day full of stress and pressure, but did the ielts writing test somehow.
     - **Psychology of money** : Read page 171-180.(done)
     - **Can't hurt me** : Read page 1-10.(done)
     - **Article/Paper:** NA 
+
 ---
+
+# 📅 Thursday, February 12th
+
+### 🚀 Engineering & Skills Log
+- **German 🇩🇪**
+    - **Focus:**  Mainly did "Das ist Nico"
+    - **Progress:** Learnt some more complex Vocabulary.
+    - **Detailed Notes:** [Find it here](../../Benchmarks/03-Learning-German(Deutsch)/2026/02-February.md#2026-02-12)
+
+- **IELTS 🇬🇧**
+    - **Activity:** Acted on two types of graphs: combinational and pure pie.
+    - **Result:** I can perfect my lexical resources via word dump practice.
+    - **Analysis:** Check [combination](<../../Benchmarks/01-IELTS-Tests/WRITING/01_IELTS_PRACTICE_SITE/03 Feb 2 , 2025 (mixed combination)>) and [pure pie](<../../Benchmarks/01-IELTS-Tests/WRITING/01_IELTS_PRACTICE_SITE/03 May 1 , 2025 (pie graph).md>)
+
+- **CS50x 💻**
+    - **Topic:** 
+    - **Notes:** [find it here.](../../Benchmarks/02-CS50x/01-Logs/02-February-2026/12_February_12th_2026_Thursday.md)
+
+- **Reading & Research 📚**
+    - **Psychology of money** : Read page 181-190. (done)
+    - **Can't hurt me** : Read page 11-20. (done)
+    - **Article/Paper:** NA
+
+---
+
+
 
 
 

@@ -1,3 +1,8 @@
 {
-    "C_Cpp.errorSquiggles": "enabled"
+    "C_Cpp.errorSquiggles": "enabled",
+    "editor.fontFamily": "JetBrains Mono, Consolas, monospace",
+    "editor.fontLigatures": true,
+    "editor.lineHeight": 24,
+    "editor.fontSize": 18,
+    "markdown.preview.fontFamily": "'New York', serif"
 }

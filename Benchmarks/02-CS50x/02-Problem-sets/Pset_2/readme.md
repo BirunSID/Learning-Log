@@ -111,3 +111,17 @@ Now if we take the number that we got as product and divide it again by 10, we c
 7. Now, We have to verify the checksum. So, the credit card is only valid if the last digit of the checksum is `0`, so if the checksum final answer is `30`, the last digit that we get from `30` is `0`, so the card is valid. but if the checksum was something else, suppose , `29`. the last digit wouldn't be `0`, thus the card is invalid or fraud. To get this we use the `%10` on the checksum
 
 8. Now, if we wish to verify the card length alongside the checksum, we use `if else` and logical operator `||` and `&&` to compare and get an output of `true` or `false`.
+
+9. We need the first `1` or `2` digits of the card. So, to extract the first 2 digits, we need to know how we even remove the rest and extract digits normally in the first place. So, we use `/10` to cut down 1 digit starting from the last. so what if we use `100` ? IT now cuts 2 digits off. what about `1000` ? it cuts of 3 digits. Notice how `100` is just `10^2` and `1000` is just `10^3`, notice how the power is a representative of the digit number, so we can safely say that we can slash of `x` amount of digit simply with `10^x` and so if we want `12` from `123456789`. we first figure out the length, which is ofc, 9. Then, if we want the first 2 digits, we divide it by `10^(9-2)` or `10^7` cause we want 7 digits out. that's the general formula.
+
+10. Now, we need to create a structure to efficiently validate `starting digit` AND `checksum` AND `car length` , all 3 variables!!
+
+11. first 2 digit is required for amex and mastercard and then first 1 digit for visa, so we need to make 2 functions to remove the other digits, so, we first work on 2 digits, we create a variable and then we put it in a loop to strip away a digit by dividing with 10 everytime for a total (total digit minus 2) times. so the loop goes on till 2 digits remain, when doing so, we need to declare a new variable and minus 2 from the card_length. and thus voila! we got first 2 digit, now to get first 1 digit, we simply minus 1 from card length. DONE! IN doing this in case of the loop, we minus 1 from the already 2 or 1 minused variable!!!! and it should be in a while loop.
+
+12. next, we set up a checksum validation first, with if checksum true, then move on to the other parts, and if false then invalid.
+
+13. now if the checksum is true , they move onto judging amex visa and master card which is the easy part, we put up a series of if else if else chain to verify first 2 digit and first 1 digit, and thus done, but there is an issue
+
+14. we need to verify the card length too as said in the question, so we put up && logic and put it up in bracket.
+
+15. now the code is done! CONGRATULATIONS TO ME!

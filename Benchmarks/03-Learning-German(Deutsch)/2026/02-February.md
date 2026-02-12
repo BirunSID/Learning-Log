@@ -259,3 +259,101 @@ VACATION ENDS
 
 <a id="2026-02-11"></a>  
 # 📅 Entry: 11th February 2026
+
+---
+
+<a id="2026-02-12"></a>  
+# 📅 Entry: 12th February 2026
+
+### 📘 Lesson
+- **das ist nico**
+
+---
+
+### 📘 Vocabulary — Nicos Weg
+
+| German                                   | English                                      | Notes/Context |
+|-------------------------------------------|----------------------------------------------|---------------|
+| Er ist Taxifahrer von Beruf              | He is a taxi driver by profession            |               |
+| Er kommt aus Deutschland und er spricht Deutsch und Englisch | He comes from Germany and he speaks German and English |               |
+| Sein Hobby ist Fußball                   | His hobby is football                        |               |
+| die Sprache / die Sprachen               | language / languages                         | Plural noted  |
+| Nico macht einen Sprachkurs              | Nico is taking a language course             |               |
+
+---
+
+### 📗 Vocabulary — Duolingo
+
+| German                                   | English                                      | Notes/Context |
+|-------------------------------------------|----------------------------------------------|---------------|
+| der Arzt                                 | the doctor                                   |               |
+| ist im Supermarkt                        | is at the supermarket                        | Location phrase |
+| eine elegante Frau kommt zu Eddy         | an elegant woman comes to Eddy               |               |
+| Sind Sie Arzt?                           | Are you a doctor?                            | Formal “Sie”  |
+| Was?                                     | What?                                        |               |
+| Ich bin Arzt                             | I am a doctor                                | No article after “sein” (profession) |
+| Ich bin sehr reich                       | I am very rich                               |               |
+| das Haus                                 | house                                        |               |
+| das Hemd                                 | shirt                                        |               |
+| teuer                                    | expensive                                    | Adjective     |
+| aber                                     | but                                          | Conjunction   |
+| braucht                                  | needs                                        | Verb (3rd person singular) |
+| jetzt                                    | now                                          | Adverb        |
+| da drüben                                | over there                                   | Location adverb |
+| schnell                                  | quick / quickly                              | Adj./Adv.     |
+| krank                                    | sick                                         | Adjective     |
+| Eddy sieht eine Frau                     | Eddy sees a woman                            | Accusative “eine” |
+| Er läuft zu ihr                          | He runs to her                               | “zu” + Dative |
+| Sind Sie Ärztin?                         | Are you a female doctor?                     | Feminine form |
+| Ich brauche Hilfe                        | I need help                                  | Accusative object |
+| der Computerkurs                         | computer course                              |               |
+| Wer ist das?                             | Who is that?                                 |               |
+| Woher kommt Nico?                        | Where does Nico come from?                   | Question word “woher” |
+| Welche Sprachen spricht er?              | Which languages does he speak?               | Plural “Sprachen” |
+| Welche Sprache lernt er?                 | Which language is he learning?               |               |
+| Welche Hobbys hat er?                    | What hobbies does he have?                   | Plural “Hobbys” |
+
+---
+
+### 🧠 Logic / Grammar Notes
+
+> Key Foundational Patterns Observed:
+
+- **Profession Rule**: After *sein* (to be), professions appear **without an article**.  
+  - Correct: *Ich bin Arzt.*  
+  - Not: *Ich bin ein Arzt.* (unless emphasizing one among many)
+
+- **Formal vs Informal “You”**:
+  - *Sind Sie Arzt?* → Formal
+  - *Bist du Arzt?* → Informal
+
+- **Feminine Profession Formation**:
+  - *Arzt* → *Ärztin*
+
+- **Accusative Object Indicator**:
+  - *Eddy sieht eine Frau.*  
+    “eine” marks feminine accusative.
+
+- **Preposition Rule**:
+  - *zu* requires **Dative case**  
+    - *Er läuft zu ihr.*
+
+- **Word Order in Questions**:
+  - Question word + Verb + Subject  
+    - *Woher kommt Nico?*  
+    - *Welche Sprache lernt er?*
+
+---
+
+### 📝 Output / Practice Notes
+- Core identity and introduction structures practiced.
+- Question formation patterns reinforced.
+- Early exposure to case usage (Accusative & Dative).
+
+---
+
+### 📝 Practice Sentences
+
+```text
+
+```

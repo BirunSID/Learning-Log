@@ -5,7 +5,7 @@
 int main(void)
 {
     long long card_number = get_long_long("Input card number: "); // get_long automatically filters out anything else and makes sure we get a number only
-    long long a=card_number,d=card_number;  // we give the card number to different variables to later not mix things up.
+    long long a=card_number,d=card_number,n=card_number,s=card_number;  // we give the card number to different variables to later not mix things up.
     long long sum=0,card_length=0;
 
 
@@ -34,16 +34,46 @@ int main(void)
           d/=10;                // It counts the card number by counting from 0 everytime it cuts a digit off.
       }
 
+      long long m=card_length,v=card_length;
 
-    float last_digit=sum%10; 
-    if(last_digit==0 && (card_length==13 || card_length==15 || card_length==16))   // comparing conditions to validate credit card.
-    {
-        printf("valid");
-    }
-    else
-    {
-        printf("invalid");
-    }
+      m=m-2; // for amex and mastercard
+      v=v-1; // for visa only
 
+      while(m>0)
+      {
+        n=n/10;  // first 2 digit of amex and masterc
+        m--;
+      }
+      while(v>0)
+      {
+        s=s/10;  // first 1 digit of visa
+        v--;
+      }
+
+
+      long long checksum_last_digit=sum%10; 
+      if(checksum_last_digit==0)   // comparing conditions to validate credit card.
+      {
+        if(card_length==15 && (n==34 || n==37))
+         {
+           printf("AMEX");
+         }
+         else if(card_length==16 && (n>=51 && n<=55))
+         {
+           printf("MASTERCARD");
+         }
+         else if((card_length==13 || card_length==16) && s==4)
+         {
+           printf("VISA");
+         }
+         else 
+         { 
+            printf("invalid");
+         }
+      }
+      else
+      {
+          printf("invalid");
+      }
 
 }
