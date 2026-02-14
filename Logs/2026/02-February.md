@@ -247,17 +247,51 @@ A day full of stress and pressure, but did the ielts writing test somehow.
 
 ---
 
+# 📅 Friday, February 13th
 
+### 🚀 Engineering & Skills Log
+- **German 🇩🇪**
+    - **Focus:**  Friday, so , just did one lesson in duolingo.
+    - **Progress:**  
+    - **Detailed Notes:** [click here.](../../Benchmarks/03-Learning-German(Deutsch)/2026/02-February.md#2026-02-13)
 
+- **IELTS 🇬🇧**
+    - **Activity:** Friday, so there weren't any actions done.
+    - **Result:** 
+    - **Analysis:** 
 
+- **CS50x 💻**
+    - **Topic:** Today , we shall rest and tomorrow, we shall begin week 2.
+    - **Notes:** [Click here](../../Benchmarks/02-CS50x/01-Logs/02-February-2026/13_February_13th_2026_Friday.md)
 
+- **Reading & Research 📚**
+    - **Psychology of money** : Read page 191-200. (done)
+    - **Can't hurt me** : Read page 21-30 (done)
+    - **Article/Paper:** NA
 
+---
 
+# 📅 Saturday, February 14th
 
+### 🚀 Engineering & Skills Log
+- **German 🇩🇪**
+    - **Focus:** 
+    - **Progress:**  
+    - **Detailed Notes:** [click here](../../Benchmarks/03-Learning-German(Deutsch)/2026/02-February.md#2026-02-14)
 
+- **IELTS 🇬🇧**
+    - **Activity:** Completed only map type task 1. pinpointed main area of interest.
+    - **Result:** My main issue is subject verb agreement, i need to get this fixed. FAST
+    - **Analysis:** [click here for the map diagram](<../../Benchmarks/01-IELTS-Tests/WRITING/01_IELTS_PRACTICE_SITE/04 March 1 , 2025 (Map diagram).md>).
 
+- **CS50x 💻**
+    - **Topic:** 
+    - **Notes:** [find them here](../../Benchmarks/02-CS50x/01-Logs/02-February-2026/14_February_14th_2026_Saturday.md).
 
+- **Reading & Research 📚**
+    - **Psychology of money** : Read page 201-214. (finished book)
+    - **Can't hurt me** : Read page 31-40 (done)
+    - **Article/Paper:** NA
 
-
-
+---
 

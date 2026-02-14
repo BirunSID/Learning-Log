@@ -357,3 +357,14 @@ VACATION ENDS
 ```text
 
 ```
+---
+
+<a id="2026-02-13"></a>  
+# 📅 Entry: 13th February 2026
+
+No exercise was done today as it was a weekend.
+
+---
+
+<a id="2026-02-14"></a>  
+# 📅 Entry: 14th February 2026
