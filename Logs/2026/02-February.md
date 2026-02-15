@@ -275,8 +275,8 @@ A day full of stress and pressure, but did the ielts writing test somehow.
 
 ### 🚀 Engineering & Skills Log
 - **German 🇩🇪**
-    - **Focus:** 
-    - **Progress:**  
+    - **Focus:**  I finished the "das ist Nico" lesson and scored 86%.
+    - **Progress:**  Now, i have some general ideas on German naming conventions. 
     - **Detailed Notes:** [click here](../../Benchmarks/03-Learning-German(Deutsch)/2026/02-February.md#2026-02-14)
 
 - **IELTS 🇬🇧**
@@ -285,12 +285,36 @@ A day full of stress and pressure, but did the ielts writing test somehow.
     - **Analysis:** [click here for the map diagram](<../../Benchmarks/01-IELTS-Tests/WRITING/01_IELTS_PRACTICE_SITE/04 March 1 , 2025 (Map diagram).md>).
 
 - **CS50x 💻**
-    - **Topic:** 
+    - **Topic:** Could not do much, only 10 minutes in.
     - **Notes:** [find them here](../../Benchmarks/02-CS50x/01-Logs/02-February-2026/14_February_14th_2026_Saturday.md).
 
 - **Reading & Research 📚**
     - **Psychology of money** : Read page 201-214. (finished book)
     - **Can't hurt me** : Read page 31-40 (done)
+    - **Article/Paper:** NA
+
+---
+
+# 📅 Sunday, February 15th
+
+### 🚀 Engineering & Skills Log
+- **German 🇩🇪**
+    - **Focus:**  
+    - **Progress:**  
+    - **Detailed Notes:** [click here](../../Benchmarks/03-Learning-German(Deutsch)/2026/02-February.md#2026-02-15)
+
+- **IELTS 🇬🇧**
+    - **Activity:** Did static bar and took all the previous improvements and used them against this one.
+    - **Result:**  Scored 8.00 . So, there was no need for a 2nd trial.
+    - **Analysis:** [click here.](<../../Benchmarks/01-IELTS-Tests/WRITING/01_IELTS_PRACTICE_SITE/05 June 1 , 2025 (Static bar).md>)
+
+- **CS50x 💻**
+    - **Topic:** Learned a very helpful implementable concept and did till 30 minutes into the lecture. 
+    - **Notes:** [click here.](../../Benchmarks/02-CS50x/01-Logs/02-February-2026/15_February_15th_2026_Sunday.md)
+
+- **Reading & Research 📚**
+    - **The Almanack of Naval Ravikant** : Read page 1-10. (done)
+    - **Can't hurt me** : Read page 41-50. (done)
     - **Article/Paper:** NA
 
 ---

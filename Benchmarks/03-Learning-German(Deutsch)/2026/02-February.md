@@ -368,3 +368,109 @@ No exercise was done today as it was a weekend.
 
 <a id="2026-02-14"></a>  
 # 📅 Entry: 14th February 2026
+
+<<<[[13th Friday]] || [[15th-Sunday]]>>>
+
+## 📅 Entry: Saturday, 14th February
+
+### 📘 Lesson
+- *Das ist Nico*
+
+---
+
+### 📘 Vocabulary — Nicos Weg
+
+| German           | English                  | Notes/Context          |
+| ---------------- | ------------------------ | ---------------------- |
+| das Beispiel     | example                  |                        |
+| er               | he                       | Pronoun                |
+| der Familienname | last name / surname      | Noun                   |
+| jemandem helfen  | to help someone          | Dative object required |
+| keine Ahnung     | no idea                  | Fixed expression       |
+| der Kurs         | course                   |                        |
+| etwas lernen     | to learn something       | Verb phrase            |
+| sie              | she                      | Pronoun                |
+| die Sprache      | language                 |                        |
+| der Taxifahrer   | the taxi driver (male)   |                        |
+| die Taxifahrerin | the taxi driver (female) | Feminine form          |
+| der Vorname      | first name               |                        |
+| woher            | where                    | Question word          |
+
+---
+
+### 📗 Vocabulary — Duolingo
+
+| German | English | Notes/Context |
+| ------ | ------- | ------------- |
+|        |         |               |
+
+---
+
+### 🧠 Logic / Grammar Notes
+
+> German naming conventions are just like any other nations out there. its simple really. no biggie.
+
+---
+
+### 📝 Output / Practice Notes
+- We learned some basic vocab. And we need to pause for a few days and repeat the notes we did till now.
+---
+
+### 📝 Practice Sentences
+
+```text
+der taxifahrer ist klug und groß.
+
+```
+
+<a id="2026-02-15"></a>  
+# 📅 Entry: Sunday, 15th February
+
+---
+### 📘 Lesson
+- woher kommst du?
+
+---
+
+### 📘 Vocabulary — Nicos Weg
+
+| German                      | English                           | Notes/Context                                         |
+| --------------------------- | --------------------------------- | ----------------------------------------------------- |
+| woher kommst du ?           | where do you come from?           | Asking about one's origins                            |
+| ich komme bangladesch       | I come from Bangladesh            | answering questions on origin                         |
+| wo wohnst du in Bangladesch | Where do you live in Bangladesh ? | asking where one lives in Bangladesh.                 |
+| ist wohne in Chittagong     | I live in Chittagong              | stating your residency location in country of origin. |
+|                             |                                   |                                                       |
+
+
+---
+
+### 📗 Vocabulary — Duolingo
+
+No new words learned today.
+
+| German | English | Notes/Context |
+| ------ | ------- | ------------- |
+|        |         |               |
+
+---
+
+### 🧠 Logic / Grammar Notes
+
+> 
+
+---
+
+### 📝 Output / Practice Notes
+- 
+- 
+
+---
+
+### 📝 Practice Sentences
+
+```text
+````
+
+<a id="2026-02-16"></a>  
+# 📅 Entry: Sunday, 16th February
