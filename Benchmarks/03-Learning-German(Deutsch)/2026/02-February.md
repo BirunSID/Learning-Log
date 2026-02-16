@@ -474,3 +474,5 @@ No new words learned today.
 
 <a id="2026-02-16"></a>  
 # 📅 Entry: Sunday, 16th February
+
+Only one lesson was done and the past ones reviewed, nothing new learnt.

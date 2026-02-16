@@ -319,3 +319,24 @@ A day full of stress and pressure, but did the ielts writing test somehow.
 
 ---
 
+# 📅 Sunday, February 15th
+
+### 🚀 Engineering & Skills Log
+- **German 🇩🇪**
+    - **Focus:**  Just did one duolingo lesson to keep up the streak and reviewed the past lessons.
+    - **Progress:**  recursion.
+    - **Detailed Notes:** [click here.](../../Benchmarks/03-Learning-German(Deutsch)/2026/02-February.md)
+
+- **IELTS 🇬🇧**
+    - **Activity:** Did the last remaining module process and transformation.
+    - **Result:** I have achieved a good score in writing task 1, now will focus in task 2 from tomorrow onewards.
+    - **Analysis:** [click here.](<../../Benchmarks/01-IELTS-Tests/WRITING/01_IELTS_PRACTICE_SITE/06 March 2 , 2025 (Process, transformations).md>)
+
+- **CS50x 💻**
+    - **Topic:** 1 hour and 2 minutes in.
+    - **Notes:** [click here.](../../Benchmarks/02-CS50x/01-Logs/02-February-2026/16_February_16th_2026_Monday.md)
+
+- **Reading & Research 📚**
+    - **The Almanack of Naval Ravikant** : Read page 11-20. (done)
+    - **Can't hurt me** : Read page 51-60. (done)
+    - **Article/Paper:** NA
