@@ -471,8 +471,24 @@ No new words learned today.
 
 ```text
 ````
+---
 
 <a id="2026-02-16"></a>  
-# 📅 Entry: Sunday, 16th February
+# 📅 Entry: Monday, 16th February
 
 Only one lesson was done and the past ones reviewed, nothing new learnt.
+whole january german lessons reviewed.
+
+---
+
+<a id="2026-02-17"></a>  
+# 📅 Entry: Tuesday, 17th February
+
+Only one lesson was done and till february 12th reviewed.
+
+---
+
+<a id="2026-02-18"></a>  
+# 📅 Entry: Wednesday, 18th February
+
+Rest day declared, ramadan beginning, not even a single lesson for duolingo is to be done.

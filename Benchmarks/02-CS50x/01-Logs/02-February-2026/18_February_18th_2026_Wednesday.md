@@ -1,0 +1,1 @@
+Rest declared, Ramadan beginning.
