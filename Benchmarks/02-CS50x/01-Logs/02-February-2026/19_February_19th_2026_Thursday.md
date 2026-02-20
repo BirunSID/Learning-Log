@@ -1,0 +1,1 @@
+almost done with the shorts in cs50x today, just have the array and another miscellanous left.

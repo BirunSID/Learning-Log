@@ -492,3 +492,20 @@ Only one lesson was done and till february 12th reviewed.
 # 📅 Entry: Wednesday, 18th February
 
 Rest day declared, ramadan beginning, not even a single lesson for duolingo is to be done.
+
+---
+
+<a id="2026-02-19"></a>  
+# 📅 Entry: Thursday, 19th February
+
+one duolingo lesson done and rest of February reviewed.
+
+---
+
+<a id="2026-02-20"></a>  
+# 📅 Entry: Friday, 19th February
+
+Rest day today, Friday.
+
+---
+

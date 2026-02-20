@@ -389,6 +389,54 @@ A day full of stress and pressure, but did the ielts writing test somehow.
     - **Can't hurt me** : Read page 71-80. (done)
     - **Article/Paper:** NA
 
+---
 
+# 📅 Thursday, February 19th
+
+### 🚀 Engineering & Skills Log
+- **German 🇩🇪**
+    - **Focus:**  One duolingo lesson done and all other February lessons reviewed.
+    - **Progress:**  review done. From tomorrow on, we can progress more.
+    - **Detailed Notes:** [click here](../../Benchmarks/03-Learning-German(Deutsch)/2026/02-February.md#2026-02-19)
+
+- **IELTS 🇬🇧**
+    - **Activity:** did the 2nd type of task 2, discussion based weighed opinion. 
+    - **Result:** perfected to 8.5 through multiple refactoring.
+    - **Analysis:** [click here](<../../Benchmarks/01-IELTS-Tests/WRITING/01_IELTS_PRACTICE_SITE/task 2/02  January 1 , 2025 (DISCUSSION  basesd opinion).md>)
+
+- **CS50x 💻**
+    - **Topic:** Every short done, till array.
+    - **Notes:** [click here](../../Benchmarks/02-CS50x/01-Logs/02-February-2026/19_February_19th_2026_Thursday.md)
+
+- **Reading & Research 📚**
+    - **The Almanack of Naval Ravikant** : Read page 41-50. (done)
+    - **Can't hurt me** : Read page 81-90. (done)
+    - **Article/Paper:** NA
+
+---
+
+# 📅 Friday, February 20th
+
+### 🚀 Engineering & Skills Log
+- **German 🇩🇪**
+    - **Focus:**  Rest day Friday but just one duolingo lesson to do.
+    - **Progress:** NONE .
+    - **Detailed Notes:** [Click here](../../Benchmarks/03-Learning-German(Deutsch)/2026/02-February.md#2026-02-20)
+
+- **IELTS 🇬🇧**
+    - **Activity:** Rest day Friday
+    - **Result:** NONE
+    - **Analysis:** NONE
+
+- **CS50x 💻**
+    - **Topic:** Rest day Friday
+    - **Notes:** [click here](../../Benchmarks/02-CS50x/01-Logs/02-February-2026/20_February_20th_2026_Friday.md)
+
+- **Reading & Research 📚**
+    - **The Almanack of Naval Ravikant** : Read page 51-60. (done)
+    - **Can't hurt me** : Read page 91-100. (done)
+    - **Article/Paper:** NA
+
+---
 
 
