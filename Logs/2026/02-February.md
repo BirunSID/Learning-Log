@@ -210,7 +210,7 @@ A day full of stress and pressure, but did the ielts writing test somehow.
 - **IELTS 🇬🇧**
     - **Activity:** Completed a dynamic bar & a line graph. Later, fixed my shortcomings and improved to band 7.5 in both graph types.
     - **Result:** Bar chart and line graph complete.
-    - **Analysis:** [click here for the bar graph](<../../Benchmarks/01-IELTS-Tests/WRITING/01_IELTS_PRACTICE_SITE/task 1/01 Jan 2 , 2025 (Dynamic bar charts).md>) & [click here for the line graph](<../../Benchmarks/01-IELTS-Tests/WRITING/01_IELTS_PRACTICE_SITE/task 1/02 APR 1 , 2025 (static Line graph).md>)
+    - **Analysis:** [click here for the bar graph](<../../Benchmarks/01-IELTS-Tests/WRITING/01_IELTS_PRACTICE_SITE/task 1/01 Jan 2 , 2026 (Dynamic bar charts).md>) & [click here for the line graph](<../../Benchmarks/01-IELTS-Tests/WRITING/01_IELTS_PRACTICE_SITE/task 1/02 APR 1 , 2026 (static Line graph).md>)
 
 - **CS50x 💻**
     - **Topic:** tidied up the validation part, but now the only thing part left is the card's first digits to validate specific card.
@@ -234,7 +234,7 @@ A day full of stress and pressure, but did the ielts writing test somehow.
 - **IELTS 🇬🇧**
     - **Activity:** Acted on two types of graphs: combinational and pure pie.
     - **Result:** I can perfect my lexical resources via word dump practice.
-    - **Analysis:** Check [combination](<../../Benchmarks/01-IELTS-Tests/WRITING/01_IELTS_PRACTICE_SITE/task 1/03 Feb 2 , 2025 (mixed combination)>) and [pure pie](<../../Benchmarks/01-IELTS-Tests/WRITING/01_IELTS_PRACTICE_SITE/task 1/03 May 1 , 2025 (pie graph).md>)
+    - **Analysis:** Check [combination](<../../Benchmarks/01-IELTS-Tests/WRITING/01_IELTS_PRACTICE_SITE/task 1/03 Feb 2 , 2026 (mixed combination)>) and [pure pie](<../../Benchmarks/01-IELTS-Tests/WRITING/01_IELTS_PRACTICE_SITE/task 1/03 May 1 , 2026 (pie graph).md>)
 
 - **CS50x 💻**
     - **Topic:** 
@@ -282,7 +282,7 @@ A day full of stress and pressure, but did the ielts writing test somehow.
 - **IELTS 🇬🇧**
     - **Activity:** Completed only map type task 1. pinpointed main area of interest.
     - **Result:** My main issue is subject verb agreement, i need to get this fixed. FAST
-    - **Analysis:** [click here for the map diagram](<../../Benchmarks/01-IELTS-Tests/WRITING/01_IELTS_PRACTICE_SITE/task 1/04 March 1 , 2025 (Map diagram).md>).
+    - **Analysis:** [click here for the map diagram](<../../Benchmarks/01-IELTS-Tests/WRITING/01_IELTS_PRACTICE_SITE/task 1/04 March 1 , 2026 (Map diagram).md>).
 
 - **CS50x 💻**
     - **Topic:** Could not do much, only 10 minutes in.
@@ -306,7 +306,7 @@ A day full of stress and pressure, but did the ielts writing test somehow.
 - **IELTS 🇬🇧**
     - **Activity:** Did static bar and took all the previous improvements and used them against this one.
     - **Result:**  Scored 8.00 . So, there was no need for a 2nd trial.
-    - **Analysis:** [click here.](<../../Benchmarks/01-IELTS-Tests/WRITING/01_IELTS_PRACTICE_SITE/task 1/05 June 1 , 2025 (Static bar).md>)
+    - **Analysis:** [click here.](<../../Benchmarks/01-IELTS-Tests/WRITING/01_IELTS_PRACTICE_SITE/task 1/05 June 1 , 2026 (Static bar).md>)
 
 - **CS50x 💻**
     - **Topic:** Learned a very helpful implementable concept and did till 30 minutes into the lecture. 
@@ -330,7 +330,7 @@ A day full of stress and pressure, but did the ielts writing test somehow.
 - **IELTS 🇬🇧**
     - **Activity:** Did the last remaining module process and transformation.
     - **Result:** I have achieved a good score in writing task 1, now will focus in task 2 from tomorrow onewards.
-    - **Analysis:** [click here.](<../../Benchmarks/01-IELTS-Tests/WRITING/01_IELTS_PRACTICE_SITE/task 1/06 March 2 , 2025 (Process, transformations).md>)
+    - **Analysis:** [click here.](<../../Benchmarks/01-IELTS-Tests/WRITING/01_IELTS_PRACTICE_SITE/task 1/06 March 2 , 2026 (Process, transformations).md>)
 
 - **CS50x 💻**
     - **Topic:** 1 hour and 2 minutes in.
@@ -354,7 +354,7 @@ A day full of stress and pressure, but did the ielts writing test somehow.
 - **IELTS 🇬🇧**
     - **Activity:** clear stance stating and opinion types have been mastered.
     - **Result:** 7.5/8 mastered and some errors cleared.
-    - **Analysis:** [click here](<../../Benchmarks/01-IELTS-Tests/WRITING/01_IELTS_PRACTICE_SITE/task 2/01 March 2 , 2025 (opinion clear stance).md>)
+    - **Analysis:** [click here](<../../Benchmarks/01-IELTS-Tests/WRITING/01_IELTS_PRACTICE_SITE/task 2/01 March 2 , 2026 (opinion clear stance).md>)
 
 - **CS50x 💻**
     - **Topic:** Done with the 2nd week lecture.
@@ -402,7 +402,7 @@ A day full of stress and pressure, but did the ielts writing test somehow.
 - **IELTS 🇬🇧**
     - **Activity:** did the 2nd type of task 2, discussion based weighed opinion. 
     - **Result:** perfected to 8.5 through multiple refactoring.
-    - **Analysis:** [click here](<../../Benchmarks/01-IELTS-Tests/WRITING/01_IELTS_PRACTICE_SITE/task 2/02  January 1 , 2025 (DISCUSSION  basesd opinion).md>)
+    - **Analysis:** [click here](<../../Benchmarks/01-IELTS-Tests/WRITING/01_IELTS_PRACTICE_SITE/task 2/02  January 1 , 2026 (DISCUSSION basesd opinion).md>)
 
 - **CS50x 💻**
     - **Topic:** Every short done, till array.
@@ -438,5 +438,27 @@ A day full of stress and pressure, but did the ielts writing test somehow.
     - **Article/Paper:** NA
 
 ---
+
+# 📅 Saturday, February 21st
+
+### 🚀 Engineering & Skills Log
+- **German 🇩🇪**
+    - **Focus:**  done with todays work
+    - **Progress:**  need constant repition, 
+    - **Detailed Notes:** [click here](../../Benchmarks/03-Learning-German(Deutsch)/2026/02-February.md#2026-02-21)
+
+- **IELTS 🇬🇧**
+    - **Activity:** Successfully upped band to 7.5 for advantage-disadvantage based task 2.
+    - **Result:** first iteration was 6.5 due to grammar, and then it went up to 7.5
+    - **Analysis:** [click here](<../../Benchmarks/01-IELTS-Tests/WRITING/01_IELTS_PRACTICE_SITE/task 2/03 February 1 , 2026 (Advantages Vs. disadvantages).md>)
+
+- **CS50x 💻**
+    - **Topic:** Done with last shorts, tomorrow will be the beginning of pset 2 solve.
+    - **Notes:** [click here](../../Benchmarks/02-CS50x/01-Logs/02-February-2026/21_February_21st_2026_Saturday.md)
+
+- **Reading & Research 📚**
+    - **The Almanack of Naval Ravikant** : Read page 61-70. (done)
+    - **Can't hurt me** : Read page 100-110. (done)
+    - **Article/Paper:** 
 
 

@@ -509,3 +509,69 @@ Rest day today, Friday.
 
 ---
 
+<a id="2026-02-21"></a>  
+# 📅 Entry: Sunday, 21st February
+
+---
+### 📘 Lesson
+- woher kommst du?
+
+---
+
+### 📘 Vocabulary — Nicos Weg
+
+| German                                | English                            | Notes/Context |
+| ------------------------------------- | ---------------------------------- | ------------- |
+| heißt                                 | is called                          |               |
+| machs                                 | make                               |               |
+| machst                                | do                                 |               |
+| ich lerne deutsch                     | i learn german                     |               |
+| du lernst deutsch                     | you learn german                   |               |
+| du learnst                            | you're learning                    |               |
+| ich lerne                             | I am learning                      |               |
+| Ich  einen Sprachkurs.                | I'm taking a language course.      |               |
+| Und was <br>machst<br> du hier, Aziz? | And what are you doing here, Aziz? |               |
+
+
+---
+
+### 📗 Vocabulary — Duolingo
+
+| German                  | English                | Notes/Context                                                                              |
+| ----------------------- | ---------------------- | ------------------------------------------------------------------------------------------ |
+| Deutschland             | Germany                | germany deutsch naming                                                                     |
+| Amerika                 | America                | USA german naming                                                                          |
+| In                      | In                     | basically the same meaning in both languages                                               |
+| wo ist Berlin?          | where is Berlin?       | asking where berling is.                                                                   |
+| in Kanada               | in Canada              | Canada naming                                                                              |
+| klein                   | small                  | means size as in small or mini or big                                                      |
+| New york ist in amerika | New York is in America | the city of NY is in USA                                                                   |
+| wunderbur               | wonderful              |                                                                                            |
+| Osterreich              | Austria                | The most complex country naming till now.                                                  |
+| groß                    | Big/large              | its the same as tall but its only tall when its applied on people and not on other stuffs. |
+| Wien                    | vienna                 | the most simple country naming i have seen till today.                                     |
+|                         |                        |                                                                                            |
+
+---
+
+### 🧠 Logic / Grammar Notes
+
+> repition is the only way to language mastery
+
+---
+
+### 📝 Output / Practice Notes
+- woher kommst du? 
+- 
+
+---
+
+### 📝 Practice Sentences
+
+```text
+```
+
+---
+
+<a id="2026-02-22"></a>  
+# 📅 Entry: sunday, 21st February
