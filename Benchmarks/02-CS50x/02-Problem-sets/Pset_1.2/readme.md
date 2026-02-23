@@ -31,7 +31,7 @@ We must create a program in `C` that validates or invalidates user given number 
 ---
 
 # Local compilation guide: 
-> See [here](../Pset_1/readme.md#Local_compilation_guide) for detailed info on this.
+> See [here](../Pset_1.1/readme.md#Local_compilation_guide) for detailed info on this.
 
 # how to compile to exe with terminal
 > use this command ```gcc credit.c ../../cs50.c -o credi``` to compile it to exe. and then ```./credit``` to execute.

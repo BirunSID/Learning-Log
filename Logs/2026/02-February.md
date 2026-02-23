@@ -461,4 +461,50 @@ A day full of stress and pressure, but did the ielts writing test somehow.
     - **Can't hurt me** : Read page 100-110. (done)
     - **Article/Paper:** 
 
+---
 
+# 📅 Sunday, February 22nd
+
+### 🚀 Engineering & Skills Log
+- **German 🇩🇪**
+    - **Focus:**  
+    - **Progress:**  
+    - **Detailed Notes:** [click here](../../Benchmarks/03-Learning-German(Deutsch)/2026/02-February.md#2026-02-22)
+
+- **IELTS 🇬🇧**
+    - **Activity:** Completed the problem and solutions type too. 7.0 - 7.5 refactored
+    - **Result:** perfected and got familiarized to this. 
+    - **Analysis:** [click here](<../../Benchmarks/01-IELTS-Tests/WRITING/01_IELTS_PRACTICE_SITE/task 2/04 February 2 , 2026 (Problem and solution).md>)
+
+- **CS50x 💻**
+    - **Topic:** We have done a lot today, 90% of pset 2.1 done, we have pset2.2 and pset2.3 completely left, this is going to be hell, but we have to do it fast.
+    - **Notes:** [click here](../../Benchmarks/02-CS50x/01-Logs/02-February-2026/22_February_22nd_2026_Sunday.md)
+
+- **Reading & Research 📚**
+    - **The Almanack of Naval Ravikant** : Read page 71-80. (done)
+    - **Can't hurt me** : Read page 111-120. (done)
+    - **Article/Paper:** NA 
+
+---
+
+# 📅 Monday, February 23rd
+
+### 🚀 Engineering & Skills Log
+- **German 🇩🇪**
+    - **Focus:**  
+    - **Progress:**  
+    - **Detailed Notes:** [click here](../../Benchmarks/03-Learning-German(Deutsch)/2026/02-February.md#2026-02-23)
+
+- **IELTS 🇬🇧**
+    - **Activity:** Took the 5th Mock today.
+    - **Result:** Scored band 7.00. Listening 8|Reading 8| writing 6.5|Speaking 5
+    - **Analysis:** Improvement seen in speaking from 4.5 to 5.00. Writing remains stagnant.
+
+- **CS50x 💻**
+    - **Topic:** 
+    - **Notes:** [Click here](../../Benchmarks/02-CS50x/01-Logs/02-February-2026/23_February_23rd_2026_Monday.md)
+
+- **Reading & Research 📚**
+    - **The Almanack of Naval Ravikant** : Read page 81-90. ()
+    - **Can't hurt me** : Read page 121-130. ()
+    - **Article/Paper:** NA

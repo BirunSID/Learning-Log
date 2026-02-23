@@ -1,6 +1,6 @@
 # Problem Set 2 – Day 5
 
-**Objective:** Finish implementing and refining the credit card checksum and validation logic. view the [readme](../../02-Problem-sets/Pset_2/readme.md) here.
+**Objective:** Finish implementing and refining the credit card checksum and validation logic. view the [readme](../../02-Problem-sets/Pset_1.2/readme.md) here.
 
 ---
 
@@ -24,4 +24,4 @@
 - Proceed with card type validation (AMEX, VISA, MasterCard) and finalize full credit card checker logic.  
 
 **Code Reference:**  
-[View the code here](../../02-Problem-sets/Pset_2/credit/credit.c)
+[View the code here](../../02-Problem-sets/Pset_1.2/credit/credit.c)

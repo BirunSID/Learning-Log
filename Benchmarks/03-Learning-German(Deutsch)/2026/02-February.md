@@ -574,4 +574,69 @@ Rest day today, Friday.
 ---
 
 <a id="2026-02-22"></a>  
-# 📅 Entry: sunday, 21st February
+# 📅 Entry: sunday, 22nd February
+
+---
+### 📘 Lesson
+- Woher kommst du? (**finished**)
+
+---
+
+### 📘 Vocabulary — Nicos Weg
+
+| German                   | English                  | Notes/Context |
+| ------------------------ | ------------------------ | ------------- |
+| Wo wohnt Yara?           | Where does Yara live?    |               |
+| was machen sie hier?     | what are you doing here? |               |
+| touristen                | tourist(male)            |               |
+| Ach so                   | oh right                 |               |
+| sie sprechen gut deutsch | you speak good german    |               |
+| die polizei              | the police               |               |
+| der vater                | the father               |               |
+|                          |                          |               |
+
+
+---
+
+### 📗 Vocabulary — Duolingo
+
+| German             | English                   | Notes/Context                          |
+| ------------------ | ------------------------- | -------------------------------------- |
+| frankreich         | France                    |                                        |
+| die stadt          | the city                  |                                        |
+| in Munchen         | in Munich                 |                                        |
+| aus kanada         | from canada               |                                        |
+| ich komme aus      | i come from               |                                        |
+| laut               | loud                      | sound                                  |
+| cool               | cool                      | same stuff                             |
+| teuer              | expensive                 |                                        |
+| aufregend          | exciting                  | the weirdest pronunciation i have seen |
+| auch               | also/too/as well          |                                        |
+| auch laut          | also loud                 |                                        |
+| wie ist es in      | whats it like in          |                                        |
+| wie ist es in wien | What is it like in vienna | Very complex word                      |
+|                    |                           |                                        |
+
+---
+
+### 🧠 Logic / Grammar Notes
+
+> none learned
+
+---
+
+### 📝 Output / Practice Notes
+- wo wohnst sie?
+- 
+
+---
+
+### 📝 Practice Sentences
+
+```text
+```
+
+---
+
+<a id="2026-02-23"></a>  
+# 📅 Entry: Monday, 23rd February

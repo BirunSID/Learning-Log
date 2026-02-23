@@ -22,5 +22,5 @@ Build a program that prompts the user for a height between 1 and 8 (inclusive) a
 
 ---
 
-> **Note:** For the full code implementation and logic breakdown, see the Problem Set 1 folder's [readme](../../02-Problem-sets/Pset_1/readme.md)
+> **Note:** For the full code implementation and logic breakdown, see the Problem Set 1 folder's [readme](../../02-Problem-sets/Pset_1.1/readme.md)
 

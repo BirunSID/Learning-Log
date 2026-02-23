@@ -8,4 +8,4 @@
 
 This is it for the pset2 and lecture 1.
 
-look at [code](../../02-Problem-sets/Pset_2/credit/credit.c) and [readme](../../02-Problem-sets/Pset_2/readme.md).
+look at [code](../../02-Problem-sets/Pset_1.2/credit/credit.c) and [readme](../../02-Problem-sets/Pset_1.2/readme.md).

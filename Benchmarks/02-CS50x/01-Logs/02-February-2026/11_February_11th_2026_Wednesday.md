@@ -9,4 +9,4 @@
 ### we validated the last digit of the checksum to check for `0` , if zero, okay, if not, invalid.
 ### I used logical operators in order to validate both the checksum and card length. and to print valid or invalid for now.
 
-And , the code can be found [here](../../02-Problem-sets/Pset_2/credit/credit.c) and the readme [here](../../02-Problem-sets/Pset_2/readme.md).
+And , the code can be found [here](../../02-Problem-sets/Pset_1.2/credit/credit.c) and the readme [here](../../02-Problem-sets/Pset_1.2/readme.md).
