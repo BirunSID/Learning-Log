@@ -640,3 +640,63 @@ Rest day today, Friday.
 
 <a id="2026-02-23"></a>  
 # 📅 Entry: Monday, 23rd February
+
+---
+### 📘 Lesson
+- Nico hat ein problem
+
+---
+
+### 📘 Vocabulary — Nicos Weg
+
+Only one small lesson was done. no new words to learn
+
+| German | English | Notes/Context |
+| ------ | ------- | ------------- |
+|        |         |               |
+
+
+---
+
+### 📗 Vocabulary — Duolingo
+
+| German                          | English                       | Notes/Context                                             |
+| ------------------------------- | ----------------------------- | --------------------------------------------------------- |
+| eine neue jacke                 | a new jacket                  | j is spelled as ya                                        |
+| ist im kaufhaus                 | at the department store       | im means at , kauf means department and haus means store. |
+| eine frau kommt zu              | a woman comes to              |                                                           |
+| Arbeiten Sie hier               | Do you work here              |                                                           |
+| ich brauche hilfe               | i need help                   |                                                           |
+| Mogen sie                       | do you like                   |                                                           |
+| rote                            | red                           |                                                           |
+| da druben                       | over there                    |                                                           |
+| schwarze                        | black                         |                                                           |
+| billig                          | cheap                         |                                                           |
+| elegant                         | elegant                       |                                                           |
+| und warm                        | and warm                      |                                                           |
+| ist perfekt fur sie             | is perfect for you            |                                                           |
+| ich nehme die                   | i'll take the                 |                                                           |
+| sie machen ihre arbeit sehr gut | you are very good at your job |                                                           |
+| wo ist die kasse                | where is the cash register    |                                                           |
+| keine ahnung                    | no idea                       |                                                           |
+| ich arbeite nicht hier          | i dont work here              |                                                           |
+|                                 |                               |                                                           |
+
+---
+
+### 🧠 Logic / Grammar Notes
+
+> 
+
+---
+
+### 📝 Output / Practice Notes
+- 
+- 
+
+---
+
+### 📝 Practice Sentences
+
+```text
+```

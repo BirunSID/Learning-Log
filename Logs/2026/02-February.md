@@ -491,8 +491,8 @@ A day full of stress and pressure, but did the ielts writing test somehow.
 
 ### 🚀 Engineering & Skills Log
 - **German 🇩🇪**
-    - **Focus:**  
-    - **Progress:**  
+    - **Focus:** One very big duolingo lesson was done and nothing else.
+    - **Progress:** In Nicos weg, just one small lesson was done.
     - **Detailed Notes:** [click here](../../Benchmarks/03-Learning-German(Deutsch)/2026/02-February.md#2026-02-23)
 
 - **IELTS 🇬🇧**
@@ -501,10 +501,10 @@ A day full of stress and pressure, but did the ielts writing test somehow.
     - **Analysis:** Improvement seen in speaking from 4.5 to 5.00. Writing remains stagnant.
 
 - **CS50x 💻**
-    - **Topic:** 
+    - **Topic:** Too tired today due to the hangout with friends. skipping it.
     - **Notes:** [Click here](../../Benchmarks/02-CS50x/01-Logs/02-February-2026/23_February_23rd_2026_Monday.md)
 
 - **Reading & Research 📚**
-    - **The Almanack of Naval Ravikant** : Read page 81-90. ()
-    - **Can't hurt me** : Read page 121-130. ()
+    - **The Almanack of Naval Ravikant** : Read page 81-90. (done)
+    - **Can't hurt me** : Read page 121-130. (done)
     - **Article/Paper:** NA
