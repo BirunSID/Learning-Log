@@ -508,3 +508,13 @@ A day full of stress and pressure, but did the ielts writing test somehow.
     - **The Almanack of Naval Ravikant** : Read page 81-90. (done)
     - **Can't hurt me** : Read page 121-130. (done)
     - **Article/Paper:** NA
+
+---
+
+# 📅 Monday, February 24th
+
+Extreme burn out, no journaling, not even book reading.
+
+---
+
+# 📅 Monday, February 25th

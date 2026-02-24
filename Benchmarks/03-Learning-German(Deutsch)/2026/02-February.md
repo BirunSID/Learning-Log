@@ -700,3 +700,9 @@ Only one small lesson was done. no new words to learn
 
 ```text
 ```
+
+
+<a id="2026-02-24"></a>  
+# 📅 Entry: Tuesday, 24th February
+
+Extreme burn out today, no activities.
