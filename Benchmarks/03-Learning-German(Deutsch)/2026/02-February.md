@@ -706,3 +706,64 @@ Only one small lesson was done. no new words to learn
 # 📅 Entry: Tuesday, 24th February
 
 Extreme burn out today, no activities.
+
+---
+
+<a id="2026-02-25"></a>  
+# 📅 Entry: Wednesday, 25th February
+
+---
+### 📘 Lesson
+- Nico hat ein problem
+
+---
+
+### 📘 Vocabulary — Nicos Weg
+
+| German       | English             | Notes/Context |
+| ------------ | ------------------- | ------------- |
+| und dir?     | and you?            |               |
+| ist polizist | is a police officer |               |
+| freund von   | friend of           |               |
+| Er heißt     | his name is         |               |
+| familien     | family              |               |
+| arbeit als   | work as             |               |
+| wahl         | choose              |               |
+| fehlenden    | missing             |               |
+| Verben       | Verbs               |               |
+|              |                     |               |
+
+
+---
+
+### 📗 Vocabulary — Duolingo
+NO new ones learned today.
+
+| German | English | Notes/Context |
+| ------ | ------- | ------------- |
+|        |         |               |
+
+---
+
+### 🧠 Logic / Grammar Notes
+
+>  Er and Sie are personal pronouns. Er is used for man whilst Sie is used for woman.
+>- **1st person singular (ich)** → usually ends in **-e**
+- **2nd person singular (du)** → usually ends in **-st**
+- **3rd person singular (er/sie/es)** → usually ends in **-t**
+- **Plural forms**: “wir” and “sie/Sie” → same as infinitive; “ihr” → **-t**
+
+---
+
+### 📝 Output / Practice Notes
+- 
+- 
+
+---
+
+### 📝 Practice Sentences
+
+```text
+```
+---
+

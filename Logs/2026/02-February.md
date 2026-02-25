@@ -517,4 +517,26 @@ Extreme burn out, no journaling, not even book reading.
 
 ---
 
-# 📅 Monday, February 25th
+# 📅 Wednesday, February 25th
+
+### 🚀 Engineering & Skills Log
+- **German 🇩🇪**
+    - **Focus:**  German verb conjugations are very difficult.
+    - **Progress:**  7 out of 11 lessons did in Nico hat ein problem, duolingo streak froze and in 12 days now.
+    - **Detailed Notes:** [click here](../../Benchmarks/03-Learning-German(Deutsch)/2026/02-February.md#2026-02-25)
+
+- **IELTS 🇬🇧**
+    - **Activity:** Completed the last type today, and the score was not satisfactory. But the issues were again S linters.
+    - **Result:** 6.5 and 6.5 both times of perfecting, because of S linters.
+    - **Analysis:** [click here](<../../Benchmarks/01-IELTS-Tests/WRITING/01_IELTS_PRACTICE_SITE/task 2/05 April 2 , 2026 (2 unrelated questions).md>)
+
+- **CS50x 💻**
+    - **Topic:** WE are done with pset 2.1. tomorrow, we begin pset 2.2
+    - **Notes:** [click here](../../Benchmarks/02-CS50x/01-Logs/02-February-2026/25_February_25th_2026_Wednesday.md)
+
+- **Reading & Research 📚**
+    - **The Almanack of Naval Ravikant** : Read page 91-100. (done)
+    - **Can't hurt me** : Read page 131-140. (done)
+    - **Article/Paper:** NA
+
+---
