@@ -540,3 +540,27 @@ Extreme burn out, no journaling, not even book reading.
     - **Article/Paper:** NA
 
 ---
+
+# 📅 Thursday, February 26th
+
+### 🚀 Engineering & Skills Log
+- **German 🇩🇪**
+    - **Focus:**  extremely frustrated at nicos weg, i think ill have to reconsider this shit.
+    - **Progress:**  NONE, literally none, this is frustrating, Nicos weg is bombarding me bullshit advanced shits it didnt even teach yet, extremely frustrating.
+    - **Detailed Notes:** [Click here](../../Benchmarks/03-Learning-German(Deutsch)/2026/02-February.md#2026-02-26)
+
+- **IELTS 🇬🇧**
+    - **Activity:** Sat for the 6th mock test today,
+    - **Result:** got 7.00 in writing, missed 8.00 cause of mistakes. Furthermore, got 6 in speaking,  
+    - **Analysis:** i went from 3.5 to 6 in speaking, even tho the ai is a strict judge. this is good, and 7 for writing is insane.
+
+- **CS50x 💻**
+    - **Topic:** No coding done today, we only planned how to solve this, hopefully, we can solve it in one sit tomorrow.
+    - **Notes:** [Click here](../../Benchmarks/02-CS50x/01-Logs/02-February-2026/26_February_26th_2026_Thursday.md)
+
+- **Reading & Research 📚**
+    - **The Almanack of Naval Ravikant** : Read page 101-110. (done)
+    - **Can't hurt me** : Read page 141-150. (done)
+    - **Article/Paper:**  NA
+  
+---

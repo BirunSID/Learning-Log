@@ -767,3 +767,65 @@ NO new ones learned today.
 ```
 ---
 
+<a id="2026-02-26"></a>  
+# 📅 Entry: Thursday, 26th February
+
+---
+### 📘 Lesson
+- Nico hat ein problem
+
+Extremly frustrated at nicos weg, im gonna have to reconsider this shit.
+
+---
+
+### 📘 Vocabulary — Nicos Weg
+
+| German                       | English                      | Notes/Context |
+| ---------------------------- | ---------------------------- | ------------- |
+| suchen                       | seek                         |               |
+| wir sind                     | we are                       |               |
+| ihr seid                     | you are                      |               |
+| sie sind                     | they are                     |               |
+| Ich bin die mutter von lotte | Im the mother of lotte       |               |
+| Wie sind schon im Zentrum    | we are already in the center |               |
+| schon                        | already                      |               |
+| im                           | in the                       |               |
+| zentrum                      | center                       |               |
+| Emma kommt                   | Emma is coming               |               |
+| Sie sind hier                | they are here                |               |
+| , im auto                    | , in the auto                |               |
+| sind                         | are                          |               |
+|                              |                              |               |
+|                              |                              |               |
+
+
+---
+
+### 📗 Vocabulary — Duolingo
+None new learned today. only practiced the ones from before.
+
+| German | English | Notes/Context |
+| ------ | ------- | ------------- |
+|        |         |               |
+
+---
+
+### 🧠 Logic / Grammar Notes
+
+> 
+
+---
+
+### 📝 Output / Practice Notes
+- 
+- 
+
+---
+
+### 📝 Practice Sentences
+
+```text
+```
+
+<a id="2026-02-27"></a>  
+# 📅 Entry: Friday, 27th February
