@@ -938,17 +938,77 @@ The list of all the vocabulary that we have learnt throughout February.
 | 100   | Bangladesch       | Bangladesh             |                 |
 | 101   | wohnst du         | you live               |                 |
 | 102   | ich wohne         | i live                 |                 |
-| 103   |                   |                        |                 |
-| 104   |                   |                        |                 |
-| 105   |                   |                        |                 |
-| 106   |                   |                        |                 |
-| 107   |                   |                        |                 |
-| 108   |                   |                        |                 |
-| 109   |                   |                        |                 |
-| 110   |                   |                        |                 |
-| 111   |                   |                        |                 |
-| 112   |                   |                        |                 |
-| 113   |                   |                        |                 |
-| 114   |                   |                        |                 |
-| 115   |                   |                        |                 |
-| 116   |                   |                        |                 |
+
+---
+
+<a id="2026-02-28"></a>  
+# 📅 Entry: Saturday, 28th February
+
+---
+
+The list of all the vocabulary that we have learnt throughout February.
+
+
+| Index | German word   | English meaning        | context/concept |
+| ----- | ------------- | ---------------------- | --------------- |
+| 103   | heißt         | is called              |                 |
+| 104   | machs         | make                   |                 |
+| 105   | machst        | do                     |                 |
+| 106   | wohnt         | live                   |                 |
+| 107   | hier          | here                   |                 |
+| 108   | touristen     | tourist(male)          |                 |
+| 109   | ach so        | oh right               |                 |
+| 110   | die polizei   | the police             |                 |
+| 111   | vater         | father                 |                 |
+| 112   | Amerika       | America                |                 |
+| 113   | In            | In                     |                 |
+| 114   | Kanada        | Canada                 |                 |
+| 115   | klein         | small                  |                 |
+| 116   | wunderbur     | wonderful              |                 |
+| 117   | osterreich    | Austria                |                 |
+| 118   | groß          | Big/Large              |                 |
+| 119   | Wien          | vienna                 |                 |
+| 120   | Frankreich    | France                 |                 |
+| 121   | Die Stadt     | the city               |                 |
+| 122   | In Munchen    | In Munich              |                 |
+| 123   | laut          | loud                   |                 |
+| 124   | cool          | cool                   |                 |
+| 125   | teuer         | expensive              |                 |
+| 126   | aufregend     | exciting               |                 |
+| 127   | auch          | also/too/as well       |                 |
+| 128   | wie ist es in | what's it like         |                 |
+| 129   | neue          | new                    |                 |
+| 130   | jacke         | jacket                 |                 |
+| 131   | kaufhaus      | department store       |                 |
+| 132   | arbeiten      | work                   |                 |
+| 134   | brauche       | need                   |                 |
+| 135   | mogen         | like                   |                 |
+| 136   | rote          | red                    |                 |
+| 137   | da druben     | over there             |                 |
+| 138   | schwarze      | black                  |                 |
+| 139   | billig        | cheap                  |                 |
+| 140   | elegant       | elegant                |                 |
+| 141   | warm          | warm                   |                 |
+| 142   | perfekt       | perfor                 |                 |
+| 143   | fur           | for                    |                 |
+| 144   | nehme         | take                   |                 |
+| 145   | kasse         | checkout/cash-register |                 |
+| 146   | keine ahnung  | no idea                |                 |
+| 147   | nicht         | don't/not              |                 |
+| 148   | polizist      | police officer         |                 |
+| 149   | fruend        | friend                 |                 |
+| 150   | familien      | family                 |                 |
+| 151   | arbeit als    | work as                |                 |
+| 152   | wahl          | choose                 |                 |
+| 153   | fehlenden     | missing                |                 |
+| 154   | verben        | verbs                  |                 |
+| 155   | suchen        | seek                   |                 |
+| 156   | wir sind      | we are                 |                 |
+| 157   | ihr seid      | you are                |                 |
+| 158   | mutter        | mother                 |                 |
+| 159   | schon         | already                |                 |
+| 160   | zentrum       | center                 |                 |
+| 161   | im auto       | in the auto            |                 |
+
+<a id="overall-february-vocab-log"></a>  
+# February overall vocab log , all 156 words

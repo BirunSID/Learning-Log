@@ -588,3 +588,28 @@ Extreme burn out, no journaling, not even book reading.
     - **Article/Paper:** NA
 
 ---
+
+# 📅 Saturday, February 28th
+
+### 🚀 Engineering & Skills Log
+- **German 🇩🇪**
+    - **Focus:**  gonna start the rest of the vocabulary starting from 102nd.
+    - **Progress:**  Done, february german vocab listing done. tomorrow, we shall review all 156 words and then start march ones.
+    - **Detailed Notes:** [click here](../../Benchmarks/03-Learning-German(Deutsch)/2026/02-February.md#2026-02-28) for the feb 28th log and [here](../../Benchmarks/03-Learning-German(Deutsch)/2026/02-February.md#overall-february-vocab-log) for all 156 words.
+
+- **IELTS 🇬🇧**
+    - **Activity:** familiarized myself with speaking. need to practice my breathing more properly.
+    - **Result:** Friends have wasted my time with excel courses, bullshit excel course tbh but whatever.
+    - **Analysis:** tomorrow, ill have to take the mock test and then again practice speaking.
+
+- **CS50x 💻**
+    - **Topic:** We have made great progress and now we just have 2 functions to make.
+    - **Notes:** [click here](../../Benchmarks/02-CS50x/01-Logs/02-February-2026/28_February_28th_2026_Saturday.md)
+
+- **Reading & Research 📚**
+    - **The Almanack of Naval Ravikant** : Read page 121-130. (done)
+    - **Can't hurt me** : Read page 161-170. (done)
+    - **Article/Paper:** Done
+
+---
+
