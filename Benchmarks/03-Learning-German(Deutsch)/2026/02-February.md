@@ -829,3 +829,126 @@ None new learned today. only practiced the ones from before.
 
 <a id="2026-02-27"></a>  
 # 📅 Entry: Friday, 27th February
+
+---
+
+The list of all the vocabulary that we have learnt throughout February.
+
+
+| Index | German word       | English meaning        | context/concept(NOT required) |
+| ----- | ----------------- | ---------------------- | --------------- |
+| 1     | heißt             | is called              |                 |
+| 2     | ich heiße         | my name is             |                 |
+| 3     | und               | and                    |                 |
+| 4     | du                | you                    |                 |
+| 5     | wie               | how                    |                 |
+| 6     | Ich               | I                      |                 |
+| 7     | heißen            | be called              |                 |
+| 8     | das               | the                    |                 |
+| 9     | ist               | is                     |                 |
+| 10    | personalpronomen  | personal pronoun       |                 |
+| 11    | singular          | singular               |                 |
+| 12    | aber              | but                    |                 |
+| 13    | Deutschlehrer     | German teacher(male)   |                 |
+| 14    | deutschlehrerin   | German teacher(Female) |                 |
+| 15    | jetzt             | now                    |                 |
+| 16    | weg               | gone                   |                 |
+| 17    | wer               | who                    |                 |
+| 18    | sind              | are                    |                 |
+| 19    | was               | what                   |                 |
+| 20    | helfen            | help                   |                 |
+| 21    | tante             | aunt                   |                 |
+| 22    | sucht             | seeks                  |                 |
+| 23    | seine             | his                    |                 |
+| 24    | Tasche            | bag                    |                 |
+| 25    | das sind          | these are              |                 |
+| 26    | sie helfen        | they help              |                 |
+| 27    | Er                | he                     |                 |
+| 28    | kommt             | comes                  |                 |
+| 29    | aus               | from                   |                 |
+| 30    | Spanien           | spain                  |                 |
+| 31    | der kase          | the cheese             |                 |
+| 32    | der salat         | the salad              |                 |
+| 33    | die pizza         | the pizza              |                 |
+| 34    | mit milch         | with milk              |                 |
+| 35    | der tee           | the tea                |                 |
+| 36    | heiß              | hot                    |                 |
+| 37    | lecker            | delicious              |                 |
+| 38    | brot              | bread                  |                 |
+| 39    | das mineralwasser | the mineral water      |                 |
+| 40    | ei                | egg                    |                 |
+| 42    | das restaurant    | the restaurant         |                 |
+| 43    | das salz          | the salt               |                 |
+| 44    | der kellner       | the waiter             |                 |
+| 45    | der speisekarte   | the menu               |                 |
+| 46    | entschuldigung    | excuse me              |                 |
+| 47    | kalt              | cold                   |                 |
+| 48    | das essen         | the food               |                 |
+| 49    | die wurst         | the sausage            |                 |
+| 50    | die rechnung      | the check              |                 |
+| 51    | schnitzel         | schnitzel              |                 |
+| 52    | zu                | too                    |                 |
+| 53    | sandwich          | sandwich               |                 |
+| 54    | von               | of/by/from             |                 |
+| 55    | taxifahrer        | taxi driver            |                 |
+| 56    | Deutschland       | Germany                |                 |
+| 57    | Englisch          | English                |                 |
+| 58    | sein              | his                    |                 |
+| 59    | hobby             | hobby                  |                 |
+| 60    | fußball           | football               |                 |
+| 61    | sprachen          | language               |                 |
+| 62    | Nico macht        | Nico does              |                 |
+| 63    | sprachkurs        | language course        |                 |
+| 64    | der Arzt          | the doctor             |                 |
+| 65    | supermarkt        | supermarket            |                 |
+| 66    | im                | at/ in the             |                 |
+| 67    | elegante          | elegant                |                 |
+| 68    | frau              | woman                  |                 |
+| 69    | kommt zu          | comes to               |                 |
+| 70    | sehr              | very                   |                 |
+| 71    | reich             | rich                   |                 |
+| 72    | haus              | house                  |                 |
+| 73    | hemd              | shirt                  |                 |
+| 74    | teuer             | expensive              |                 |
+| 75    | braucht           | needs                  |                 |
+| 76    | da druben         | over here              |                 |
+| 77    | schnell           | quick                  |                 |
+| 78    | krank             | sick                   |                 |
+| 79    | sieht             | sees                   |                 |
+| 80    | lauft             | runs                   |                 |
+| 81    | zu                | to                     |                 |
+| 82    | ihr               | her                    |                 |
+| 83    | Arztin            | female doctor          |                 |
+| 84    | computerkurs      | computer course        |                 |
+| 85    | das               | those                  |                 |
+| 86    | woher             | where                  |                 |
+| 87    | welche            | what/which             |                 |
+| 88    | spricht           | speaks                 |                 |
+| 89    | lernt             | learning/learns        |                 |
+| 90    | hat er            | he have                |                 |
+| 91    | das beispiel      | example                |                 |
+| 92    | er                | he                     |                 |
+| 93    | der familienname  | last name              |                 |
+| 94    | jemandem helfen   | to help someone        |                 |
+| 95    | keine ahnung      | no idea                |                 |
+| 96    | der kurs          | the course             |                 |
+| 97    | etwas lernen      | to learn something     |                 |
+| 98    | sie               | she                    |                 |
+| 99    | der vorname       | first name             |                 |
+| 100   | Bangladesch       | Bangladesh             |                 |
+| 101   | wohnst du         | you live               |                 |
+| 102   | ich wohne         | i live                 |                 |
+| 103   |                   |                        |                 |
+| 104   |                   |                        |                 |
+| 105   |                   |                        |                 |
+| 106   |                   |                        |                 |
+| 107   |                   |                        |                 |
+| 108   |                   |                        |                 |
+| 109   |                   |                        |                 |
+| 110   |                   |                        |                 |
+| 111   |                   |                        |                 |
+| 112   |                   |                        |                 |
+| 113   |                   |                        |                 |
+| 114   |                   |                        |                 |
+| 115   |                   |                        |                 |
+| 116   |                   |                        |                 |

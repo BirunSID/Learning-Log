@@ -564,3 +564,27 @@ Extreme burn out, no journaling, not even book reading.
     - **Article/Paper:**  NA
   
 ---
+
+# 📅 Friday, February 27th
+
+### 🚀 Engineering & Skills Log
+- **German 🇩🇪**
+    - **Focus:**  We need to make the vocabulary list today
+    - **Progress:**  listed 102 vocabulary today. a lot of review done.
+    - **Detailed Notes:** [click here](../../Benchmarks/03-Learning-German(Deutsch)/2026/02-February.md#2026-02-27)
+
+- **IELTS 🇬🇧**
+    - **Activity:** Gave the 7th mock. it seems I have to improve my writing more. 
+    - **Result:** Got 5.5 in speaking, this was a downgrade compared to the previous scores. As for writing, got 6.5 , which was also a downgrade.
+    - **Analysis:** Writing improvement required. But not before i get familiarized with speaking. 
+
+- **CS50x 💻**
+    - **Topic:** Today's Friday, rest.
+    - **Notes:** [click here](../../Benchmarks/02-CS50x/01-Logs/02-February-2026/27_February_27th_2026_Friday.md)
+
+- **Reading & Research 📚**
+    - **The Almanack of Naval Ravikant** : Read page 111-120. (done)
+    - **Can't hurt me** : Read page 151-160. (done)
+    - **Article/Paper:** NA
+
+---
