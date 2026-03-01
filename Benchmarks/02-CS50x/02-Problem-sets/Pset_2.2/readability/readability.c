@@ -1,6 +1,7 @@
 #include "../../cs50.h" //telling it to go up one folder and find and use the cs50.c and the cs50.h library. VERY HANDY!!!
 #include <stdio.h>
 #include <math.h> 
+#include <ctype.h>
 
 float calculate_L(string word);
 float calculate_S(string word);
@@ -42,27 +43,49 @@ int main(void)
    {
     printf("Grade: %i\n",roundedup_index);
    }
-
 }
-
-
-
-
 
 
 
 float calculate_L(string word)
 {
     float valueL;
-    // function
-    return valueL;
+    int letters = 0, words = 1;
 
+    // function
+    for (int i = 0; word[i] != '\0'; i++)
+    {
+        if (isalpha(word[i]))
+        {
+            letters++;
+        }
+        if (word[i] == ' ')
+        {
+            words++;
+        }
+    }
+    valueL = ( (float) letters / words) * 100; 
+    return valueL;
 }
 
 float calculate_S(string word)
 {
     float valueS;
-    // function
-    return valueS;
+    int sentences = 0, words = 1;
 
+    // function
+    for (int i = 0; word[i] != '\0'; i++ )
+    {
+        if (word[i] == ' ')
+        {
+            words++;
+        }
+
+        if (word[i] == '.' || word[i] == '?' || word[i] == '!')
+        {
+            sentences++;
+        }
+    }
+    valueS = ( (float) sentences / words) * 100;
+    return valueS;
 }
