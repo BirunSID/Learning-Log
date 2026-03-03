@@ -2,7 +2,7 @@
 
 ## Personal Development log by & for : __*Sidratul Al Birun*__
 ### Focus : Computer Science & Engineering (CSE)
-
+>note: please, do not refer to tracking goals and status for it is not yet implemented.
 - [🎯 Tracking goals and status](./Targets.md)
 - [📅Daily Logs](./Logs)
 - [📄 Research & Reports](./Reports)
@@ -14,7 +14,7 @@
 - IELTS band 9.0 target |
 - German(Deutsch) Lang proficiency (A1 for now) |
 - CS50x course completion (Introduction to CSE) | 
-- Reading books 1."Deep work" (by Cal Newport) & 2.The Psychology of Money (Morgan Housel) |
+- Reading books 1."Can't hurt me" (by David Goggins) & 2.The Almanack of naval ravikant (by Eric Jorgenson) |
 
 **Naming conventions** : 
 - hyphen(-) and underscore(_) will be used instead of space for ensuring no errors happen.

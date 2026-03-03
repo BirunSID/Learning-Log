@@ -22,3 +22,50 @@
 
 ---
 
+# 📅 Monday, March 2nd
+
+### 🚀 Engineering & Skills Log
+- **German 🇩🇪**
+    - **Focus:**  zahlel von 1 to 100 and also more sophisticated german logging template deployed alongside the new additions of independent vocabulary + articles to study.
+    - **Progress:**  no vocabulary on either but created an independent vocabulary list to get my own vocabs from around the internet and learn.
+    - **Detailed Notes:** [click here](../../Benchmarks/03-Learning-German(Deutsch)/2026/03-March.md#2026-03-02)
+
+- **IELTS 🇬🇧**
+    - **Activity:** Saw a bunch of speaking videos but none were good enough
+    - **Result:** still just practicing breathing 
+    - **Analysis:** need to find something solid for speaking soon. otherwise, im fked.
+
+- **CS50x 💻**
+    - **Topic:** 
+    - **Notes:** [click here](../../Benchmarks/02-CS50x/01-Logs/03-March-2026/02_March_2nd_2026_Monday.md)
+
+- **Reading & Research 📚**
+    - **The Almanack of Naval Ravikant** : Read page 141-150. (done)
+    - **Can't hurt me** : Read page 181-190. (done)
+    - **Article/Paper:** NA
+
+---
+
+# 📅 Tuesday, March 3rd
+
+### 🚀 Engineering & Skills Log
+- **German 🇩🇪**
+    - **Focus:**  had a productive day on this one., learned a lot and succesfully did the four works
+    - **Progress:** knowledge and vocab increased.  
+    - **Detailed Notes:** [click here](../../Benchmarks/03-Learning-German(Deutsch)/2026/03-March.md#2026-03-03)
+
+- **IELTS 🇬🇧**
+    - **Activity:** Enough for today, i still cant find good places to practice speaking english
+    - **Result:** my speaking will remain downgraded if i dont find a place to practice them.
+    - **Analysis:** I need to turn to AI to practice english. 
+
+- **CS50x 💻**
+    - **Topic:** Planned Pset2.3, will execute tomorrow.
+    - **Notes:** [click here](../../Benchmarks/02-CS50x/01-Logs/03-March-2026/03_March_3rd_2026_Tuesday.md)
+
+- **Reading & Research 📚**
+    - **The Almanack of Naval Ravikant** : Read page 151-160. (done)
+    - **Can't hurt me** : Read page 191-200. (done )
+    - **Article/Paper:** NA
+
+---

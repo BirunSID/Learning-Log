@@ -28,14 +28,14 @@ The *coleman liau* index of any given text is designed to output **US** grade le
 
 # The step map:
 
-- [ ] get user input with the following `Text: `.
-- [ ] Send the user input to 2 functions which are `L calculator` and `S calculator`
-- [ ] put the value of `L` and `S` inside of `coleman liau` to calculate the index.
-- [ ] index is grade number, round it to nearest full number.
-- [ ] If grade = 16 or higher, output `"16+"`. if grade = 1 or lower, output `"Before Grade 1"`. do so using `if else` function.
-- [ ] Do the `L functions` and return the values to L.
-- [ ] Do the `S functions` and return the values to S.
-- [ ] Done
+- [x] get user input with the following `Text: `.
+- [x] Send the user input to 2 functions which are `L calculator` and `S calculator`
+- [x] put the value of `L` and `S` inside of `coleman liau` to calculate the index.
+- [x] index is grade number, round it to nearest full number.
+- [x] If grade = 16 or higher, output `"16+"`. if grade = 1 or lower, output `"Before Grade 1"`. do so using `if else` function.
+- [x] Do the `L functions` and return the values to L.
+- [x] Do the `S functions` and return the values to S.
+- [x] Done
 
 ---
 
