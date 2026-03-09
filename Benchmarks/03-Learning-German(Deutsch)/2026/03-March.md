@@ -203,3 +203,181 @@ NO VOCABS
 
 <a id="2026-03-04"></a>
 ## 📅 Entry: Wednesday, 4th March
+
+### NONE
+
+---
+
+<a id="2026-03-05"></a>
+## 📅 Entry: thursday, 5th March
+
+---
+
+<a id="2026-03-06"></a>
+## 📅 Entry: Friday, 6th March
+
+---
+
+<a id="2026-03-07"></a>
+## 📅 Entry: Saturday, 7th March
+
+---
+### 📘 Lessons
+
+- [x] Nicos weg :
+- [x] Duolingo
+- [x] Todaii german articles
+- [x] independent vocabulary
+
+---
+
+### 📘 Vocabulary — Nicos Weg
+
+| German                    | English                         | Notes/Context |
+| ------------------------- | ------------------------------- | ------------- |
+| acht                      | eight (8)                       |               |
+| achtzig                   | eighty (80)                     |               |
+| bis morgen                | See you tomorrow                |               |
+| der Buchstabe             | Letter (of the alphabet)        |               |
+| drei                      | three (3)                       |               |
+| dreißig                   | thirty (30)                     |               |
+| einhundert                | one hundred (100)               |               |
+| die einladung             | the invitation                  |               |
+| eins                      | one (1)                         |               |
+| Emma ist acht jahre alt   | Emma is eight (8) years old     |               |
+| Jahre                     | years                           |               |
+| alt                       | old                             |               |
+| feiern                    | to celebrate                    |               |
+| funf                      | five (5)                        |               |
+| funfzig                   | fifty (50)                      |               |
+| der Geburtstag            | birthday                        |               |
+| das Geschenk              | gift                            |               |
+| die hausnummer            | house number                    |               |
+| ich werde acht jahre alt  | im going to turn eigh years old |               |
+| lotte wird acht jahre alt | Lotte is turning eight          |               |
+| neun                      | nine (9)                        |               |
+| neunzig                   | ninety (90)                     |               |
+| die person                | person                          |               |
+| sechs                     | six (6)                         |               |
+| sechzig                   | sixty (60)                      |               |
+| sieben                    | seven (7)                       |               |
+| siebzig                   | seventy (70)                    |               |
+| vier                      | four (4)                        |               |
+| vierzig                   | fourty (40)                     |               |
+| wie alt ist Emma          | how old is Emma                 |               |
+| wie viele                 | how many                        |               |
+| die zahl                  | number                          |               |
+| zehn                      | ten (10)                        |               |
+| zwanzig                   | twenty (20)                     |               |
+| zwei                      | two (2)                         |               |
+| zwolf                     | twelve (12)                     |               |
+
+
+---
+
+### 📗 Vocabulary — Duolingo
+#### NO NEW VOCABS FOUND.
+
+| German | English | Notes/Context |
+| ------ | ------- | ------------- |
+|        |         |               |
+
+---
+
+### 🗒️Vocabulary outside source.
+#### Till 25th
+
+| German           | English       | Notes/Context |
+| ---------------- | ------------- | ------------- |
+| Agypten          | Egypt         |               |
+| Die Akrobatik    | Acrobatics    |               |
+| Aktiv            | Active        |               |
+| Die Aktivitat    | work          |               |
+| Die aktivprogram | program works |               |
+
+
+---
+
+### 🧠 Logic / Grammar Notes
+
+> 
+
+---
+
+### 📝 Output / Practice Notes
+- 
+- 
+
+---
+
+### 📝 Practice Sentences
+
+```text
+```
+
+---
+
+<a id="2026-03-08"></a>
+## 📅 Entry: Sunday, 8th March
+
+---
+### 📘 Lessons
+
+- [x] Nicos weg :
+- [x] Duolingo
+- [x] Todaii german articles
+- [x] independent vocabulary
+
+---
+
+### 📘 Vocabulary — Nicos Weg
+
+| German | English | Notes/Context |
+| ------ | ------- | ------------- |
+|        |         |               |
+
+
+---
+
+### 📗 Vocabulary — Duolingo
+
+| German | English | Notes/Context |
+| ------ | ------- | ------------- |
+|        |         |               |
+
+---
+
+### 🗒️Vocabulary outside source.
+
+| German      | English     | Notes/Context |
+| ----------- | ----------- | ------------- |
+| aktuell     | latest news |               |
+| das album   | album       |               |
+| der alkohol | alcohol     |               |
+| elle        | all         |               |
+| allein      | alone       |               |
+
+
+---
+
+### 🧠 Logic / Grammar Notes
+
+> 
+
+---
+
+### 📝 Output / Practice Notes
+- 
+- 
+
+---
+
+### 📝 Practice Sentences
+
+```text
+```
+---
+
+<a id="2026-03-09"></a>
+## 📅 Entry: Monday, 9th March
+

@@ -69,3 +69,124 @@
     - **Article/Paper:** NA
 
 ---
+
+# 📅 Wednesday, March 4th
+
+### 🚀 Engineering & Skills Log
+- **German 🇩🇪**
+    - **Focus:**  skipped today. Invested in terraria
+    - **Progress:**   none
+    - **Detailed Notes:** [click here](../../Benchmarks/03-Learning-German(Deutsch)/2026/03-March.md#2026-03-04)
+
+- **IELTS 🇬🇧**
+    - **Activity:** Took the last test today, only speaking.
+    - **Result:** Got 6.00 in speaking
+    - **Analysis:** speaking results will be bad since they are using an AI.
+
+- **CS50x 💻**
+    - **Topic:** skipped today. Invested in terraria
+    - **Notes:** [click here](../../Benchmarks/02-CS50x/01-Logs/03-March-2026/04_March_4th_2026_Wednesday.md)
+
+- **Reading & Research 📚**
+    - **The Almanack of Naval Ravikant** : Read page 161-170. (done)
+    - **Can't hurt me** : Read page 201-210. (done)
+    - **Article/Paper:**  NA
+
+---
+
+# 📅 Thursday, March 5th
+
+### 🚀 Engineering & Skills Log
+- **German 🇩🇪**
+    - **Focus:**  
+    - **Progress:**  
+    - **Detailed Notes:** [click here](../../Benchmarks/03-Learning-German(Deutsch)/2026/03-March.md#2026-03-05)
+
+- **IELTS 🇬🇧**
+    - **Activity:** 
+    - **Result:** 
+    - **Analysis:** 
+
+- **CS50x 💻**
+    - **Topic:** Done ,pset 2.3 too, now moving to week 3
+    - **Notes:** [click here](../../Benchmarks/02-CS50x/01-Logs/03-March-2026/05_March_5th_2026_Thursday.md)
+
+- **Reading & Research 📚**
+    - **The Almanack of Naval Ravikant** : Read page 171-180. (done)
+    - **Can't hurt me** : Read page 211-220. (done)
+    - **Article/Paper:** NA
+
+---
+
+# 📅 Friday, March 6th
+
+### 🚀 Engineering & Skills Log
+- **German 🇩🇪**
+    - **Focus:**  Today is friday, Thus rest.
+    - **Progress:**  
+    - **Detailed Notes:** 
+
+- **IELTS 🇬🇧**
+    - **Activity:** Today is friday, Thus rest.
+    - **Result:** 
+    - **Analysis:** 
+
+- **CS50x 💻**
+    - **Topic:** Today is friday, Thus rest.
+    - **Notes:** [click here](../../Benchmarks/02-CS50x/01-Logs/03-March-2026/06_March_6th_2026_Friday.md)
+
+- **Reading & Research 📚**
+    - **The Almanack of Naval Ravikant** : Read page 181-190. (done)
+    - **Can't hurt me** : Read page 221-230. (done)
+    - **Article/Paper:** NA
+
+---
+
+# 📅 Saturday, March 7th
+
+### 🚀 Engineering & Skills Log
+- **German 🇩🇪**
+    - **Focus:**  Done for the day
+    - **Progress:**  
+    - **Detailed Notes:** [click here](../../Benchmarks/03-Learning-German(Deutsch)/2026/03-March.md#2026-03-07)
+
+- **IELTS 🇬🇧**
+    - **Activity:** No activity, fatigue overload.
+    - **Result:** 
+    - **Analysis:** 
+
+- **CS50x 💻**
+    - **Topic:** 
+    - **Notes:** [click here](../../Benchmarks/02-CS50x/01-Logs/03-March-2026/07_March_7th_2026_Saturday.md)
+
+- **Reading & Research 📚**
+    - **The Almanack of Naval Ravikant** : Read page 191-200. (done)
+    - **Can't hurt me** : Read page 231-240. (done)
+    - **Article/Paper:** NA
+
+---
+
+# 📅 Sunday, March 8th
+
+### 🚀 Engineering & Skills Log
+- **German 🇩🇪**
+    - **Focus:**  Not much, todaii german betrayed me, they are unreliable, they are petty pay to win shits.
+    - **Progress:**  outside vocab and massive imporvement in nicos weg.
+    - **Detailed Notes:** [click here](../../Benchmarks/03-Learning-German(Deutsch)/2026/03-March.md#2026-03-08)
+
+- **IELTS 🇬🇧**
+    - **Activity:** 
+    - **Result:** 
+    - **Analysis:** 
+
+- **CS50x 💻**
+    - **Topic:** DONE doing 1 hour  , now gotta do the rest of the class within today.
+    - **Notes:** [click here](../../Benchmarks/02-CS50x/01-Logs/03-March-2026/08_March_8th_2026_Sunday.md)
+
+- **Reading & Research 📚**
+    - **The Almanack of Naval Ravikant** : Read page 201-210. (done)
+    - **Can't hurt me** : Read page 241-250. (done)
+    - **Article/Paper:** NA
+
+---
+
