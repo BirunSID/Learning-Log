@@ -252,7 +252,7 @@
     - **Analysis:** 
 
 - **CS50x 💻**
-    - **Topic:** 
+    - **Topic:**  Done with pset 3.1, sort. Tomorrow, we move onto problem set 3.2
     - **Notes:** [click here](../../Benchmarks/02-CS50x/01-Logs/03-March-2026/11_March_11th_2026_Wednesday.md)
 
 - **Reading & Research 📚**

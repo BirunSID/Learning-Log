@@ -525,3 +525,68 @@ NO VOCABS
 <a id="2026-03-11"></a>
 ## 📅 Entry: Wednesday, 11th March
 
+---
+### 📘 Lessons
+
+- [x] Nicos weg :
+- [x] Duolingo
+- [x] Easy German youtube
+- [x] independent vocabulary
+
+---
+
+### 📘 Vocabulary — Nicos Weg
+#### NO NEW VOCAB TODAY.
+
+| German | English | Notes/Context |
+| ------ | ------- | ------------- |
+|        |         |               |
+
+
+---
+
+### 📗 Vocabulary — Duolingo
+#### NO new vocab learnt today.
+
+| German | English | Notes/Context |
+| ------ | ------- | ------------- |
+|        |         |               |
+
+---
+
+### 🗒️Vocabulary outside source
+
+#### Till 50th
+
+| German      | English              | Notes/Context           |
+| ----------- | -------------------- | ----------------------- |
+| Die Angabe  | Information          |                         |
+| Die Angebot | Special offer/ offer |                         |
+| Die Angina  | Angina               | cardio medical syndrome |
+| Die Angst   | fear                 |                         |
+| Ankommen    | arrive               |                         |
+
+
+---
+
+### 🧠 Logic / Grammar Notes
+
+> 
+
+---
+
+### 📝 Output / Practice Notes
+- 
+- 
+
+---
+
+### 📝 Practice Sentences
+
+```text
+```
+
+---
+
+<a id="2026-03-12"></a>
+## 📅 Entry: Thursday, 12th March

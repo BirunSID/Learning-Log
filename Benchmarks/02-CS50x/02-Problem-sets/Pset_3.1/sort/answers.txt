@@ -1,0 +1,11 @@
+sort1 uses: Bubble sort
+
+How do you know?: Slow on random input, slowest in reversed input, a bit faster in sorted order compared to selection sort which is sort3
+
+sort2 uses: Merge sort
+
+How do you know?: significantly fasted across all metrics compared to the other 2 programmes, thus merge sort it is.
+
+sort3 uses: Selection sort
+
+How do you know?: Big O notation n^2 indicates that it will be slower than merge sort when the input is in sorted order. Comparing with sort1 which is a bubble sort, thus it is selection sort
