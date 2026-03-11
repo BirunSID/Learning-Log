@@ -381,3 +381,147 @@ NO VOCABS
 <a id="2026-03-09"></a>
 ## 📅 Entry: Monday, 9th March
 
+---
+### 📘 Lessons
+
+- [x] Nicos weg :
+- [x] Duolingo
+- [x] German Dub and sub movies/animes
+- [x] independent vocabulary
+
+---
+
+### 📘 Vocabulary — Nicos Weg
+
+| German                | English               | Notes/Context |
+| --------------------- | --------------------- | ------------- |
+| antworten             | to answer something   |               |
+| dreimal               | thrice                |               |
+| fragen                | to ask                |               |
+| das fundburo          | lost and found        |               |
+| das handy             | cell phone            |               |
+| die  handynummer      | cell phone number     |               |
+| horen                 | to hear               |               |
+| ich bin 23 jahre alt  | I'm 23 years old      |               |
+| null                  | zero                  |               |
+| das radio             | radio                 |               |
+| mit jemandem sprechen | to speak with someone |               |
+| die telefonnummer     | telephone number      |               |
+| etwas verlieren       | to lose something     |               |
+| wichtig               | important             |               |
+| zweimal               | twice                 |               |
+
+
+---
+
+### 📗 Vocabulary — Duolingo
+#### no new vocab for today.
+
+| German | English | Notes/Context |
+| ------ | ------- | ------------- |
+|        |         |               |
+|        |         |               |
+
+---
+
+### 🗒️Vocabulary outside source.
+#### TIll 40th
+
+| German       | English                | Notes/Context |
+| ------------ | ---------------------- | ------------- |
+| die altstadt | old city               |               |
+| Amerika      | America                |               |
+| An bord      | on board               |               |
+| anbieten     | provide help           |               |
+| anders       | different(compared to) |               |
+
+
+---
+
+### 🧠 Logic / Grammar Notes
+
+> 
+
+---
+
+### 📝 Output / Practice Notes
+- 
+- 
+
+---
+
+### 📝 Practice Sentences
+
+```text
+```
+
+---
+
+<a id="2026-03-10"></a>
+## 📅 Entry: Tuesday, 10th March
+
+---
+### 📘 Lessons
+
+- [x] Nicos weg :
+- [x] Duolingo
+- [x] Easy german youtube
+- [x] independent vocabulary
+
+---
+
+### 📘 Vocabulary — Nicos Weg
+#### NONE learned today
+
+| German | English | Notes/Context |
+| ------ | ------- | ------------- |
+|        |         |               |
+
+
+---
+
+### 📗 Vocabulary — Duolingo
+#### NONE learned today
+
+| German | English | Notes/Context |
+| ------ | ------- | ------------- |
+|        |         |               |
+
+---
+
+### 🗒️Vocabulary outside source.
+#### Till 45th
+
+| German         | English                 | Notes/Context |
+| -------------- | ----------------------- | ------------- |
+| die Anfahrt    | trip/ journey/ approach |               |
+| die Anfang     | start/ Begin            |               |
+| Anfangen       | Begin                   |               |
+| die Anfanger   | Beginner (male)         |               |
+| die Anfangerin | Beginner (female)       |               |
+
+
+---
+
+### 🧠 Logic / Grammar Notes
+
+> 
+
+---
+
+### 📝 Output / Practice Notes
+- 
+- 
+
+---
+
+### 📝 Practice Sentences
+
+```text
+```
+
+---
+
+<a id="2026-03-11"></a>
+## 📅 Entry: Wednesday, 11th March
+

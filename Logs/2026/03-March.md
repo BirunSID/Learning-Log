@@ -190,3 +190,74 @@
 
 ---
 
+# 📅 Monday, March 9th
+
+### 🚀 Engineering & Skills Log
+- **German 🇩🇪**
+    - **Focus:**  Done for today.
+    - **Progress:**  
+    - **Detailed Notes:** [click here](../../Benchmarks/03-Learning-German(Deutsch)/2026/03-March.md#2026-03-09)
+
+- **IELTS 🇬🇧**
+    - **Activity:** NONE done today
+    - **Result:** 
+    - **Analysis:** 
+
+- **CS50x 💻**
+    - **Topic:** Completed the cs50x lecture for 3rd week.
+    - **Notes:** [click here](../../Benchmarks/02-CS50x/01-Logs/03-March-2026/09_March_9th_2026_Monday.md)
+
+- **Reading & Research 📚**
+    - **The Almanack of Naval Ravikant** : Read page 211-220. (done)
+    - **Can't hurt me** : Read page 251-260. (done)
+    - **Article/Paper:** NA
+
+---
+
+# 📅 Tuesday, March 10th
+
+### 🚀 Engineering & Skills Log
+- **German 🇩🇪**
+    - **Focus:**  Done for today.
+    - **Progress:**  vocabulay enriching but not listening, Its hard to find resources.
+    - **Detailed Notes:** [click here](../../Benchmarks/03-Learning-German(Deutsch)/2026/03-March.md#2026-03-10)
+
+- **IELTS 🇬🇧**
+    - **Activity:** NO ACTIVITY
+    - **Result:** 
+    - **Analysis:** 
+
+- **CS50x 💻**
+    - **Topic:** Done with the shorts today. From tomorrow on, we will do the problem sets.
+    - **Notes:** [click here](../../Benchmarks/02-CS50x/01-Logs/03-March-2026/10_March_10th_2026_Tuesday.md)
+
+- **Reading & Research 📚**
+    - **The Almanack of Naval Ravikant** : Read page 221-242. (FINISHED)
+    - **Can't hurt me** : Read page 261-270. (done)
+    - **Article/Paper:** NA
+
+---
+
+# 📅 Wednesday, March 11th
+
+### 🚀 Engineering & Skills Log
+- **German 🇩🇪**
+    - **Focus:**  
+    - **Progress:**  
+    - **Detailed Notes:** [click here](../../Benchmarks/03-Learning-German(Deutsch)/2026/03-March.md#2026-03-11)
+
+- **IELTS 🇬🇧**
+    - **Activity:** 
+    - **Result:** 
+    - **Analysis:** 
+
+- **CS50x 💻**
+    - **Topic:** 
+    - **Notes:** [click here](../../Benchmarks/02-CS50x/01-Logs/03-March-2026/11_March_11th_2026_Wednesday.md)
+
+- **Reading & Research 📚**
+    - **The Almanack of Naval Ravikant** : FINISHED
+    - **Can't hurt me** : Read page 271-290. (done) {20 pages here since we have to fill the daily quota}
+    - **Article/Paper:** NA
+
+---

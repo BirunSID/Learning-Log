@@ -1,0 +1,1 @@
+Completeted the short today and created the notes on the cs50x concepts.
