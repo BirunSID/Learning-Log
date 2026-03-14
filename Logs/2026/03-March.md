@@ -242,12 +242,12 @@
 
 ### 🚀 Engineering & Skills Log
 - **German 🇩🇪**
-    - **Focus:**  
-    - **Progress:**  
+    - **Focus:**  done for the day
+    - **Progress:**  easy german YT is a very stable resource.
     - **Detailed Notes:** [click here](../../Benchmarks/03-Learning-German(Deutsch)/2026/03-March.md#2026-03-11)
 
 - **IELTS 🇬🇧**
-    - **Activity:** 
+    - **Activity:** NONE TODAY
     - **Result:** 
     - **Analysis:** 
 
@@ -261,3 +261,84 @@
     - **Article/Paper:** NA
 
 ---
+
+# 📅 Thursday, March 12th
+
+### 🚀 Engineering & Skills Log
+- **German 🇩🇪**
+    - **Focus:**  done for the day.
+    - **Progress:**  Easy german is a GEMMM!!
+    - **Detailed Notes:** [click here](../../Benchmarks/03-Learning-German(Deutsch)/2026/03-March.md#2026-03-12)
+
+- **IELTS 🇬🇧**
+    - **Activity:** 
+    - **Result:** 
+    - **Analysis:** 
+
+- **CS50x 💻**
+    - **Topic:** Done with pset 3.2.
+    - **Notes:** [click here](../../Benchmarks/02-CS50x/01-Logs/03-March-2026/12_March_12th_2026_Thursday.md)
+
+- **Reading & Research 📚**
+    - **The Almanack of Naval Ravikant** : FINISHED
+    - **Can't hurt me** : Read page 291-306. (FINISHED) 
+    - **Article/Paper:** NA
+
+---
+
+# 📅 Friday, March 13th
+
+### 🚀 Engineering & Skills Log
+- **German 🇩🇪**
+    - **Focus:**  ...
+    - **Progress:**  ...
+    - **Detailed Notes:** NONE as it is friday
+
+- **IELTS 🇬🇧**
+    - **Activity:** NONE TODAY AS IT IS FRIDAY
+    - **Result:** ...
+    - **Analysis:** ...
+
+- **CS50x 💻**
+    - **Topic:** ...
+    - **Notes:** NONE as it is friday
+
+- **Reading & Research 📚**
+    - **Deep work** *REVIEW*  : NONE TODAY AS IT IS FRIDAY
+    - **Psychology of Money** *REVIEW* : NONE TODAY AS IT IS FRIDAY
+    - **Article/Paper:** NA
+
+---
+
+# 📅 Saturday, March 14th
+
+## 🚀 Engineering & Skills Log
+
+### 🔵I. Human OS : (Non-Negotiable: Maintenance)
+- **German 🇩🇪**
+    - **Focus:**  Done for the day.
+    - **Progress:**  I have a feeling that im slowly grasping the german words and spellings and pronunciation.
+    - **Detailed Notes:** [click here](../../Benchmarks/03-Learning-German(Deutsch)/2026/03-March.md#2026-03-14)
+
+- **IELTS 🇬🇧**
+    - **Activity:** 
+    - **Result:** 
+    - **Analysis:** 
+
+- **Reading & Research** (*Review session* : target 50 pages/day)
+    - **Deep work** *REVIEW*  : First 30 pages re-read, concepts taken, action items taken and revisions were done. The revision was to extract very few concepts and action items should be zettel and direct executive behaviours. Authors, biographies, examples are not be extracted.
+    - **Article/Paper:** NA
+
+### 🟢 II. THE ENGINE : (Non-Negotiable: Daily Foundation)
+
+- **CS50x 💻**
+    - **Topic:** done for the day, my brain circuits are fried. But i understood the main concept, just the coding concept and functions are being a pain in the ass.
+    - **Notes:** [click here](../../Benchmarks/02-CS50x/01-Logs/03-March-2026/14_March_14th_2026_Saturday.md)
+
+### 🟡 III. THE TOOLBELT (Applied: Project-Based Only)
+
+- 
+
+### 🟣 IV. THE PROFESSIONAL LAYER (Milestone-based)
+
+- 

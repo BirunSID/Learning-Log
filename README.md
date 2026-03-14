@@ -19,3 +19,5 @@
 **Naming conventions** : 
 - hyphen(-) and underscore(_) will be used instead of space for ensuring no errors happen.
 - proper numbers will be assinged to make sure we dont mess up the file order because vs code default is file order by name.
+
+# update 1 : massive overhaul was done to daily logging from 14 March onwards.

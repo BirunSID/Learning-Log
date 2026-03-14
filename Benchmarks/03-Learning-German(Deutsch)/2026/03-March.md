@@ -590,3 +590,84 @@ NO VOCABS
 
 <a id="2026-03-12"></a>
 ## 📅 Entry: Thursday, 12th March
+
+---
+### 📘 Lessons
+
+- [x] Nicos weg 
+- [x] Duolingo
+- [x] Easy German youtube
+- [x] independent vocabulary
+
+---
+
+### 📘 Vocabulary — Nicos Weg
+
+| German                    | English                        | Notes/Context |
+| ------------------------- | ------------------------------ | ------------- |
+| Entschuldigung            | excuse me                      |               |
+| fehlen                    | missing                        |               |
+| Mir geht's gut            | I'm doing good                 |               |
+| schreiben                 | to write something             |               |
+| mit jemandem telefonieren | to speak with someone          |               |
+| Viel Gluck                | Good luck                      |               |
+| warum                     | why                            |               |
+| wer ist da                | who is it?                     |               |
+| wie heißt die straße      | what is the name of the street |               |
+| wo bist du                | where are you from             |               |
+| wo ist dei polizei        | where is the police station?   |               |
+
+
+---
+
+### 📗 Vocabulary — Duolingo
+#### NO new vocab today
+
+| German | English | Notes/Context |
+| ------ | ------- | ------------- |
+|        |         |               |
+
+---
+
+### 🗒️Vocabulary outside source.
+#### Review of the previous 50 ongoing. 
+##### We are not to proceed further till all 50 vocabs are revised.
+
+| German | English | Notes/Context |
+| ------ | ------- | ------------- |
+|        |         |               |
+
+
+---
+
+### 🧠 Logic / Grammar Notes
+
+> 
+
+---
+
+### 📝 Output / Practice Notes
+- 
+- 
+
+---
+
+### 📝 Practice Sentences
+
+```text
+```
+
+---
+
+<a id="2026-03-13"></a>
+## 📅 Entry: Friday, 13th March
+
+NONE as it is friday
+
+---
+
+<a id="2026-03-14"></a>
+## 📅 Entry: Saturday, 14th March
+
+---
+
