@@ -668,6 +668,142 @@ NONE as it is friday
 
 <a id="2026-03-14"></a>
 ## 📅 Entry: Saturday, 14th March
+---
+### 📘 Lessons
+
+- [x] Nicos weg :
+- [x] Duolingo
+- [x] Easy German youtube
+- [x] independent vocabulary
 
 ---
 
+### 📘 Vocabulary — Nicos Weg
+#### No new vocabs today
+
+| German | English | Notes/Context |
+| ------ | ------- | ------------- |
+|        |         |               |
+
+
+---
+
+### 📗 Vocabulary — Duolingo
+#### No new vocabs today
+
+| German | English | Notes/Context |
+| ------ | ------- | ------------- |
+|        |         |               |
+
+---
+
+### 🗒️Vocabulary outside source.
+#### Till 55th
+
+| German        | English           | Notes/Context |
+| ------------- | ----------------- | ------------- |
+| Die Ankunft   | The arrival       |               |
+| Die Anmeldung | The Registration  |               |
+| Annehmen      | Assume/agree      |               |
+| Anprobieren   | Try it on (cloth) |               |
+| Die Anrede    | The salutation    |               |
+
+
+---
+
+### 🧠 Logic / Grammar Notes
+
+> 
+
+---
+
+### 📝 Output / Practice Notes
+- ich bin Arztin, meine schewester's arbeit ist stressig.
+- 
+
+---
+
+### 📝 Practice Sentences
+
+```text
+```
+
+---
+
+<a id="2026-03-15"></a>
+## 📅 Entry: Sunday, 15th March
+
+---
+### 📘 Lessons
+
+- [x] Nicos weg :
+- [x] Duolingo
+- [x] Easy German youtube
+- [x] independent vocabulary
+
+---
+
+### 📘 Vocabulary — Nicos Weg
+#### no vocab today.
+
+| German | English | Notes/Context |
+| ------ | ------- | ------------- |
+|        |         |               |
+
+
+---
+
+### 📗 Vocabulary — Duolingo
+
+| German             | English             | Notes/Context |
+| ------------------ | ------------------- | ------------- |
+| male               | paint               |               |
+| koche              | cook                |               |
+| schwimme           | swim                |               |
+| nie                | never               |               |
+| manchmal           | sometimes           |               |
+| malst du           | do you paint        |               |
+| kochst du          | do you cook         |               |
+| du schwimmst       | you swim            |               |
+| du malst gut       | you paint good      |               |
+| ich male sehr gut  | i paint really good |               |
+| schwimst du        | do you swim         |               |
+| ich koche sehr gut | i cook really well  |               |
+
+---
+
+### 🗒️Vocabulary outside source.
+#### till 60th
+
+| German      | English    | Notes/Context                          |
+| ----------- | ---------- | -------------------------------------- |
+| die anruf   | calls      |                                        |
+| anrufen     | call       |                                        |
+| anschauen   | look at    |                                        |
+| das ansehen | watch that |                                        |
+| anstrengend | stressful  | todaii germans making wrong calls here |
+
+
+---
+
+### 🧠 Logic / Grammar Notes
+
+> 
+
+---
+
+### 📝 Output / Practice Notes
+- 
+- 
+
+---
+
+### 📝 Practice Sentences
+
+```text
+```
+
+---
+
+<a id="2026-03-16"></a>
+## 📅 Entry: Monday, 16th March

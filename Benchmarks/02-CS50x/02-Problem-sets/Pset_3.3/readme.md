@@ -118,3 +118,44 @@ Further down in the file, you’ll see that the functions `vote`, `record_prefer
 
 ---
 
+# TODO solving
+
+## bool vote(int rank, string name, int ranks[])
+ 
+ - think of vote() as a officer in a polling station and checks if a voter gives correct name and write it down. if its invalid, then dont write it down and tell them that it is invalid.
+ - the input variables: 
+   - `rank`: This is just which slot you are filling (e.g., "This is my 1st choice", "This is my 2nd choice").
+   - `name`: The string the voter typed in (e.g., "Alice").
+   - `ranks[]`: This is your notepad. You are going to write the index number (0, 1, or 2) of the candidate into this array at the specific position of rank.
+
+- `the next steps are important`
+- Iterate through the candidates: You have an array called candidates[] that holds the names of everyone running. You need to look through that list one by one.
+
+- Compare strings: C doesn't let you compare strings with ==. You have to use the function strcmp(string1, string2).
+  - If strcmp returns 0, it means the strings are identical! Match found!
+- Update the notepad: If you find a match at index i of your candidates[] array, that means the voter wants that person in the current rank slot. So, you set ranks[rank] = i;.
+- Return:
+  - If you found the candidate, you successfully recorded the vote. Return true.
+  - If you finish checking every candidate and none of them matched the name the voter typed, the voter messed up. Return false.
+
+### see this below, the iteration explanation:
+
+Iteration 1 (Rank 0 - The voter's 1st choice):
+`main` calls `vote(0, "Charlie", ranks)`.
+Inside `vote`, you loop through `candidates[0]`, `candidates[1]`, `candidates[2]`.
+When you hit `candidates[2]`, strcmp says "Match!"
+You execute `ranks[0] = 2`;. The "Notepad" now holds: `[2, ?, ?]`
+
+Iteration 2 (Rank 1 - The voter's 2nd choice):
+`main` calls `vote(1, "Alice", ranks)`.
+You loop through the candidates again.
+Match found at index `0`.
+You execute `ranks[1] = 0`;. The "Notepad" now holds: `[2, 0, ?]`
+
+Iteration 3 (Rank 2 - The voter's 3rd choice):
+`main` calls `vote(2, "Bob", ranks)`.
+Match found at index `1`.
+You execute `ranks[2] = 1`;. The "Notepad" now holds: `[2, 0, 1]`
+
+
+## void record_preferences(int ranks[])

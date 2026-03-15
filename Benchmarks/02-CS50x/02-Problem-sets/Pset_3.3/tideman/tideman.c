@@ -1,5 +1,6 @@
-#include <cs50.h>
+#include "../../cs50.h"
 #include <stdio.h>
+#include <string.h>
 
 // Max number of candidates
 #define MAX 9
@@ -99,6 +100,20 @@ int main(int argc, string argv[])
 bool vote(int rank, string name, int ranks[])
 {
     // TODO
+    // loops through all the candidates to see if the name matches.
+    for (int i = 0; i < candidate_count; i++)
+    {
+        // checks if the voter's input matches the candidate's name
+        if (strcmp(name, candidates[i]) == 0)
+        {
+            // we found the match
+            // put their index (i) into the ranks array at the current rank position
+            ranks[rank] = i;
+
+            // return true because the vote was valid
+            return true;
+        }
+    }
     return false;
 }
 
