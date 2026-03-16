@@ -121,6 +121,17 @@ bool vote(int rank, string name, int ranks[])
 void record_preferences(int ranks[])
 {
     // TODO
+    // the outer loop which picks the first candidate who was preferred by the voter.
+    for (int i = 0; i < candidate_count; i++)
+    {
+        // the inner loop which picks the candidates that were preferred lower one by one
+        for (int j = i + 1; j < candidate_count; j++)
+        {
+            // the candidate i were preferred over candidate at j
+            // incrememnt the specific cell of winner:loser bote vote difference pair by one
+            preferences[ranks[i]][ranks[j]]++;
+        }
+    }
     return;
 }
 
@@ -128,6 +139,25 @@ void record_preferences(int ranks[])
 void add_pairs(void)
 {
     // TODO
+
+    for (int i = 0; i < candidate_count; i++)
+    {
+        for (int j = i + 1; j < candidate_count; j++)
+        {
+            if (preferences[i][j] > preferences[j][i])
+            {
+                pairs[pair_count].winner = i;
+                pairs[pair_count].loser = j;
+                pair_count++;
+            }
+            else 
+            {
+                pairs[pair_count].winner = j;
+                pairs[pair_count].loser = i; 
+                pair_count++;
+            }
+        }
+    }
     return;
 }
 

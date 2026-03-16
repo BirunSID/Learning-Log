@@ -159,3 +159,60 @@ You execute `ranks[2] = 1`;. The "Notepad" now holds: `[2, 0, 1]`
 
 
 ## void record_preferences(int ranks[])
+
+- This function acts as a transformer of some sort. it takes the voteres preference ballot which was stored in the ranks[] function and then turns this into a paired vote count, like if 2 is preferred over 1, then, in the pair of [2][1], 2 has one more vote than 1. it compares pair by pair
+
+- okay, so the function first takes the ranks[] array where ranks[0] is the voter's 1# choice and then the ranks[1] is the voter's 2# choice and so on. 
+  - at the end we have an updated preferences[i][j] matrix. The value at preferences[winner][loser] represents the total count of voters who prefer candidate winner over candidate loser.
+
+- Since a voter's ballot `([2, 0, 1])` implies that candidate `2` is preferred over `0`, `2` is preferred over `1`, and `0` is preferred over `1`, we must capture all these relationships.
+  - we do this using a double loop iteration. 
+    - outer loop, i is selected, which represents the index of the winner.
+    - inner loop, j is selected which takes the indexes of the losers who are opponents of i and they are selected one by one for each iteration, [2][0] and then [2][1] .
+    - then for each iteration, we increase value of the vote countn of that pair between winner and loser using `preferences[ranks[i]][ranks[j]]` by 1.
+
+- By setting the inner loop to int j = i + 1, weenforce the ballot's order. We only count a win if the candidate appears earlier in the ranks[] array than the opponent. This ensures we don't accidentally count that 2 beats 0 and 0 beats 2 for the same voter, which would be impossible.
+
+
+# void add_pairs(void)
+
+	    Col 0	Col 1	Col 2
+Row 0	  0	    5	    2
+Row 1	  3	    0	    1
+Row 2	  4	    7	    0
+
+so, in this case , we are trying to create just the pairs of winners and looser and reduce the amount of grids.
+
+if we take a look at this line of code `pair pairs[MAX * (MAX - 1) / 2];`, its essentially telling us that we have to figure out the maximum amount of pairs possible, for example, if we take 3 candidates, the maximum number of pairs possible is also 3, this is just a math formula. easy one.
+
+but from the previous 2 functions, we have been making a grid of function with all possible pair, lets say [2][0] and [0][2] , we are not treating this as one single pair but rather 2 different types of pair with 2 different types of results
+[2][0] has 7, meaning that `2` has 7 more votes than `0` ---> 2 is the winner here, and 0 the loser
+[0][2] has 2, meaning that `0` has 2 more votes than `2` ---> 0 is the loser here, and 2 the winner
+
+- both just mean the same thing, 
+but we want just the first one, like 2 is the winner here and 0 is the loser.
+
+so what we do is take advantage of the `typedef struct` and then we create a DIY customized new data type called pair and this has a `int winner` and `int looser` data and then, we create the pairs[] array using the DIY `pair` datatype.
+
+in here, at pairs[0], we have winner and a looser data and then the same at pairs[1] and same goes for everything that comes after, its like making houses were 2 people: a winner and a loser stays in.
+easy so far.
+
+But according to the math, there can only be a limited number of pairs, we cant consider [2][0] and [0][2] as the same, so we try to narrow it all down to just [2][0], the winner to the left and the loser to the right.
+
+now this is where `add_pairs()` function comes in. so we cant take [0][0] or [1][1] or even [2][2] because this cannot be 2 different pairs and just one kinda and there is nothing to do here, so we need to avoid this in the matrice, so we are avoiding t he trace of the matrice which always remains in `value 0`
+
+- our work is with [i][j] and [j][i] from where we derive only [i][j] where i is the clear winner.
+- so we take the first row which is [0] using outer for loop where i starts as `0` and then we start the inner loop where k=j starts as `i + 1`, which means, at row 0, the column is 1, meaning that we wont have to deal with the [0][0] or [1][1] or even [2][2] cases. and now , this solves our issue and now we work in the inner loop
+
+- in the inner loop, we use a if function in order to discern between the same type of pairing and then figure out one pair with a clear winner and a loser,
+
+-  in case of [2][0] and [0][2], we use a if function here to figure out who is preferred more. either 2 or 0? to do this , we set up `preferences[i][j] > preferences[j][i]` and then we put in the body of the if function the following 
+   -            pairs[pair_count].winner = i;   ---> pair_count is basically the index of the pairs array which has winner and loser.
+                pairs[pair_count].loser = j;    ---> this one gives the losers index to the pairs array 
+                pair_count++;       ---> this increases the value from initial 0 to 1 and then repeats to change the house of where to store the values to. this is the MAIN THING
+      
+- then we do an else and do the same reversed, THIS IS NOT AN else if , this is a simple else.
+
+- then return, done!!
+
+# void sort_pairs(void)

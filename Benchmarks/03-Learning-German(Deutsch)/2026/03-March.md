@@ -807,3 +807,81 @@ NONE as it is friday
 
 <a id="2026-03-16"></a>
 ## 📅 Entry: Monday, 16th March
+
+---
+### 📘 Lessons
+
+- [x] Nicos weg :
+- [x] Duolingo
+- [x] Easy German youtube
+- [x] independent vocabulary
+
+---
+
+### 📘 Vocabulary — Nicos Weg
+
+| German                    | English         | Notes/Context |
+| ------------------------- | --------------- | ------------- |
+| achthundert               | 800             |               |
+| achthundertachtundsiebzig | 878             |               |
+| das amt                   | authority       |               |
+| der dialog                | dialogue        |               |
+| fünfhundertfünfundvierzig | 545             |               |
+| das heimatland            | homeland        |               |
+| ich weiß es nicht         | i don't know    |               |
+| etwas kosten              | to cost         |               |
+| der nachname              | last name       |               |
+| der onkel                 | uncle           |               |
+| die passnummer            | password number |               |
+| die postleitzahl          | zip code        |               |
+| warum                     | why             |               |
+| der wohnort               | city/town/place |               |
+
+
+---
+
+### 📗 Vocabulary — Duolingo
+
+| German      | English    | Notes/Context |
+| ----------- | ---------- | ------------- |
+| er kocht    | he cooks   |               |
+| sie malt    | she paints |               |
+| immer       | always     |               |
+| oft         | often      |               |
+| das klavier | the piano  |               |
+| spiele      | play       |               |
+| du spielst  | you play   |               |
+| schach      | chesss     |               |
+
+---
+
+### 🗒️Vocabulary outside source.
+#### till 65th
+
+| German          | English       | Notes/Context |
+| --------------- | ------------- | ------------- |
+| der anzeige     | advertisement |               |
+| der apfel       | apple         |               |
+| der apfelkuchen | apple-pie     |               |
+| der apfelsaft   | apple-juice   |               |
+| die apotheke    | the pharmacy  |               |
+
+
+---
+
+### 🧠 Logic / Grammar Notes
+
+> 
+
+---
+
+### 📝 Output / Practice Notes
+- 
+- 
+
+---
+
+### 📝 Practice Sentences
+
+```text
+```
