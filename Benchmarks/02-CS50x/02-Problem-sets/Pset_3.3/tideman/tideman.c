@@ -128,7 +128,7 @@ void record_preferences(int ranks[])
         for (int j = i + 1; j < candidate_count; j++)
         {
             // the candidate i were preferred over candidate at j
-            // incrememnt the specific cell of winner:loser bote vote difference pair by one
+            // incrememnt the specific cell of winner:loser vote difference pair by one
             preferences[ranks[i]][ranks[j]]++;
         }
     }
@@ -165,6 +165,24 @@ void add_pairs(void)
 void sort_pairs(void)
 {
     // TODO
+    
+    for (int i = 0; i < pair_count - 1; i++)
+    {    
+        for (int j = 0; j < pair_count - 1 - i; j++)
+        {
+            if (preferences[pairs[j].winner][pairs[j].loser] < preferences[pairs[j+1].winner][pairs[j+1].loser])
+           {
+              int temp_winner = pairs[j].winner;
+              int temp_loser  = pairs[j].loser;
+  
+              pairs[j].winner = pairs[j+1].winner;
+              pairs[j].loser  = pairs[j+1].loser;
+  
+              pairs[j+1].winner = temp_winner;
+              pairs[j+1].loser  = temp_loser;
+           }
+        }
+    }
     return;
 }
 

@@ -885,3 +885,75 @@ NONE as it is friday
 
 ```text
 ```
+
+---
+
+<a id="2026-03-17"></a>
+## 📅 Entry: Tuesday, 17th March
+
+---
+# only duolingo lesson today. Nothing else. severe stomach issue.
+### 📘 Lessons
+
+- [ ] Nicos weg :
+- [x] Duolingo
+- [ ] Easy German youtube
+- [ ] independent vocabulary
+
+---
+
+### 📘 Vocabulary — Nicos Weg
+
+| German | English | Notes/Context |
+| ------ | ------- | ------------- |
+|        |         |               |
+
+
+---
+
+### 📗 Vocabulary — Duolingo
+
+| German   | English     | Notes/Context |
+| -------- | ----------- | ------------- |
+| geoffnet | open        |               |
+| imbiss   | snack bar   |               |
+| wirklich | really      |               |
+| hungrig  | hungry      |               |
+| links    | to the left |               |
+| Guck mal | look        |               |
+| trinken  | drink       |               |
+| durstig  | thirsty     |               |
+| joggen   | jog         |               |
+|          |             |               |
+
+---
+
+### 🗒️Vocabulary outside source.
+
+| German | English | Notes/Context |
+| ------ | ------- | ------------- |
+|        |         |               |
+
+
+---
+
+### 🧠 Logic / Grammar Notes
+
+> 
+
+---
+
+### 📝 Output / Practice Notes
+- 
+- 
+
+---
+
+### 📝 Practice Sentences
+
+```text
+```
+---
+
+<a id="2026-03-18"></a>
+## 📅 Entry: Wednesday, 18th March

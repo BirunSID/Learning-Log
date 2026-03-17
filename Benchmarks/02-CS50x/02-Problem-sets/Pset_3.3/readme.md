@@ -216,3 +216,20 @@ now this is where `add_pairs()` function comes in. so we cant take [0][0] or [1]
 - then return, done!!
 
 # void sort_pairs(void)
+
+- We have a list of pairs in the pairs[] array, but they are currently in a random mess based on how we found them in the matrix. we need these pairs sorted by "Strength of Victory" which is just a another way of saying "how many people preferred the winner over the loser."
+
+- to do this, i implemented the bubble sort algorithm to go one by one and push the weakest one to the last
+
+- Outer Loop (i): This is my "Pass Counter." Every time it runs, I know for a fact that one more "weak" pair has been bubbled down to its rightful place at the bottom.
+- Inner Loop (j): This is my "Worker." It scans the array and compares neighbors (pairs[j] vs pairs[j+1]).
+
+
+- *first optimization*: I make sure the worker (j) stops at pair_count - 1 so that j+1 never tries to access memory that doesn't exist. This prevents a Segmentation Fault and keeps the program running smooth.
+
+- *The 2nd "Optimization"* (The pair_count - 1 - i logic): I realized I don't need to check the entire array every single time. Since the previous passes (i) have already guaranteed that the weakest pairs are sinking to the bottom, the worker (j) can ignore the "already-sorted" zone. This makes the code faster and much more elegant.
+
+- When I find that pairs[j] is weaker than pairs[j+1], I have to swap them.
+- Instead of swapping the winner and loser fields one by one (which is messy), I created a pair temp variable. This acts like a temporary table where I can set down one "Passport" while I swap the other one into its place. It’s safe and prevents accidental data override.
+
+#
