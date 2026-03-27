@@ -458,4 +458,96 @@
 
 ### 🟣 IV. THE PROFESSIONAL LAYER (Milestone-based)
 
+
+---
+
+# 📅 Wednesday, March 18th
+
+## 🚀 Engineering & Skills Log
+
+# Declared complete and utter rest. NO WORK Today. NOT even duolingo
+
+### 🔵I. Human OS : (Non-Negotiable: Maintenance)
+- **German 🇩🇪**
+    - **Focus:**  rest
+    - **Progress:**  
+    - **Detailed Notes:** [click here](../../Benchmarks/03-Learning-German(Deutsch)/2026/03-March.md#2026-03-18)
+
+- **IELTS 🇬🇧**
+    - **Activity:** rest
+    - **Result:** 
+    - **Analysis:** 
+
+- **Reading & Research** (*Review session* : target 50 pages/day)
+    - **Psychology of money** *REVIEW*  : rest
+	    - progress: 
+		    - 
+    - **Article/Paper:** NA
+
+### 🟢 II. THE ENGINE : (Non-Negotiable: Daily Foundation)
+
+- **CS50x 💻**
+    - **Topic:** rest
+    - **Notes:** [click here](../../Benchmarks/02-CS50x/01-Logs/03-March-2026/18_March_18th_2026_Wednesday.md)
+
+### 🟡 III. THE TOOLBELT (Applied: Project-Based Only)
+
 - 
+
+### 🟣 IV. THE PROFESSIONAL LAYER (Milestone-based)
+
+---
+
+# 📅 Thursday, March 19th
+
+## 🚀 Engineering & Skills Log
+
+# EID holiday declared
+### 🔵I. Human OS : (Non-Negotiable: Maintenance)
+- **German 🇩🇪**
+    - **Focus:**  
+    - **Progress:**  
+    - **Detailed Notes:** [click here](../../Benchmarks/03-Learning-German(Deutsch)/2026/03-March.md#2026-03-19)
+
+- **IELTS 🇬🇧**
+    - **Activity:** 
+    - **Result:** 
+    - **Analysis:** 
+
+- **Reading & Research** (*Review session* : target 50 pages/day)
+    - **Psychology of money** *REVIEW*  :
+	    - progress: 
+		    - 
+    - **Article/Paper:** NA
+
+### 🟢 II. THE ENGINE : (Non-Negotiable: Daily Foundation)
+
+- **CS50x 💻**
+    - **Topic:** 
+    - **Notes:** [click here](../../Benchmarks/02-CS50x/01-Logs/03-March-2026/19_March_19th_2026_Thursday.md)
+
+### 🟡 III. THE TOOLBELT (Applied: Project-Based Only)
+
+- 
+
+### 🟣 IV. THE PROFESSIONAL LAYER (Milestone-based)
+
+---
+
+# 📅 Friday, March 20th -> eid holiday
+
+# 📅 Saturday, March 21st -> eid holiday
+
+# 📅 Sunday, March 22nd -> IELTS PREP
+
+# 📅 Monday, March 23rd -> IELTS PREP
+
+# 📅 Tuesday, March 24th -> IELTS PREP
+
+# 📅 Wednesday, March 25th -> IELTS PREP
+
+# 📅 Thursday, March 26th -> IELTS PREP
+
+# 📅 Friday, March 27th -> IELTS PREP
+
+# 📅 Saturday, March 28th

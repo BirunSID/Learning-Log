@@ -957,3 +957,70 @@ NONE as it is friday
 
 <a id="2026-03-18"></a>
 ## 📅 Entry: Wednesday, 18th March
+
+Declared rest today. body not good.
+
+---
+
+<a id="2026-03-19"></a>
+## 📅 Entry: Thursday, 19th March
+
+# Holiday declared
+
+---
+
+<a id="2026-03-20"></a>
+## 📅 Entry: Friday, 20th March
+
+# Holiday declared
+
+---
+
+<a id="2026-03-21"></a>
+## 📅 Entry: Saturday, 21st March
+
+# EID Holiday declared
+
+---
+
+<a id="2026-03-22"></a>
+## 📅 Entry: Sunday, 22nd March
+
+# EID Holiday declared
+
+---
+
+<a id="2026-03-23"></a>
+## 📅 Entry: Monday, 23rd March
+
+# IELTS declared
+
+---
+
+<a id="2026-03-24"></a>
+## 📅 Entry: Tuesday, 24th March
+
+# IELTS declared
+
+---
+
+<a id="2026-03-25"></a>
+## 📅 Entry: Wednesday, 25th March
+
+# IELTS declared
+
+---
+
+<a id="2026-03-26"></a>
+## 📅 Entry: Thursday, 26th March
+
+# IELTS declared
+
+---
+
+<a id="2026-03-27"></a>
+## 📅 Entry: Friday, 27th March
+
+# System Recalibration
+
+---
