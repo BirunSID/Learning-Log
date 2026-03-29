@@ -151,15 +151,16 @@ void add_pairs(void)
                 pairs[pair_count].loser = j;
                 pair_count++;
             }
-            else 
+             // ONLY add if the second person actually has MORE votes
+            else if (preferences[j][i] > preferences[i][j])
             {
                 pairs[pair_count].winner = j;
                 pairs[pair_count].loser = i; 
                 pair_count++;
             }
+             // If they are equal (a tie), do nothing!
         }
     }
-    return;
 }
 
 // Sort pairs in decreasing order by strength of victory
@@ -188,11 +189,28 @@ void sort_pairs(void)
 }
 
 // This is the helper function for lock_pairs function and makes things easier
-bool is_cycle(int start, int current)
+bool is_cycle(int winner, int current)
 {
-    
-    
-
+    // if the person we are currently standing on is "winner"
+    // it means we found a path from loser to winner
+    if ( current == winner)
+    {
+        return true; // so we found a cycle if it comes down to this line.
+    }
+    // look for who "current" points to
+    for (int i = 0; i < candidate_count; i++)
+    {
+        // check if there are any path connecting current and i
+        if (locked[current][i])
+        {
+            // follow the arrow to i and check if i can reach the winner.
+            if (is_cycle(winner, i)) // recursion loop that validates if we can go back to the winner from the loser.
+            {
+                return true; // the cycle continues
+            }
+        }      
+    }
+    return false; // no cycle found!!
 }
 
 // Lock pairs into the candidate graph in order, without creating cycles
@@ -214,7 +232,6 @@ void lock_pairs(void)
             // If the detector says "NO CIRCLE", we add the arrow to the board!
             locked[winner][loser] = true; 
         }
-        
         // If the detector says "YES CIRCLE", we do nothing. We skip this arrow.
     }
     return;
@@ -224,5 +241,25 @@ void lock_pairs(void)
 void print_winner(void)
 {
     // TODO
+
+    for (int candidate = 0; candidate < candidate_count; candidate++) // designate a potential candidate starting with the first amd reiterate
+    {
+        bool is_loser = false; // assign him to be a winner and not a loser initially.
+
+        for (int i = 0; i < candidate_count; i++) // designate someone who could possibly have beaten him and reiterate
+        {
+            if (locked[i][candidate] == true) // we check if any i candidate beat "candidate".
+            {
+                is_loser = true; // he is a loser even if one person were to beat him
+                break; // break the function, we dont need to check him anymore.
+            }
+        }
+        // after we check the above function and find out that the "candidate" is not a loser, we proceed to the following
+        if (is_loser == false)
+        {
+          printf("%s\n",candidates[candidate]);
+          return;
+        }
+    }
     return;
 }

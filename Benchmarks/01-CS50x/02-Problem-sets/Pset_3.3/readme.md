@@ -210,7 +210,7 @@ now this is where `add_pairs()` function comes in. so we cant take [0][0] or [1]
                 pairs[pair_count].loser = j;    ---> this one gives the losers index to the pairs array 
                 pair_count++;    ---> this increases the value from initial 0 to 1 and then repeats in order to change the house of where to store the values to. this is the MAIN THING!
       
-- then we do an else and do the same reversed, THIS IS NOT AN else if , this is a simple else.
+- then we do an `else if function` and do the same reversed, THIS IS NOT AN else , this is a simple else if with the order reversed.
 
 - then return, done!!
 
@@ -245,5 +245,36 @@ now this is where `add_pairs()` function comes in. so we cant take [0][0] or [1]
   -  AND if, if creates a loop, we simply ignore this and move on and do not draw a cirlce, i.e. : validate the winner loser pair as `true` and rather keep them `false` as declared in the main function
   -   and then we return. VOILA doNE!!!
 
-# bool is_cycle(int start, int current)
-- 
+# bool is_cycle(int winner, int current)
+- First , we start by checking if the `current(loser)` is same as `winner`. if it is, then we have went back to the `winner` from the `loser` and so we cant draw the path since it will close the loop and create a `cycle`.
+
+- Now what we do is, we take a new variable called `i` and then we use a `for loop` to increment it and use a `if loop` inside of it and then check if there are any path between the `loser` and `i`, which may eventually go to `winner` too. 
+  - if we dont find a path between `loser` and `i`, then good, there are no `circles` that could accidentally form.
+  - if we do find a path, then we use `recursion` here, we create another `if function` inside of the first one to send back `winner` and `i` to find out if `i` could go back to the `winner`, and then the function keeps going
+
+- and in event of `i` being the same value as `winner`, the first `if function` checking winner and `current` will return `true` and thus the existence of `cycle` is proven and it will return true which will go to the `lock_pairs` function and make it `false` using the exclamation mark and create no path from `winner` to `loser` since it could trigger a cycle and end
+  
+- voila!!, done. 
+
+# void print_winner(void)
+
+- So, this is a little tricky, but is easy if we can get the gist of it
+
+- To find out the winner, we have to access the `candidates[]` array, look closely, it has a `"s"` alongside `"candidate"`. now, we need to find the `candidate` and then put him inside of this array to figure out his position and print him out as the `winner`.
+
+- But the issue now is, how do we figure out who is the `candidate` here?
+  - earlier we solved the `lock_pairs[]` array, this has some true values now as to who has an `arrow` pointing towards them. Now, if we look back to the `tideman` algorithms main concept, the clear ***winner has no arrows pointing towards them***. meaning that the `lock_pair` function will return false for them and thus they, i mean HE/SHE will be the sole `winner`, and since we used helper `function is_cycle` to identify and not make arrows if they were to create a circle, we will always have a clear `definite winner` no matter what!
+
+- so, what we do is actually reversing the concept here, we designate the array lock_pairs[winner][loser] and then we try to see if it returns false, because if it returns false, that means the loser is the winner in this case, but there are more possible cases due to pairing system, TO solve this:
+  - we use a outer `for loop` to indicate the loser value as `candidate` variable to easily check the code.
+  - we now create another variable called `is_loser` and give it the boolean value of `false` at first. Since, everyones a winner unless proven otherwise.
+  - now we run a inner for loop mechanism to designate potential `i` as winners, and then we use a `if function` to check if the lock_pairs[i][candidate] is true or false. what this does is figure out if candidate loses against anyone or not, we are trying all possible candidate pair combination here to figure this out.
+    - and if anyone returns true, we turn the `is_loser variable` value to `true` which means that someone(i) is beating `candidate` and so we break the function and then go to the outer for loop and move on to the next candidate by incrementing the candidate variable by 1.
+    - what if it returned false and never true? in that case
+
+      - we move on to the next line after the first `if function` and create a second if function and check if is_loser is false.
+      - and if `is_loser` variable is false, voila! this is a clear definitive final winner, 
+    - we not take his `candidate` integer value and plug it in the `candidates[]` array and print out the winners name as the final winner, done!!
+  - There are some issues that can make the code not work, the issue is the return after the `printf` function. it is critical or else in case of a tie, there could be 2 clear winners instead of one.
+      -  why we use this? in C, the for loops keeps looping until we explicitly tell it to break and stop using some very specific keywords and `return;` is one of them. 
+      -  In this case, right after printing the candidate name, we should stop everything and return. But without the `return` keyword, a very interesting thing happens, the entire for loops keeps getting executed even if we have a clear winner at the first. why? because we really infact have 2 DAMN WINNERS but the program is designed not to get 2 clear winners and rather one at any cost even if it doesnt follow the fundamental ethics.

@@ -590,21 +590,21 @@
 
 ### 🔵I. Human OS : (Non-Negotiable: Maintenance)
 - **German 🇩🇪**
-    - **Focus:**  
-    - **Progress:**  
+    - **Focus:**  Done for the day, But i cut short on every one of them in order to make time for the other tasks due to the day taking more time than usual.
+    - **Progress:**  Not much but better than nothing.
     - **Detailed Notes:**   [Click here](../../Benchmarks/02-Learning-German(Deutsch)/2026/03-March.md#2026-03-29)
 ㅤ
 - **Reading & Research** (*Review session* : target 50 pages/day)  
-    - **Psychology of money** *REVIEW*  :  
+    - **Psychology of money** *REVIEW*  : Done 10 for today.
 	    - progress :
-		    -   
+		    -  1 - 10 
     - **Article/Paper:** NA  
  ㅤ
 ### 🟢 II. THE ENGINE : (Non-Negotiable: Daily Foundation)
 
 - **CS50x 💻**
-    - **Topic:** 
-    - **Notes:** [click here](../../Benchmarks/02-CS50x/01-Logs/03-March-2026/29_March_29th_2026_Sunday.md)
+    - **Topic:** Done with tideman, tomorrow, finishing up the week 4 and then will move on to the problem sets.
+    - **Notes:** [click here](../../Benchmarks/01-CS50x/01-Logs/03-March-2026/29_March_29th_2026_Sunday.md)
 ㅤ
 ### 🟡 III. THE TOOLBELT (Applied: Project-Based Only)
 

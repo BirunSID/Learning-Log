@@ -1,5 +1,5 @@
 {
-    "C_Cpp.errorSquiggles": "enabled",
+    "C_Cpp.errorSquiggles": "disabled",
     "editor.fontFamily": "JetBrains Mono, Consolas, monospace",
     "editor.fontLigatures": true,
     "editor.lineHeight": 24,

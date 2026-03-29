@@ -1032,3 +1032,69 @@ Declared rest today. body not good.
 
 <a id="2026-03-29"></a>
 ## 📅 Entry: Sunday, 29th March
+
+---
+### 📘 Lessons
+
+- [x] Nicos weg  
+- [x] Duolingo
+- [x] Easy German youtube
+- [x] independent vocabulary
+
+---
+
+### 📘 Vocabulary — Nicos Weg
+
+| German | English | Notes/Context |
+| ------ | ------- | ------------- |
+|        |         |               |
+
+
+---
+
+### 📗 Vocabulary — Duolingo
+
+| German | English | Notes/Context |
+| ------ | ------- | ------------- |
+| euro   | euro    |               |
+| kostet | costs   |               |
+| mude   | tired   |               |
+
+---
+
+### 🗒️Vocabulary outside source.
+
+#### Till 70th
+
+| German           | English         | Notes/Context |
+| ---------------- | --------------- | ------------- |
+| das antibiotikum | antibiotics     |               |
+| die antwort      | answer          |               |
+| antworten        | answer/reply    |               |
+| die anwendung    | the application |               |
+| die anzahl       | numbers         |               |
+
+
+---
+
+### 🧠 Logic / Grammar Notes
+
+> 
+
+---
+
+### 📝 Output / Practice Notes
+- 
+- 
+
+---
+
+### 📝 Practice Sentences
+
+```text
+```
+
+---
+
+<a id="2026-03-30"></a>
+## 📅 Entry: Monday, 30th March
