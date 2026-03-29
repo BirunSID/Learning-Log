@@ -6,11 +6,11 @@
 - **German 🇩🇪**
     - **Focus:**  did the lesson Ich heiße Emma , fully now.
     - **Progress:** 83% correct. not much. but honest work.
-    - **Detailed Notes:** find details [here](../../Benchmarks/03-Learning-German(Deutsch)/2026/02-February.md#2026-02-01)
+    - **Detailed Notes:** find details [here](../../Benchmarks/02-Learning-German(Deutsch)/2026/02-February.md#2026-02-01)
 
 - **IELTS 🇬🇧**
     - **Activity:** Did test number 2 and scored to band 8.5. a massive improvement .
-    - **Result:** find details [here](../../Benchmarks/01-IELTS-Tests/READING/02-Cambridge-book-Test/test-2.md).
+    - **Result:** find details [here](../../Benchmarks/00-ARCHIVED/01-IELTS-Tests/READING/02-Cambridge-book-Test/test-2.md).
     - **Analysis:** 
 - **CS50x 💻**
     - **Topic:** 
@@ -29,11 +29,11 @@
 - **German 🇩🇪**
     - **Focus:**  Did the Das ist Nico lesson and a  bit of Duolingo but my heart ran out.
     - **Progress:** Not much today.
-    - **Detailed Notes:** find them [here](../../Benchmarks/03-Learning-German(Deutsch)/2026/02-February.md#2026-02-02)
+    - **Detailed Notes:** find them [here](../../Benchmarks/02-Learning-German(Deutsch)/2026/02-February.md#2026-02-02)
 
 - **IELTS 🇬🇧**
     - **Activity:** Did the worst yet cambridge test which gave a band 7.5 only .
-    - **Result:** find details [here](../../Benchmarks/01-IELTS-Tests/READING/02-Cambridge-book-Test/test-3.md).
+    - **Result:** find details [here](../../Benchmarks/00-ARCHIVED/01-IELTS-Tests/READING/02-Cambridge-book-Test/test-3.md).
     - **Analysis:** Passage 3 was very difficult and couldn't anticipate such. 
   
 - **CS50x 💻**
@@ -53,11 +53,11 @@
 - **German 🇩🇪**
     - **Focus:** There was only a little bit of German in Duolingo only, Not in Nicos Weg.
     - **Progress:** Had rest because of burnout.
-    - **Detailed Notes:** Find details [here](../../Benchmarks/03-Learning-German(Deutsch)/2026/02-February.md#2026-02-03).
+    - **Detailed Notes:** Find details [here](../../Benchmarks/02-Learning-German(Deutsch)/2026/02-February.md#2026-02-03).
 
 - **IELTS 🇬🇧**
     - **Activity:** Did the final reading test . Result was as expected due to extreme fatigue , 7.5.
-    - **Result:** Find details [here](../../Benchmarks/01-IELTS-Tests/READING/02-Cambridge-book-Test/test-4.md). Also, the final benchmark result is also done , its [here](../../Benchmarks/01-IELTS-Tests/READING/02-Cambridge-book-Test/test_results.md).
+    - **Result:** Find details [here](../../Benchmarks/00-ARCHIVED/01-IELTS-Tests/READING/02-Cambridge-book-Test/test-4.md). Also, the final benchmark result is also done , its [here](../../Benchmarks/00-ARCHIVED/01-IELTS-Tests/READING/02-Cambridge-book-Test/test_results.md).
     - **Analysis:** I need to rest and not influenced by external factors.
 - **CS50x 💻**
     - **Topic:** THERE WASnt any coding done today, servere fatigue recovery today.
@@ -75,7 +75,7 @@
 - **German 🇩🇪**
     - **Focus:** Not much , just one lesson of Duolingo. in vacation period. 
     - **Progress:** just one lesson of Duolingo.
-    - **Detailed Notes:** Find it [here](../../Benchmarks/03-Learning-German(Deutsch)/2026/02-February.md#2026-02-04).
+    - **Detailed Notes:** Find it [here](../../Benchmarks/02-Learning-German(Deutsch)/2026/02-February.md#2026-02-04).
 
 - **IELTS 🇬🇧**
     - **Activity:** youtube searching.
@@ -134,7 +134,7 @@ VACATION ENDS.
 - **German 🇩🇪**
     - **Focus:**  No task due to extreme stress.
     - **Progress:**  
-    - **Detailed Notes:** [CLICK HERE](../../Benchmarks/03-Learning-German(Deutsch)/2026/02-February.md#2026-02-08)
+    - **Detailed Notes:** [CLICK HERE](../../Benchmarks/02-Learning-German(Deutsch)/2026/02-February.md#2026-02-08)
 
 - **IELTS 🇬🇧**
     - **Activity:** No task due to extreme stress.
@@ -157,7 +157,7 @@ VACATION ENDS.
 - **German 🇩🇪**
     - **Focus:**  
     - **Progress:**  
-    - **Detailed Notes:** [Click here](../../Benchmarks/03-Learning-German(Deutsch)/2026/02-February.md#2026-02-09)
+    - **Detailed Notes:** [Click here](../../Benchmarks/02-Learning-German(Deutsch)/2026/02-February.md#2026-02-09)
 
 - **IELTS 🇬🇧**
     - **Activity:** NO activity due to undiscloseable reasons.
@@ -205,12 +205,12 @@ A day full of stress and pressure, but did the ielts writing test somehow.
 - **German 🇩🇪**
     - **Focus:**  Not much progress was done today, just a lesson in duolingo to fire up the learn engine.
     - **Progress:**  just one lesson in duolingo. nothing new learn. except sandwich. but that wont be logged, we will start nicos weg.
-    - **Detailed Notes:**[click here](../../Benchmarks/03-Learning-German(Deutsch)/2026/02-February.md#2026-02-11)
+    - **Detailed Notes:**[click here](../../Benchmarks/02-Learning-German(Deutsch)/2026/02-February.md#2026-02-11)
 
 - **IELTS 🇬🇧**
     - **Activity:** Completed a dynamic bar & a line graph. Later, fixed my shortcomings and improved to band 7.5 in both graph types.
     - **Result:** Bar chart and line graph complete.
-    - **Analysis:** [click here for the bar graph](<../../Benchmarks/01-IELTS-Tests/WRITING/01_IELTS_PRACTICE_SITE/task 1/01 Jan 2 , 2026 (Dynamic bar charts).md>) & [click here for the line graph](<../../Benchmarks/01-IELTS-Tests/WRITING/01_IELTS_PRACTICE_SITE/task 1/02 APR 1 , 2026 (static Line graph).md>)
+    - **Analysis:** [click here for the bar graph](<../../Benchmarks/00-ARCHIVED/01-IELTS-Tests/WRITING/01_IELTS_PRACTICE_SITE/task 1/01 Jan 2 , 2026 (Dynamic bar charts).md>) & [click here for the line graph](<../../Benchmarks/00-ARCHIVED/01-IELTS-Tests/WRITING/01_IELTS_PRACTICE_SITE/task 1/02 APR 1 , 2026 (static Line graph).md>)
 
 - **CS50x 💻**
     - **Topic:** tidied up the validation part, but now the only thing part left is the card's first digits to validate specific card.
@@ -229,12 +229,12 @@ A day full of stress and pressure, but did the ielts writing test somehow.
 - **German 🇩🇪**
     - **Focus:**  Mainly did "Das ist Nico"
     - **Progress:** Learnt some more complex Vocabulary.
-    - **Detailed Notes:** [Find it here](../../Benchmarks/03-Learning-German(Deutsch)/2026/02-February.md#2026-02-12)
+    - **Detailed Notes:** [Find it here](../../Benchmarks/02-Learning-German(Deutsch)/2026/02-February.md#2026-02-12)
 
 - **IELTS 🇬🇧**
     - **Activity:** Acted on two types of graphs: combinational and pure pie.
     - **Result:** I can perfect my lexical resources via word dump practice.
-    - **Analysis:** Check [combination](<../../Benchmarks/01-IELTS-Tests/WRITING/01_IELTS_PRACTICE_SITE/task 1/03 Feb 2 , 2026 (mixed combination)>) and [pure pie](<../../Benchmarks/01-IELTS-Tests/WRITING/01_IELTS_PRACTICE_SITE/task 1/03 May 1 , 2026 (pie graph).md>)
+    - **Analysis:** Check [combination](<../../Benchmarks/00-ARCHIVED/01-IELTS-Tests/WRITING/01_IELTS_PRACTICE_SITE/task 1/03 Feb 2 , 2026 (mixed combination)>) and [pure pie](<../../Benchmarks/00-ARCHIVED/01-IELTS-Tests/WRITING/01_IELTS_PRACTICE_SITE/task 1/03 May 1 , 2026 (pie graph).md>)
 
 - **CS50x 💻**
     - **Topic:** 
@@ -253,7 +253,7 @@ A day full of stress and pressure, but did the ielts writing test somehow.
 - **German 🇩🇪**
     - **Focus:**  Friday, so , just did one lesson in duolingo.
     - **Progress:**  
-    - **Detailed Notes:** [click here.](../../Benchmarks/03-Learning-German(Deutsch)/2026/02-February.md#2026-02-13)
+    - **Detailed Notes:** [click here.](../../Benchmarks/02-Learning-German(Deutsch)/2026/02-February.md#2026-02-13)
 
 - **IELTS 🇬🇧**
     - **Activity:** Friday, so there weren't any actions done.
@@ -277,12 +277,12 @@ A day full of stress and pressure, but did the ielts writing test somehow.
 - **German 🇩🇪**
     - **Focus:**  I finished the "das ist Nico" lesson and scored 86%.
     - **Progress:**  Now, i have some general ideas on German naming conventions. 
-    - **Detailed Notes:** [click here](../../Benchmarks/03-Learning-German(Deutsch)/2026/02-February.md#2026-02-14)
+    - **Detailed Notes:** [click here](../../Benchmarks/02-Learning-German(Deutsch)/2026/02-February.md#2026-02-14)
 
 - **IELTS 🇬🇧**
     - **Activity:** Completed only map type task 1. pinpointed main area of interest.
     - **Result:** My main issue is subject verb agreement, i need to get this fixed. FAST
-    - **Analysis:** [click here for the map diagram](<../../Benchmarks/01-IELTS-Tests/WRITING/01_IELTS_PRACTICE_SITE/task 1/04 March 1 , 2026 (Map diagram).md>).
+    - **Analysis:** [click here for the map diagram](<../../Benchmarks/00-ARCHIVED/01-IELTS-Tests/WRITING/01_IELTS_PRACTICE_SITE/task 1/04 March 1 , 2026 (Map diagram).md>).
 
 - **CS50x 💻**
     - **Topic:** Could not do much, only 10 minutes in.
@@ -301,12 +301,12 @@ A day full of stress and pressure, but did the ielts writing test somehow.
 - **German 🇩🇪**
     - **Focus:**  
     - **Progress:**  
-    - **Detailed Notes:** [click here](../../Benchmarks/03-Learning-German(Deutsch)/2026/02-February.md#2026-02-15)
+    - **Detailed Notes:** [click here](../../Benchmarks/02-Learning-German(Deutsch)/2026/02-February.md#2026-02-15)
 
 - **IELTS 🇬🇧**
     - **Activity:** Did static bar and took all the previous improvements and used them against this one.
     - **Result:**  Scored 8.00 . So, there was no need for a 2nd trial.
-    - **Analysis:** [click here.](<../../Benchmarks/01-IELTS-Tests/WRITING/01_IELTS_PRACTICE_SITE/task 1/05 June 1 , 2026 (Static bar).md>)
+    - **Analysis:** [click here.](<../../Benchmarks/00-ARCHIVED/01-IELTS-Tests/WRITING/01_IELTS_PRACTICE_SITE/task 1/05 June 1 , 2026 (Static bar).md>)
 
 - **CS50x 💻**
     - **Topic:** Learned a very helpful implementable concept and did till 30 minutes into the lecture. 
@@ -325,12 +325,12 @@ A day full of stress and pressure, but did the ielts writing test somehow.
 - **German 🇩🇪**
     - **Focus:**  Just did one duolingo lesson to keep up the streak and reviewed the past lessons.
     - **Progress:**  recursion.
-    - **Detailed Notes:** [click here.](../../Benchmarks/03-Learning-German(Deutsch)/2026/02-February.md)
+    - **Detailed Notes:** [click here.](../../Benchmarks/02-Learning-German(Deutsch)/2026/02-February.md)
 
 - **IELTS 🇬🇧**
     - **Activity:** Did the last remaining module process and transformation.
     - **Result:** I have achieved a good score in writing task 1, now will focus in task 2 from tomorrow onewards.
-    - **Analysis:** [click here.](<../../Benchmarks/01-IELTS-Tests/WRITING/01_IELTS_PRACTICE_SITE/task 1/06 March 2 , 2026 (Process, transformations).md>)
+    - **Analysis:** [click here.](<../../Benchmarks/00-ARCHIVED/01-IELTS-Tests/WRITING/01_IELTS_PRACTICE_SITE/task 1/06 March 2 , 2026 (Process, transformations).md>)
 
 - **CS50x 💻**
     - **Topic:** 1 hour and 2 minutes in.
@@ -349,12 +349,12 @@ A day full of stress and pressure, but did the ielts writing test somehow.
 - **German 🇩🇪**
     - **Focus:**  Reviewing old notes.
     - **Progress:**  Only one lesson in duolingo done.
-    - **Detailed Notes:** [click here](../../Benchmarks/03-Learning-German(Deutsch)/2026/02-February.md#2026-02-17)
+    - **Detailed Notes:** [click here](../../Benchmarks/02-Learning-German(Deutsch)/2026/02-February.md#2026-02-17)
 
 - **IELTS 🇬🇧**
     - **Activity:** clear stance stating and opinion types have been mastered.
     - **Result:** 7.5/8 mastered and some errors cleared.
-    - **Analysis:** [click here](<../../Benchmarks/01-IELTS-Tests/WRITING/01_IELTS_PRACTICE_SITE/task 2/01 March 2 , 2026 (opinion clear stance).md>)
+    - **Analysis:** [click here](<../../Benchmarks/00-ARCHIVED/01-IELTS-Tests/WRITING/01_IELTS_PRACTICE_SITE/task 2/01 March 2 , 2026 (opinion clear stance).md>)
 
 - **CS50x 💻**
     - **Topic:** Done with the 2nd week lecture.
@@ -373,7 +373,7 @@ A day full of stress and pressure, but did the ielts writing test somehow.
 - **German 🇩🇪**
     - **Focus:**  Rest declared.
     - **Progress:**  
-    - **Detailed Notes:** [click here](../../Benchmarks/03-Learning-German(Deutsch)/2026/02-February.md#2026-02-18)
+    - **Detailed Notes:** [click here](../../Benchmarks/02-Learning-German(Deutsch)/2026/02-February.md#2026-02-18)
 
 - **IELTS 🇬🇧**
     - **Activity:** took the 3rd mock test
@@ -397,12 +397,12 @@ A day full of stress and pressure, but did the ielts writing test somehow.
 - **German 🇩🇪**
     - **Focus:**  One duolingo lesson done and all other February lessons reviewed.
     - **Progress:**  review done. From tomorrow on, we can progress more.
-    - **Detailed Notes:** [click here](../../Benchmarks/03-Learning-German(Deutsch)/2026/02-February.md#2026-02-19)
+    - **Detailed Notes:** [click here](../../Benchmarks/02-Learning-German(Deutsch)/2026/02-February.md#2026-02-19)
 
 - **IELTS 🇬🇧**
     - **Activity:** did the 2nd type of task 2, discussion based weighed opinion. 
     - **Result:** perfected to 8.5 through multiple refactoring.
-    - **Analysis:** [click here](<../../Benchmarks/01-IELTS-Tests/WRITING/01_IELTS_PRACTICE_SITE/task 2/02  January 1 , 2026 (DISCUSSION basesd opinion).md>)
+    - **Analysis:** [click here](<../../Benchmarks/00-ARCHIVED/01-IELTS-Tests/WRITING/01_IELTS_PRACTICE_SITE/task 2/02  January 1 , 2026 (DISCUSSION basesd opinion).md>)
 
 - **CS50x 💻**
     - **Topic:** Every short done, till array.
@@ -421,7 +421,7 @@ A day full of stress and pressure, but did the ielts writing test somehow.
 - **German 🇩🇪**
     - **Focus:**  Rest day Friday but just one duolingo lesson to do.
     - **Progress:** NONE .
-    - **Detailed Notes:** [Click here](../../Benchmarks/03-Learning-German(Deutsch)/2026/02-February.md#2026-02-20)
+    - **Detailed Notes:** [Click here](../../Benchmarks/02-Learning-German(Deutsch)/2026/02-February.md#2026-02-20)
 
 - **IELTS 🇬🇧**
     - **Activity:** Rest day Friday
@@ -445,12 +445,12 @@ A day full of stress and pressure, but did the ielts writing test somehow.
 - **German 🇩🇪**
     - **Focus:**  done with todays work
     - **Progress:**  need constant repition, 
-    - **Detailed Notes:** [click here](../../Benchmarks/03-Learning-German(Deutsch)/2026/02-February.md#2026-02-21)
+    - **Detailed Notes:** [click here](../../Benchmarks/02-Learning-German(Deutsch)/2026/02-February.md#2026-02-21)
 
 - **IELTS 🇬🇧**
     - **Activity:** Successfully upped band to 7.5 for advantage-disadvantage based task 2.
     - **Result:** first iteration was 6.5 due to grammar, and then it went up to 7.5
-    - **Analysis:** [click here](<../../Benchmarks/01-IELTS-Tests/WRITING/01_IELTS_PRACTICE_SITE/task 2/03 February 1 , 2026 (Advantages Vs. disadvantages).md>)
+    - **Analysis:** [click here](<../../Benchmarks/00-ARCHIVED/01-IELTS-Tests/WRITING/01_IELTS_PRACTICE_SITE/task 2/03 February 1 , 2026 (Advantages Vs. disadvantages).md>)
 
 - **CS50x 💻**
     - **Topic:** Done with last shorts, tomorrow will be the beginning of pset 2 solve.
@@ -469,12 +469,12 @@ A day full of stress and pressure, but did the ielts writing test somehow.
 - **German 🇩🇪**
     - **Focus:**  
     - **Progress:**  
-    - **Detailed Notes:** [click here](../../Benchmarks/03-Learning-German(Deutsch)/2026/02-February.md#2026-02-22)
+    - **Detailed Notes:** [click here](../../Benchmarks/02-Learning-German(Deutsch)/2026/02-February.md#2026-02-22)
 
 - **IELTS 🇬🇧**
     - **Activity:** Completed the problem and solutions type too. 7.0 - 7.5 refactored
     - **Result:** perfected and got familiarized to this. 
-    - **Analysis:** [click here](<../../Benchmarks/01-IELTS-Tests/WRITING/01_IELTS_PRACTICE_SITE/task 2/04 February 2 , 2026 (Problem and solution).md>)
+    - **Analysis:** [click here](<../../Benchmarks/00-ARCHIVED/01-IELTS-Tests/WRITING/01_IELTS_PRACTICE_SITE/task 2/04 February 2 , 2026 (Problem and solution).md>)
 
 - **CS50x 💻**
     - **Topic:** We have done a lot today, 90% of pset 2.1 done, we have pset2.2 and pset2.3 completely left, this is going to be hell, but we have to do it fast.
@@ -493,7 +493,7 @@ A day full of stress and pressure, but did the ielts writing test somehow.
 - **German 🇩🇪**
     - **Focus:** One very big duolingo lesson was done and nothing else.
     - **Progress:** In Nicos weg, just one small lesson was done.
-    - **Detailed Notes:** [click here](../../Benchmarks/03-Learning-German(Deutsch)/2026/02-February.md#2026-02-23)
+    - **Detailed Notes:** [click here](../../Benchmarks/02-Learning-German(Deutsch)/2026/02-February.md#2026-02-23)
 
 - **IELTS 🇬🇧**
     - **Activity:** Took the 5th Mock today.
@@ -523,12 +523,12 @@ Extreme burn out, no journaling, not even book reading.
 - **German 🇩🇪**
     - **Focus:**  German verb conjugations are very difficult.
     - **Progress:**  7 out of 11 lessons did in Nico hat ein problem, duolingo streak froze and in 12 days now.
-    - **Detailed Notes:** [click here](../../Benchmarks/03-Learning-German(Deutsch)/2026/02-February.md#2026-02-25)
+    - **Detailed Notes:** [click here](../../Benchmarks/02-Learning-German(Deutsch)/2026/02-February.md#2026-02-25)
 
 - **IELTS 🇬🇧**
     - **Activity:** Completed the last type today, and the score was not satisfactory. But the issues were again S linters.
     - **Result:** 6.5 and 6.5 both times of perfecting, because of S linters.
-    - **Analysis:** [click here](<../../Benchmarks/01-IELTS-Tests/WRITING/01_IELTS_PRACTICE_SITE/task 2/05 April 2 , 2026 (2 unrelated questions).md>)
+    - **Analysis:** [click here](<../../Benchmarks/00-ARCHIVED/01-IELTS-Tests/WRITING/01_IELTS_PRACTICE_SITE/task 2/05 April 2 , 2026 (2 unrelated questions).md>)
 
 - **CS50x 💻**
     - **Topic:** WE are done with pset 2.1. tomorrow, we begin pset 2.2
@@ -547,7 +547,7 @@ Extreme burn out, no journaling, not even book reading.
 - **German 🇩🇪**
     - **Focus:**  extremely frustrated at nicos weg, i think ill have to reconsider this shit.
     - **Progress:**  NONE, literally none, this is frustrating, Nicos weg is bombarding me bullshit advanced shits it didnt even teach yet, extremely frustrating.
-    - **Detailed Notes:** [Click here](../../Benchmarks/03-Learning-German(Deutsch)/2026/02-February.md#2026-02-26)
+    - **Detailed Notes:** [Click here](../../Benchmarks/02-Learning-German(Deutsch)/2026/02-February.md#2026-02-26)
 
 - **IELTS 🇬🇧**
     - **Activity:** Sat for the 6th mock test today,
@@ -571,7 +571,7 @@ Extreme burn out, no journaling, not even book reading.
 - **German 🇩🇪**
     - **Focus:**  We need to make the vocabulary list today
     - **Progress:**  listed 102 vocabulary today. a lot of review done.
-    - **Detailed Notes:** [click here](../../Benchmarks/03-Learning-German(Deutsch)/2026/02-February.md#2026-02-27)
+    - **Detailed Notes:** [click here](../../Benchmarks/02-Learning-German(Deutsch)/2026/02-February.md#2026-02-27)
 
 - **IELTS 🇬🇧**
     - **Activity:** Gave the 7th mock. it seems I have to improve my writing more. 
@@ -595,7 +595,7 @@ Extreme burn out, no journaling, not even book reading.
 - **German 🇩🇪**
     - **Focus:**  gonna start the rest of the vocabulary starting from 102nd.
     - **Progress:**  Done, february german vocab listing done. tomorrow, we shall review all 156 words and then start march ones.
-    - **Detailed Notes:** [click here](../../Benchmarks/03-Learning-German(Deutsch)/2026/02-February.md#2026-02-28) for the feb 28th log and [here](../../Benchmarks/03-Learning-German(Deutsch)/2026/02-February.md#overall-february-vocab-log) for all 156 words.
+    - **Detailed Notes:** [click here](../../Benchmarks/02-Learning-German(Deutsch)/2026/02-February.md#2026-02-28) for the feb 28th log and [here](../../Benchmarks/02-Learning-German(Deutsch)/2026/02-February.md#overall-february-vocab-log) for all 156 words.
 
 - **IELTS 🇬🇧**
     - **Activity:** familiarized myself with speaking. need to practice my breathing more properly.

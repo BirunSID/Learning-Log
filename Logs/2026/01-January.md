@@ -6,12 +6,12 @@
 - **IELTS**
     - **Activity:** Reading Test (Feb-2).
     - **Result:** Score 28/30 (Band 6.5).
-    - **Detailed Notes:** [click here](../../Benchmarks/01-IELTS-Tests/READING/01-IELTS_PRACTICE_SITE/01-February-2.md)
+    - **Detailed Notes:** [click here](../../Benchmarks/00-ARCHIVED/01-IELTS-Tests/READING/01-IELTS_PRACTICE_SITE/01-February-2.md)
 
 - **German**
     - **Focus:** Nicos Weg A1 (Tschüss!) & Vocab.
     - **Progress:** 86% Assessment Score.
-    - **Detailed Notes:** [click here](../../Benchmarks/03-Learning-German(Deutsch)/2026/01-January.md)
+    - **Detailed Notes:** [click here](../../Benchmarks/02-Learning-German(Deutsch)/2026/01-January.md)
 
 - **CS50x 💻**
     - **Topic:** C Operators and Logic.
@@ -30,12 +30,12 @@
 - **IELTS **
     - **Activity:** Reading Test (Mar-1).
     - **Result:** Score 7.5 (Band 7.5).
-    - **Detailed Notes:** [click here](../../Benchmarks/01-IELTS-Tests/READING/01-IELTS_PRACTICE_SITE/02-March-1.md)
+    - **Detailed Notes:** [click here](../../Benchmarks/00-ARCHIVED/01-IELTS-Tests/READING/01-IELTS_PRACTICE_SITE/02-March-1.md)
 
 - **German **
     - **Focus:** Review / General Study.
     - **Status:** Maintained consistency.
-    - **Detailed Notes:** [click here](../../Benchmarks/03-Learning-German(Deutsch)/2026/01-January.md)
+    - **Detailed Notes:** [click here](../../Benchmarks/02-Learning-German(Deutsch)/2026/01-January.md)
 
 - **CS50x 💻**
     - **Topic:** Covered 4 new topics (Operators/Logic).
@@ -54,12 +54,12 @@
 - **IELTS**
     - **Result:** Score 8.0 (Band 8.0).
     - **Trend:** +0.5 Band Improvement 📈
-    - **Detailed Notes:** [click here](../../Benchmarks/01-IELTS-Tests/READING/01-IELTS_PRACTICE_SITE/02-March-2.md)
+    - **Detailed Notes:** [click here](../../Benchmarks/00-ARCHIVED/01-IELTS-Tests/READING/01-IELTS_PRACTICE_SITE/02-March-2.md)
 
 - **German**
     - **Focus:** Lesson Completion & Duolingo maintenance.
     - **Status:** Barely keeping up with promotion zone.
-    - **Detailed Notes:** [click here](../../Benchmarks/03-Learning-German(Deutsch)/2026/01-January.md)
+    - **Detailed Notes:** [click here](../../Benchmarks/02-Learning-German(Deutsch)/2026/01-January.md)
 
 - **CS50x 💻**
     - **Activity:** Pset 1 (Triangle) - 50% Complete.
@@ -105,11 +105,11 @@
 - **German**
     - **Focus:**  learned a lot of German introductory sentences and terms and variations.  
     - **Progress:** now i can ask for others name and stuff
-    - **Detailed Notes:** find details [here](../../Benchmarks/03-Learning-German(Deutsch)/2026/01-January.md)
+    - **Detailed Notes:** find details [here](../../Benchmarks/02-Learning-German(Deutsch)/2026/01-January.md)
 
 - **IELTS**
     - **Activity:**  Did an IELTS Cambridge test, book 20, reading test 1. 
-    - **Result:** scored band 8.0 (35/40). Find details [here](../../Benchmarks/01-IELTS-Tests/READING/02-Cambridge-book-Test/test-1.md).
+    - **Result:** scored band 8.0 (35/40). Find details [here](../../Benchmarks/00-ARCHIVED/01-IELTS-Tests/READING/02-Cambridge-book-Test/test-1.md).
     - **Analysis:** the band score has been stabilized so far. 
 
 - **CS50x 💻**

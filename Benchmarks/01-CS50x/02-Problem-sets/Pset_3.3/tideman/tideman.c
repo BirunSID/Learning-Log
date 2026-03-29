@@ -30,6 +30,7 @@ bool vote(int rank, string name, int ranks[]);
 void record_preferences(int ranks[]);
 void add_pairs(void);
 void sort_pairs(void);
+bool is_cycle(int start, int current);
 void lock_pairs(void);
 void print_winner(void);
 
@@ -186,10 +187,36 @@ void sort_pairs(void)
     return;
 }
 
+// This is the helper function for lock_pairs function and makes things easier
+bool is_cycle(int start, int current)
+{
+    
+    
+
+}
+
 // Lock pairs into the candidate graph in order, without creating cycles
 void lock_pairs(void)
 {
     // TODO
+
+    // We have a list of pairs (e.g., pairs[0], pairs[1], pairs[2]...)
+    // They are sorted by "Strength of Victory" (from strongest to weakest)
+    for (int i = 0; i < pair_count; i++)
+    {
+        // We pick ONE pair from the list: pairs[i]
+        int winner = pairs[i].winner;
+        int loser = pairs[i].loser;
+        
+        // We ask our detector: "If I add this pair to the board, will I form a circle?"
+        if (!is_cycle(winner, loser)) // -----> this is our helper function on top of this function, this was the hardest part!!
+        {
+            // If the detector says "NO CIRCLE", we add the arrow to the board!
+            locked[winner][loser] = true; 
+        }
+        
+        // If the detector says "YES CIRCLE", we do nothing. We skip this arrow.
+    }
     return;
 }
 

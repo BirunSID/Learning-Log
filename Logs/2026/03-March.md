@@ -4,7 +4,7 @@
 - **German 🇩🇪**
     - **Focus:**  completed the ongoing lesson,
     - **Progress:** learned about the r in german, gonna master this soon.  
-    - **Detailed Notes:** [click here](../../Benchmarks/03-Learning-German(Deutsch)/2026/03-March.md#2026-03-01)
+    - **Detailed Notes:** [click here](../../Benchmarks/02-Learning-German(Deutsch)/2026/03-March.md#2026-03-01)
 
 - **IELTS 🇬🇧**
     - **Activity:** took the 8th mock today,  and booked for the 4th March for the 9th.
@@ -28,7 +28,7 @@
 - **German 🇩🇪**
     - **Focus:**  zahlel von 1 to 100 and also more sophisticated german logging template deployed alongside the new additions of independent vocabulary + articles to study.
     - **Progress:**  no vocabulary on either but created an independent vocabulary list to get my own vocabs from around the internet and learn.
-    - **Detailed Notes:** [click here](../../Benchmarks/03-Learning-German(Deutsch)/2026/03-March.md#2026-03-02)
+    - **Detailed Notes:** [click here](../../Benchmarks/02-Learning-German(Deutsch)/2026/03-March.md#2026-03-02)
 
 - **IELTS 🇬🇧**
     - **Activity:** Saw a bunch of speaking videos but none were good enough
@@ -52,7 +52,7 @@
 - **German 🇩🇪**
     - **Focus:**  had a productive day on this one., learned a lot and succesfully did the four works
     - **Progress:** knowledge and vocab increased.  
-    - **Detailed Notes:** [click here](../../Benchmarks/03-Learning-German(Deutsch)/2026/03-March.md#2026-03-03)
+    - **Detailed Notes:** [click here](../../Benchmarks/02-Learning-German(Deutsch)/2026/03-March.md#2026-03-03)
 
 - **IELTS 🇬🇧**
     - **Activity:** Enough for today, i still cant find good places to practice speaking english
@@ -76,7 +76,7 @@
 - **German 🇩🇪**
     - **Focus:**  skipped today. Invested in terraria
     - **Progress:**   none
-    - **Detailed Notes:** [click here](../../Benchmarks/03-Learning-German(Deutsch)/2026/03-March.md#2026-03-04)
+    - **Detailed Notes:** [click here](../../Benchmarks/02-Learning-German(Deutsch)/2026/03-March.md#2026-03-04)
 
 - **IELTS 🇬🇧**
     - **Activity:** Took the last test today, only speaking.
@@ -100,7 +100,7 @@
 - **German 🇩🇪**
     - **Focus:**  
     - **Progress:**  
-    - **Detailed Notes:** [click here](../../Benchmarks/03-Learning-German(Deutsch)/2026/03-March.md#2026-03-05)
+    - **Detailed Notes:** [click here](../../Benchmarks/02-Learning-German(Deutsch)/2026/03-March.md#2026-03-05)
 
 - **IELTS 🇬🇧**
     - **Activity:** 
@@ -148,7 +148,7 @@
 - **German 🇩🇪**
     - **Focus:**  Done for the day
     - **Progress:**  
-    - **Detailed Notes:** [click here](../../Benchmarks/03-Learning-German(Deutsch)/2026/03-March.md#2026-03-07)
+    - **Detailed Notes:** [click here](../../Benchmarks/02-Learning-German(Deutsch)/2026/03-March.md#2026-03-07)
 
 - **IELTS 🇬🇧**
     - **Activity:** No activity, fatigue overload.
@@ -172,7 +172,7 @@
 - **German 🇩🇪**
     - **Focus:**  Not much, todaii german betrayed me, they are unreliable, they are petty pay to win shits.
     - **Progress:**  outside vocab and massive imporvement in nicos weg.
-    - **Detailed Notes:** [click here](../../Benchmarks/03-Learning-German(Deutsch)/2026/03-March.md#2026-03-08)
+    - **Detailed Notes:** [click here](../../Benchmarks/02-Learning-German(Deutsch)/2026/03-March.md#2026-03-08)
 
 - **IELTS 🇬🇧**
     - **Activity:** 
@@ -196,7 +196,7 @@
 - **German 🇩🇪**
     - **Focus:**  Done for today.
     - **Progress:**  
-    - **Detailed Notes:** [click here](../../Benchmarks/03-Learning-German(Deutsch)/2026/03-March.md#2026-03-09)
+    - **Detailed Notes:** [click here](../../Benchmarks/02-Learning-German(Deutsch)/2026/03-March.md#2026-03-09)
 
 - **IELTS 🇬🇧**
     - **Activity:** NONE done today
@@ -220,7 +220,7 @@
 - **German 🇩🇪**
     - **Focus:**  Done for today.
     - **Progress:**  vocabulay enriching but not listening, Its hard to find resources.
-    - **Detailed Notes:** [click here](../../Benchmarks/03-Learning-German(Deutsch)/2026/03-March.md#2026-03-10)
+    - **Detailed Notes:** [click here](../../Benchmarks/02-Learning-German(Deutsch)/2026/03-March.md#2026-03-10)
 
 - **IELTS 🇬🇧**
     - **Activity:** NO ACTIVITY
@@ -244,7 +244,7 @@
 - **German 🇩🇪**
     - **Focus:**  done for the day
     - **Progress:**  easy german YT is a very stable resource.
-    - **Detailed Notes:** [click here](../../Benchmarks/03-Learning-German(Deutsch)/2026/03-March.md#2026-03-11)
+    - **Detailed Notes:** [click here](../../Benchmarks/02-Learning-German(Deutsch)/2026/03-March.md#2026-03-11)
 
 - **IELTS 🇬🇧**
     - **Activity:** NONE TODAY
@@ -268,7 +268,7 @@
 - **German 🇩🇪**
     - **Focus:**  done for the day.
     - **Progress:**  Easy german is a GEMMM!!
-    - **Detailed Notes:** [click here](../../Benchmarks/03-Learning-German(Deutsch)/2026/03-March.md#2026-03-12)
+    - **Detailed Notes:** [click here](../../Benchmarks/02-Learning-German(Deutsch)/2026/03-March.md#2026-03-12)
 
 - **IELTS 🇬🇧**
     - **Activity:** 
@@ -318,7 +318,7 @@
 - **German 🇩🇪**
     - **Focus:**  Done for the day.
     - **Progress:**  I have a feeling that im slowly grasping the german words and spellings and pronunciation.
-    - **Detailed Notes:** [click here](../../Benchmarks/03-Learning-German(Deutsch)/2026/03-March.md#2026-03-14)
+    - **Detailed Notes:** [click here](../../Benchmarks/02-Learning-German(Deutsch)/2026/03-March.md#2026-03-14)
 
 - **IELTS 🇬🇧**
     - **Activity:** None done today, will begin from tomorrow onwards.
@@ -351,7 +351,7 @@
 - **German 🇩🇪**
     - **Focus:**  Done for the day
     - **Progress:**  Lipsyncing with the easy german yt videos is a great way to learn.
-    - **Detailed Notes:** [click here](../../Benchmarks/03-Learning-German(Deutsch)/2026/03-March.md#2026-03-15)
+    - **Detailed Notes:** [click here](../../Benchmarks/02-Learning-German(Deutsch)/2026/03-March.md#2026-03-15)
 
 - **IELTS 🇬🇧**
     - **Activity:** 
@@ -390,7 +390,7 @@
 - **German 🇩🇪**
     - **Focus:**  Done for the day
     - **Progress:**  still no visible groundbreaking breakthrough but yea, i didnt learn english in a month, it took years
-    - **Detailed Notes:** [click here](../../Benchmarks/03-Learning-German(Deutsch)/2026/03-March.md#2026-03-16)
+    - **Detailed Notes:** [click here](../../Benchmarks/02-Learning-German(Deutsch)/2026/03-March.md#2026-03-16)
 
 - **IELTS 🇬🇧**
     - **Activity:** Did listening and reading module, listening from cambridge books, and reading from the ielts practice test online, the free one. Tomorrow, i will look up the resources provided by IDP.
@@ -430,7 +430,7 @@
 - **German 🇩🇪**
     - **Focus:**  only did the duolingo session, nothing else.
     - **Progress:**  because of severe stomach ache. did not to the other stuffs.
-    - **Detailed Notes:** [click here](../../Benchmarks/03-Learning-German(Deutsch)/2026/03-March.md#2026-03-17)
+    - **Detailed Notes:** [click here](../../Benchmarks/02-Learning-German(Deutsch)/2026/03-March.md#2026-03-17)
 
 - **IELTS 🇬🇧**
     - **Activity:** Done for the day.
@@ -465,13 +465,13 @@
 
 ## 🚀 Engineering & Skills Log
 
-# Declared complete and utter rest. NO WORK Today. NOT even duolingo
+## Declared complete and utter rest. NO WORK Today. NOT even duolingo
 
 ### 🔵I. Human OS : (Non-Negotiable: Maintenance)
 - **German 🇩🇪**
     - **Focus:**  rest
     - **Progress:**  
-    - **Detailed Notes:** [click here](../../Benchmarks/03-Learning-German(Deutsch)/2026/03-March.md#2026-03-18)
+    - **Detailed Notes:** [click here](../../Benchmarks/02-Learning-German(Deutsch)/2026/03-March.md#2026-03-18)
 
 - **IELTS 🇬🇧**
     - **Activity:** rest
@@ -502,12 +502,12 @@
 
 ## 🚀 Engineering & Skills Log
 
-# EID holiday declared
+## EID holiday declared
 ### 🔵I. Human OS : (Non-Negotiable: Maintenance)
 - **German 🇩🇪**
     - **Focus:**  
     - **Progress:**  
-    - **Detailed Notes:** [click here](../../Benchmarks/03-Learning-German(Deutsch)/2026/03-March.md#2026-03-19)
+    - **Detailed Notes:** [click here](../../Benchmarks/02-Learning-German(Deutsch)/2026/03-March.md#2026-03-19)
 
 - **IELTS 🇬🇧**
     - **Activity:** 
@@ -551,3 +551,69 @@
 # 📅 Friday, March 27th -> IELTS PREP
 
 # 📅 Saturday, March 28th
+
+## 🚀 Engineering & Skills Log
+
+### 🔵I. Human OS : (Non-Negotiable: Maintenance)
+- **German 🇩🇪**
+    - **Focus:**  Not done today, burned out due to family dramas.
+    - **Progress:**  
+    - **Detailed Notes:** [click here](../../Benchmarks/02-Learning-German(Deutsch)/2026/03-March.md#2026-03-28)
+ㅤ
+- **Reading & Research** (*Review session* : target 50 pages/day)  
+    - **Psychology of money** *REVIEW*  : Not done today.
+	    - progress : 
+		    -   
+    - **Article/Paper:** NA  
+ ㅤ
+### 🟢 II. THE ENGINE : (Non-Negotiable: Daily Foundation)
+
+- **CS50x 💻**
+    - **Topic:** New function detected. final boss was the hidden boss.
+    - **Notes:** [click here](../../Benchmarks/02-CS50x/01-Logs/03-March-2026/28_March_28th_2026_Saturday.md)
+ㅤ
+### 🟡 III. THE TOOLBELT (Applied: Project-Based Only)
+
+- 
+
+### 🟣 IV. THE PROFESSIONAL LAYER (Milestone-based)
+
+- 
+
+### 🟠 V. THE PLAYGROUND (Controlled Chaos)
+
+---
+
+# 📅 Sunday, March 29th
+
+## 🚀 Engineering & Skills Log
+
+### 🔵I. Human OS : (Non-Negotiable: Maintenance)
+- **German 🇩🇪**
+    - **Focus:**  
+    - **Progress:**  
+    - **Detailed Notes:**   [Click here](../../Benchmarks/02-Learning-German(Deutsch)/2026/03-March.md#2026-03-29)
+ㅤ
+- **Reading & Research** (*Review session* : target 50 pages/day)  
+    - **Psychology of money** *REVIEW*  :  
+	    - progress :
+		    -   
+    - **Article/Paper:** NA  
+ ㅤ
+### 🟢 II. THE ENGINE : (Non-Negotiable: Daily Foundation)
+
+- **CS50x 💻**
+    - **Topic:** 
+    - **Notes:** [click here](../../Benchmarks/02-CS50x/01-Logs/03-March-2026/29_March_29th_2026_Sunday.md)
+ㅤ
+### 🟡 III. THE TOOLBELT (Applied: Project-Based Only)
+
+- 
+
+### 🟣 IV. THE PROFESSIONAL LAYER (Milestone-based)
+
+- 
+
+### 🟠 V. THE PLAYGROUND (Controlled Chaos)
+
+- 
