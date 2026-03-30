@@ -1,0 +1,1 @@
+did for 30 minutes. got the gist of memory and C pointers. interesting, but i still don't understand what i can do with it.

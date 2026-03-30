@@ -592,7 +592,7 @@
 - **German 🇩🇪**
     - **Focus:**  Done for the day, But i cut short on every one of them in order to make time for the other tasks due to the day taking more time than usual.
     - **Progress:**  Not much but better than nothing.
-    - **Detailed Notes:**   [Click here](../../Benchmarks/02-Learning-German(Deutsch)/2026/03-March.md#2026-03-29)
+    - **Detailed Notes:** [Click here](../../Benchmarks/02-Learning-German(Deutsch)/2026/03-March.md#2026-03-29)
 ㅤ
 - **Reading & Research** (*Review session* : target 50 pages/day)  
     - **Psychology of money** *REVIEW*  : Done 10 for today.
@@ -616,4 +616,49 @@
 
 ### 🟠 V. THE PLAYGROUND (Controlled Chaos)
 
+
+---
+
+# 📅 Monday, March 30th
+
+## 🚀 Engineering & Skills Log
+
+### 🔵I. Human OS : (Non-Negotiable: Maintenance)
+- **German 🇩🇪**
+    - **Focus:** done for the day.
+    - **Progress:** noted vocabs till 151st.
+    - **Detailed Notes:** [click here](../../Benchmarks/02-Learning-German(Deutsch)/2026/03-March.md#2026-03-30)
+
+- **Reading & Research** (*Review session* : target 50 pages/day)  
+    - **Psychology of money** *REVIEW*  :  
+	    - progress :
+		    - 11-20  done
+		    - 21-30  
+		    - 31-40  
+		    - 41-50  
+		    - 51-60  
+    - **Article/Paper:** NA  
+ ㅤ
+### 🟢 II. THE ENGINE : (Non-Negotiable: Daily Foundation)
+
+- **CS50x 💻**
+    - **Topic:** done for the day, i will do the rest of the lecture within tomorrow.
+    - **Notes:** [click here](../../Benchmarks/01-CS50x/01-Logs/03-March-2026/30_March_30th_2026_Monday.md)
+
+- **Linear Algebra for ML & DS** 📐
+	- **Topic:** Just got introduced to the linear equation systems and how to solve these and turn them into matrices and vectors.
+	- **Notes:** [click here](../../Benchmarks/03-Math/March/30th-Monday)
+ㅤ
+### 🟡 III. THE TOOLBELT (Applied: Project-Based Only)
+
 - 
+
+### 🟣 IV. THE PROFESSIONAL LAYER (Milestone-based)
+
+- 
+
+### 🟠 V. THE PLAYGROUND (Controlled Chaos)
+
+- 
+
+---

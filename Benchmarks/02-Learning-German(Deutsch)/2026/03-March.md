@@ -1098,3 +1098,166 @@ Declared rest today. body not good.
 
 <a id="2026-03-30"></a>
 ## 📅 Entry: Monday, 30th March
+
+---
+
+The list of all the vocabulary that we have learnt throughout March.
+
+| Index  | German word               | English meaning                   | context/concept         |
+| ------ | ------------------------- | --------------------------------- | ----------------------- |
+| 1      | das foto                  | photo                             |                         |
+| 2      | etwas haben               | to have something                 |                         |
+| 3      | das fahrradgescheft       | bicycle store                     |                         |
+| 4      | richtig                   | right/correct                     |                         |
+| 5      | sein                      | to be                             |                         |
+| 6      | sprechen                  | to speak                          |                         |
+| 7      | etwas suchen              | to search for something           |                         |
+| 8      | schuler                   | student                           |                         |
+| 9      | schule                    | school                            |                         |
+| 10     | mit dem bus               | by bus                            |                         |
+| 11     | in unserer                | an actor                          |                         |
+| 12     | schauspieler              | an actor                          |                         |
+| 13     | interessant               | interesting                       |                         |
+| 14     | drei                      | three                             |                         |
+| 15     | schune                    | shoes                             |                         |
+| 16     | liebt                     | loves                             |                         |
+| 17     | deine                     | your                              |                         |
+| 18     | der abend                 | evening                           |                         |
+| 19     | der abendessen            | dinner                            |                         |
+| 20     | die abendkasse            | evening box officer               |                         |
+| 21     | die abendkurs             | evening course                    |                         |
+| 22     | abends                    | evenings                          |                         |
+| 23     | aber                      | but                               |                         |
+| 24     | abfahren                  | depart                            |                         |
+| 25     | die abfahrt               | departure                         |                         |
+| 26     | die abfahrtszeit          | the departure time                |                         |
+| 27     | abholen                   | pick up                           |                         |
+| 28     | schauspielerin            | actress                           |                         |
+| 29     | der professor             | the professor(male)               |                         |
+| 30     | die professorin           | the professor(female)             |                         |
+| 31     | deine                     | your                              |                         |
+| 32     | beruf                     | profession                        |                         |
+| 33     | was                       | what                              |                         |
+| 34     | die arztin                | doctor(female)                    |                         |
+| 35     | arzt                      | doctor(male)                      |                         |
+| 36     | student                   | student                           |                         |
+| 37     | studentin                 | student (female)                  |                         |
+| 38     | fruendin                  | friend                            |                         |
+| 39     | das abitur                | German School-leaving certificate |                         |
+| 40     | ablehnen                  | decline                           |                         |
+| 41     | abnehmen                  | losing weight                     | very weird translation  |
+| 42     | absagen                   | cancel                            |                         |
+| 43     | das abschlussfeuerwerk    | finale firework                   | this one is hard        |
+| 44     | der lehrer                | the teacher                       |                         |
+| 45     | stressig                  | stressing                         |                         |
+| 46     | aber                      | but                               |                         |
+| 47     | interessant               | interesting                       |                         |
+| 48     | achten                    | to pay attention to               |                         |
+| 49     | die achtung               | attention                         |                         |
+| 50     | die adresse               | address                           |                         |
+| 51     | die agenda                | agenda                            |                         |
+| 52     | die agentur               | agency                            |                         |
+| 53     | acht                      | eight (8)                         |                         |
+| 54     | achtzig                   | eighty (80)                       |                         |
+| 55     | bis morgen                | See you tomorrow                  |                         |
+| 56     | der Buchstabe             | Letter (of the alphabet)          |                         |
+| 57     | drei                      | three (3)                         |                         |
+| 58     | dreißig                   | thirty (30)                       |                         |
+| 59     | einhundert                | one hundred (100)                 |                         |
+| 60     | die einladung             | the invitation                    |                         |
+| 61     | eins                      | one (1)                           |                         |
+| 62     | Emma ist acht jahre alt   | Emma is eight (8) years old       |                         |
+| 63     | Jahre                     | years                             |                         |
+| 64     | alt                       | old                               |                         |
+| 65     | feiern                    | to celebrate                      |                         |
+| 66     | funf                      | five (5)                          |                         |
+| 67     | funfzig                   | fifty (50)                        |                         |
+| 68     | der Geburtstag            | birthday                          |                         |
+| 69     | das Geschenk              | gift                              |                         |
+| 70     | die hausnummer            | house number                      |                         |
+| 71     | ich werde acht jahre alt  | im going to turn eigh years old   |                         |
+| 72     | lotte wird acht jahre alt | Lotte is turning eight            |                         |
+| 73     | neun                      | nine (9)                          |                         |
+| 74     | neunzig                   | ninety (90)                       |                         |
+| 75     | die person                | person                            |                         |
+| 76     | sechs                     | six (6)                           |                         |
+| 77     | sechzig                   | sixty (60)                        |                         |
+| 78     | sieben                    | seven (7)                         |                         |
+| 79     | siebzig                   | seventy (70)                      |                         |
+| 80     | vier                      | four (4)                          |                         |
+| 81     | vierzig                   | fourty (40)                       |                         |
+| 82     | wie alt ist Emma          | how old is Emma                   |                         |
+| 83     | wie viele                 | how many                          |                         |
+| 84     | die zahl                  | number                            |                         |
+| 85     | zehn                      | ten (10)                          |                         |
+| 86     | zwanzig                   | twenty (20)                       |                         |
+| 87     | zwei                      | two (2)                           |                         |
+| 88     | zwolf                     | twelve (12)                       |                         |
+| 89     | Agypten                   | Egypt                             |                         |
+| 90     | Die Akrobatik             | Acrobatics                        |                         |
+| 91     | Aktiv                     | Active                            |                         |
+| 92     | Die Aktivitat             | work                              |                         |
+| 93     | Die aktivprogram          | program works                     |                         |
+| 94     | aktuell                   | latest news                       |                         |
+| 95     | das album                 | album                             |                         |
+| 96     | der alkohol               | alcohol                           |                         |
+| 97     | elle                      | all                               |                         |
+| 98     | allein                    | alone                             |                         |
+| 99     | antworten                 | to answer something               |                         |
+| 100    | dreimal                   | thrice                            |                         |
+| 101    | fragen                    | to ask                            |                         |
+| 102    | das fundburo              | lost and found                    |                         |
+| 103    | das handy                 | cell phone                        |                         |
+| 104    | die handynummer           | cell phone number                 |                         |
+| 105    | horen                     | to hear                           |                         |
+| 106    | ich bin 23 jahre alt      | I'm 23 years old                  |                         |
+| 107    | null                      | zero                              |                         |
+| 108    | das radio                 | radio                             |                         |
+| 109    | mit jemandem sprechen     | to speak with someone             |                         |
+| 110    | die telefonnummer         | telephone number                  |                         |
+| 111    | etwas verlieren           | to lose something                 |                         |
+| 112    | wichtig                   | important                         |                         |
+| 113    | zweimal                   | twice                             |                         |
+| 114    | die Anfahrt               | trip/journey/approach             |                         |
+| 115    | die Anfang                | start/begin                       |                         |
+| 116    | Anfangen                  | Begin                             |                         |
+| 117    | die Anfanger              | Beginner(male)                    |                         |
+| 118    | die Anfangerin            | Beginner (female)                 |                         |
+| 119    | die Angabe                | Information                       |                         |
+| 120    | Die Angebot               | Special offer/ offer              |                         |
+| 121    | die Angina                | Angina                            | cardio medical syndrome |
+| 122    | Die Angst                 | fear                              |                         |
+| 123    | Ankommen                  | arrive                            |                         |
+| 124    | Entschuldigung            | excuse me                         |                         |
+| 125    | fehlen                    | missing                           |                         |
+| 126    | Mir geht's gut            | I'm doing good                    |                         |
+| 127    | Schreiben                 | to write something                |                         |
+| 128    | mit jemandem telefonieren | to speak with someone             |                         |
+| 129    | viel gluck                | good luck                         |                         |
+| 130    | warum                     | why                               |                         |
+| 131    | wer ist da?               | who is it?                        |                         |
+| 132    | wie heißt die straße      | what is the name of the street    |                         |
+| 133    | wo bist du                | where are you from?               |                         |
+| 134    | wo ist dei polizei        | where is the police station       |                         |
+| 135    | die ankunft               | the arrival                       |                         |
+| 136    | die anmeldung             | the registration                  |                         |
+| 137    | annehmen                  | assume/agree                      |                         |
+| 138    | anprobieren               | try it on (cloth)                 |                         |
+| 139    | die anrede                | the salutation                    |                         |
+| 140    | male                      | paint                             |                         |
+| 141    | koche                     | cook                              |                         |
+| 142    | schwimme                  | swim                              |                         |
+| 143    | nie                       | never                             |                         |
+| 144    | manchmal                  | sometimes                         |                         |
+| 145    | malst du                  | do you paint                      |                         |
+| 146    | kochst du                 | do you cook                       |                         |
+| 147    | du schwimmst              | you swim                          |                         |
+| 148    | du malst du               | you paint good                    |                         |
+| 149    | ich male sehr gut         | i paint really good               |                         |
+| 150    | schwimst du               | do you swim                       |                         |
+| 151    | ich koche sehr gut        | i cook really well                |                         |
+
+---
+
+<a id="2026-03-31"></a>
+## 📅 Entry: Tuesday, 31st March
