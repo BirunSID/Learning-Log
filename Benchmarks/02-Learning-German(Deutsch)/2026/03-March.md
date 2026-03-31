@@ -1261,3 +1261,63 @@ The list of all the vocabulary that we have learnt throughout March.
 
 <a id="2026-03-31"></a>
 ## 📅 Entry: Tuesday, 31st March
+
+---
+
+The list of all the vocabulary that we have learnt throughout March.
+
+| Index | German word               | English meaning | context/concept                        |
+| ----- | ------------------------- | --------------- | -------------------------------------- |
+| 152   | die anruf                 | calls           |                                        |
+| 153   | anrufen                   | call            |                                        |
+| 154   | anschauen                 | look at         |                                        |
+| 155   | das ansehen               | watch that      |                                        |
+| 156   | anstrengend               | stressful       | todaii germans making wrong calls here |
+| 157   | achthundert               | 800             |                                        |
+| 158   | achthundertachtundsiebzig | 878             |                                        |
+| 159   | das amt                   | authority       |                                        |
+| 160   | der dialog                | dialogue        |                                        |
+| 161   | fünfhundertfünfundvierzig | 545             |                                        |
+| 162   | das heimatland            | homeland        |                                        |
+| 163   | ich weiß es nicht         | i don't know    |                                        |
+| 164   | etwas kosten              | to cost         |                                        |
+| 165   | der nachname              | last name       |                                        |
+| 166   | der onkel                 | uncle           |                                        |
+| 167   | die passnummer            | password number |                                        |
+| 168   | die postleitzahl          | zip code        |                                        |
+| 169   | warum                     | why             |                                        |
+| 170   | der wohnort               | city/town/place |                                        |
+| 171   | er kocht                  | he cooks        |                                        |
+| 172   | sie malt                  | she paints      |                                        |
+| 173   | immer                     | always          |                                        |
+| 174   | oft                       | often           |                                        |
+| 175   | das klavier               | the piano       |                                        |
+| 176   | spiele                    | play            |                                        |
+| 177   | du spielst                | you play        |                                        |
+| 178   | schach                    | chess           |                                        |
+| 179   | der anzeige               | advertisement   |                                        |
+| 180   | der apfel                 | apple           |                                        |
+| 181   | der apfelkuchen           | apple-pie       |                                        |
+| 182   | der apfelsaft             | apple-juice     |                                        |
+| 183   | der apotheke              | the pharmacy    |                                        |
+| 184   | geoffnet                  | open            |                                        |
+| 185   | imbiss                    | snack bar       |                                        |
+| 186   | wirklich                  | really          |                                        |
+| 187   | links                     | to the left     |                                        |
+| 188   | guck mal                  | look            |                                        |
+| 189   | trinken                   | drink           |                                        |
+| 190   | durstig                   | thirsty         |                                        |
+| 191   | joggen                    | jog             |                                        |
+| 192   | euro                      | euro            |                                        |
+| 193   | kostet                    | costs           |                                        |
+| 194   | mude                      | tired           |                                        |
+| 195   | das antibiotikum          | antibiotics     |                                        |
+| 196   | die antwort               | answer          |                                        |
+| 197   | antworten                 | answer/reply    |                                        |
+| 198   | die anwendung             | the application |                                        |
+| 199   | die anzahl                | numbers         |                                        |
+
+---
+
+<a id="overall-february-vocab-log0002"></a>  
+# MARCH overall vocab log , all 199 words

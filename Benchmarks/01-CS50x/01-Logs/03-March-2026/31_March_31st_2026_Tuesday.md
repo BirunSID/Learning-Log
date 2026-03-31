@@ -1,0 +1,1 @@
+Done doing 1 hours today. Hopefully, I'll be done with the entire lecture tomorrow.
