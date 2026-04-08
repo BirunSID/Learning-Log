@@ -1,0 +1,1 @@
+Lecture 4 done. It was the most intense lecture so far. But really good. Learned a LOT of important concepts such as pointers and addresses and then file reading and opening and a lot of memory modifying functions like malloc() and free() and most importantly, sizeof().

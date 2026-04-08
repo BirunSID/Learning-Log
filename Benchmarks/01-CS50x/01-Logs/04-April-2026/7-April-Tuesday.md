@@ -1,0 +1,5 @@
+- Done with shorts ---> 
+	- Hexadecimal 
+	- pointers
+	- Defining Custom Types
+	- Dynamic Memory Allocation

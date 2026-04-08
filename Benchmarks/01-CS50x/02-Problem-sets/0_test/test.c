@@ -1,25 +1,20 @@
-#include<stdio.h>
-#include "../cs50.h"
+#include <stdio.h>
+#include <stdlib.h>
 
-int collatz(int n);
-
-int main (void)
+int main(void)
 {
-    int x = get_int("Number: ");
-    printf("steps: %i",collatz(x));
-}
+    int n;
+    printf("How many characters? ");
+    scanf("%d", &n);
 
-int collatz(int n)
-{
-    int steps = 0;
-    if (n == 1)
-    return 0;
+    char *s = malloc(n + 1);  // +1 for '\0'
 
-    // Even numbers
-    if (n%2 == 0)
-    return 1 + collatz(n/2);
+    if (s == NULL) return 1;
 
-    // Odd numbers
-    else
-    return 1 + collatz(3*n + 1);
+    printf("Enter text: ");
+    scanf("%ns", s);
+
+    printf("You typed: %s\n", s);
+
+    free(s);
 }

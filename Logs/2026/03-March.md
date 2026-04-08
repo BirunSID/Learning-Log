@@ -643,7 +643,7 @@
 
 - **Linear Algebra for ML & DS** 📐
 	- **Topic:** Just got introduced to the linear equation systems and how to solve these and turn them into matrices and vectors.
-	- **Notes:** [click here](../../Benchmarks/03-Math/March/30th-Monday)
+	- **Notes:** [click here](<../../Benchmarks/03-Math/03 March/30th-Monday>)
 ㅤ
 ### 🟡 III. THE TOOLBELT (Applied: Project-Based Only)
 
@@ -688,7 +688,7 @@
 
 - **Linear Algebra for ML & DS** 📐
 	- **Topic:**  Done for the day. Hopefully, i can complete this week within 3 more days.
-	- **Notes:** [click here](../../Benchmarks/03-Math/March/31st-Tuesday)
+	- **Notes:** [click here](<../../Benchmarks/03-Math/03 March/31st-Tuesday>)
 ㅤ
 ### 🟡 III. THE TOOLBELT (Applied: Project-Based Only)
 
@@ -700,4 +700,5 @@
 
 ### 🟠 V. THE PLAYGROUND (Controlled Chaos)
 
-- 
+---
+
