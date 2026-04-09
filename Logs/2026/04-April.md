@@ -157,34 +157,37 @@ GS statement break
 
 ### 🔵I. Human OS : (Non-Negotiable: Maintenance)
 - **German 🇩🇪**
-    - **Focus:** 
+    - **Focus:** Not done today. Insufficient time.
     - **Progress:** 
     - **Detailed Notes:** [click here](../../Benchmarks/02-Learning-German(Deutsch)/2026/04-April.md#2026-04-08)
 ㅤㅤ
 - **Reading & Research** (*Review session* : target 50 pages/day)  
-    - **Psychology of money** *REVIEW*  : 
+    - **Psychology of money** *REVIEW*  : Not done today. Insufficient time.
 	    - progress :
 		    -   
     - **Article/Paper:** NA  
 ㅤㅤ
  - **Action Items zetteling**
-	 - **Deep work** *progress* : 
+	 - **Deep work** *progress* : Not done today. Insufficient time.
 
 ### 🟢 II. THE ENGINE : (Non-Negotiable: Daily Foundation)
 
 - **CS50x 💻**
-    - **Topic:** 
+    - **Topic:** done with shorts. will begin solving the psets from tomorrow onwards.
     - **Notes:** [click here](../../Benchmarks/01-CS50x/01-Logs/04-April-2026/8-April-Wednesday.md)
 ㅤㅤ
 - **Linear Algebra for ML & DS** 📐
-	- **Topic:** 
+	- **Topic:** *First, I need to do a bare minimum tutorial on Jupyter NoteBook*
 	- **Notes:** [click here](<../../Benchmarks/03-Math/04 April/8th-April-Math.md>)
 ㅤ
 ### 🟡 III. THE TOOLBELT (Applied: Project-Based Only)
 
 - **Microsoft Excel** (currently learning)
-	- **Topic:** 
+	- **Topic:** Done for the day. completed yet another video of excelisfun and learned a lot. Tomorrow, the 3rd video shall be done.
 	- **Notes:** [click here](../../Benchmarks/04-MSExcel/April/08-April-excel.md)
+
+- **jupyter notebook learning**
+	- Just learnt about anaconda and jupyter note book basics for now. tomorrow, i will hopefully finish them. They are in the obsidian vault.
 ㅤㅤ
 ### 🟣 IV. THE PROFESSIONAL LAYER (Milestone-based)
 
@@ -195,3 +198,47 @@ GS statement break
 - 
 
 ---
+
+## 🚀 Engineering & Skills Log
+
+### 🔵I. Human OS : (Non-Negotiable: Maintenance)
+- **German 🇩🇪**
+    - **Focus:** Did the duolingo & independent vocabulary writing.
+    - **Progress:** Not much.
+    - **Detailed Notes:** [click here](../../Benchmarks/02-Learning-German(Deutsch)/2026/04-April.md#2026-04-09)
+ㅤㅤ
+- **Reading & Research** (*Review session* : target 50 pages/day)  
+    - **Psychology of money** *REVIEW*  : Did 10 pages today only.
+	    - progress : 41-50 *done*
+		    -   
+    - **Article/Paper:** NA  
+ㅤㅤ
+ - **Action Items zetteling**
+	 - **Deep work** *progress* : 21-30 done. I'll have to pick up the pace tomorrow.
+
+### 🟢 II. THE ENGINE : (Non-Negotiable: Daily Foundation)
+
+- **CS50x 💻**
+    - **Topic:** done for today. worked so hard for nothing. thought that i could do it within today but it was harder than expected
+    - **Notes:** [click here](../../Benchmarks/01-CS50x/01-Logs/04-April-2026/9-April-Thursday.md)
+ㅤㅤ
+- **Linear Algebra for ML & DS** 📐
+	- **Topic:** DONE with JUPYTER. from tomorrow on, we can continue the MATH course works.
+	- **Notes:** [click here](<../../Benchmarks/03-Math/04 April/9th-April-Math.md>)
+ㅤ
+### 🟡 III. THE TOOLBELT (Applied: Project-Based Only)
+
+- **Microsoft Excel** (currently learning)
+	- **Topic:** done the 3rd video and man, this is an interesting channel, an insane goldmine i have come across.
+	- **Notes:** [click here](../../Benchmarks/04-MSExcel/April/09-April-excel.md)
+ㅤㅤ
+- **Jupyter NoteBook**
+	- 
+
+### 🟣 IV. THE PROFESSIONAL LAYER (Milestone-based)
+
+- 
+
+### 🟠 V. THE PLAYGROUND (Controlled Chaos)
+
+- 

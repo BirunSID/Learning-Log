@@ -1,0 +1,3 @@
+- Done with shorts ---> 
+	- Call stacks
+	- file pointers

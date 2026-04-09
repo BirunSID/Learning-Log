@@ -31,7 +31,79 @@
 <a id="2026-04-07"></a>
 ## 📅 Entry: Tuesday, 7th April
 
-# Not done
+### Not done
 
 <a id="2026-04-08"></a>
 ## 📅 Entry: Wednesday, 8th April
+
+### Not done today. Insufficient time.
+
+
+<a id="2026-04-09"></a>
+## 📅 Entry: Thursday, 9th April
+
+---
+### 📘 Lessons
+
+- [ ] Nicos weg :
+- [x] Duolingo
+- [ ] Easy German youtube
+- [x] independent vocabulary
+
+---
+
+### 📘 Vocabulary — Nicos Weg
+
+| German | English | Notes/Context |
+| ------ | ------- | ------------- |
+|        |         |               |
+
+
+---
+
+### 📗 Vocabulary — Duolingo
+
+| German | English | Notes/Context |
+| ------ | ------- | ------------- |
+|        |         |               |
+|        |         |               |
+
+---
+
+### 🗒️Vocabulary outside source.
+
+#### till 75th
+
+| German          | English                 | Notes/Context |
+| --------------- | ----------------------- | ------------- |
+| der apotheker   | the pharmacist          |               |
+| der apothekerin | the pharmacist (female) |               |
+| die app         | mobile application      |               |
+| die appetit     | the appetite            |               |
+| der april       | the april               |               |
+
+
+---
+
+### 🧠 Logic / Grammar Notes
+
+> 
+
+---
+
+### 📝 Output / Practice Notes
+- 
+- 
+
+---
+
+### 📝 Practice Sentences
+
+```text
+```
+
+---
+
+<a id="2026-04-10"></a>
+## 📅 Entry: Friday, 10th April
+
