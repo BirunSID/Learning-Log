@@ -241,4 +241,45 @@ GS statement break
 
 ### 🟠 V. THE PLAYGROUND (Controlled Chaos)
 
+---
+
+## 🚀 Engineering & Skills Log
+
+### 🔵I. Human OS : (Non-Negotiable: Maintenance)
+- **German 🇩🇪**
+    - **Focus:** # Weekend break
+    - **Progress:** 
+    - **Detailed Notes:** [click here](../../Benchmarks/02-Learning-German(Deutsch)/2026/04-April.md#2026-04-10)
+ㅤㅤ
+- **Reading & Research** (*Review session* : target 50 pages/day)  
+    - **Psychology of money** *REVIEW*  : # Weekend break
+	    - progress :
+		    -   
+    - **Article/Paper:** NA  
+ㅤㅤ
+ - **Action Items zetteling**
+	 - **Deep work** *progress* : # Weekend break
+
+### 🟢 II. THE ENGINE : (Non-Negotiable: Daily Foundation)
+
+- **CS50x 💻**
+    - **Topic:** # Weekend break
+    - **Notes:** [click here](../../Benchmarks/01-CS50x/01-Logs/04-April-2026/10-April-Friday.md)
+ㅤㅤ
+- **Linear Algebra for ML & DS** 📐
+	- **Topic:** # Weekend break
+	- **Notes:** [click here](<../../Benchmarks/03-Math/04 April/10th-April-Math.md>)
+ㅤ
+### 🟡 III. THE TOOLBELT (Applied: Project-Based Only)
+
+- **Microsoft Excel** (currently learning)
+	- **Topic:** # Weekend break
+	- **Notes:** [click here](../../Benchmarks/04-MSExcel/April/10-April-excel.md)
+ㅤㅤ
+### 🟣 IV. THE PROFESSIONAL LAYER (Milestone-based)
+
+- 
+
+### 🟠 V. THE PLAYGROUND (Controlled Chaos)
+
 - 

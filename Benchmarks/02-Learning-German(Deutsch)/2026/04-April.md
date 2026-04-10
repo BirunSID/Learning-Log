@@ -107,3 +107,9 @@
 <a id="2026-04-10"></a>
 ## 📅 Entry: Friday, 10th April
 
+# Weekend break
+
+---
+
+<a id="2026-04-11"></a>
+## 📅 Entry: Saturday, 11th April
