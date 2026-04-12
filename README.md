@@ -1,4 +1,4 @@
-# Learning-Log
+# Learning-Log (outdated for now, will update things here later)
 
 ## Personal Development log by & for : __*Sidratul Al Birun*__
 ### Focus : Computer Science & Engineering (CSE)
