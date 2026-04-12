@@ -6,7 +6,7 @@
 - also learned how to create charts and graphs easily and clear any chart junkies.
 
 ## 🗒️ Master Note Link
-- 🔗 In obsidian vault
+- 🔗 [click here](<../ExcelIsFun courses/02 Excel Basics 2, Introduction to Excel 2 Excel's Golden Rule for Formulas, Formula Inputs, & Charts.md>)
 
 ## 🧪 Active Workbook
 - in vault

@@ -115,3 +115,74 @@
 ## 📅 Entry: Saturday, 11th April
 
 # Weekend break calibration
+
+---
+
+<a id="2026-04-12"></a>
+## 📅 Entry: Sunday, 12th April
+
+---
+### 📘 Lessons
+
+- [x] Duolingo
+- [x] Independent vocabulary
+- [x] Easy German youtube
+- [ ] Nicos weg (skipped this for today.)
+
+---
+
+### 📘 Vocabulary — Nicos Weg
+
+| German | English | Notes/Context |
+| ------ | ------- | ------------- |
+|        |         |               |
+
+
+---
+
+### 📗 Vocabulary — Duolingo
+
+| German   | English   | Notes/Context |
+| -------- | --------- | ------------- |
+| Eis      | ice-cream |               |
+| backerei | bakery    |               |
+|          |           |               |
+
+---
+
+### 🗒️Vocabulary outside source.
+
+#### Till 80th
+
+| German        | English      | Notes/Context |
+| ------------- | ------------ | ------------- |
+| das aquarium  | The aquarium |               |
+| das aqua-yoga | Aqua yoga    |               |
+| Arabisch      | arabic       |               |
+| Die arbeit    | job          |               |
+| arbeiten      | work         |               |
+
+
+---
+
+### 🧠 Logic / Grammar Notes
+
+> 
+
+---
+
+### 📝 Output / Practice Notes
+- 
+- 
+
+---
+
+### 📝 Practice Sentences
+
+```text
+```
+
+---
+
+<a id="2026-04-13"></a>
+## 📅 Entry: Monday, 13th April

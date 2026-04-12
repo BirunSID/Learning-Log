@@ -334,3 +334,50 @@ GS statement break
 
 ---
 
+# 📅 Sunday, 12 April 2026
+
+## 🚀 Engineering & Skills Log
+
+### 🔵I. Human OS : (Non-Negotiable: Maintenance)
+- **German 🇩🇪**
+    - **Focus:** done for the day.
+    - **Progress:** skipped nicos weg, but looking past the last 2 months of consistency , i have come a long way.  i have to keep it up
+    - **Detailed Notes:** [click here](../../Benchmarks/02-Learning-German(Deutsch)/2026/04-April.md#2026-04-12)
+ㅤㅤ
+- **Reading & Research** (*Review session* : target 50 pages/day)  
+    - **Psychology of money** *REVIEW*  : done only 10 pages
+	    - progress :
+    		- 81 - 90 done
+    - **Article/Paper:** NA  
+ㅤㅤ
+ - **Action Items zetteling**
+	 - **Deep work** *progress* : none for today.  
+ㅤㅤ
+- **Private university prep**
+	- **azfars book completion progress** : yeah. 15 pages done, did not meet the  deadline, i have to increase my speed of comprehension and practice.
+
+### 🟢 II. THE ENGINE : (Non-Negotiable: Daily Foundation)
+
+- **CS50x 💻**
+    - **Topic:** done with volume, tomorrow, we shall finish filter(pset 4.2)
+    - **Notes:** [click here](../../Benchmarks/01-CS50x/01-Logs/04-April-2026/12-April-Sunday.md)
+ㅤㅤ
+- **Linear Algebra for ML & DS** 📐
+	- **Topic:** done for the day, it was intense but now we can note jupyer notebook stuffs inside of obsidain and are learning numpy too.
+	- **Notes:** [click here](<../../Benchmarks/03-Math/04 April/12th-April-Math.md>)
+ㅤㅤ
+- **NumPy:** learned a lot today. have to projectify it later.
+ㅤ
+### 🟡 III. THE TOOLBELT (Applied: Project-Based Only)
+
+- **Microsoft Excel** (currently learning)
+	- **Topic:** learned pivot table and how to use sumifs formula to automate data analysis and raw data to specific wanted data
+	- **Notes:** [click here](../../Benchmarks/04-MSExcel/April/12-April-excel.md)
+ㅤㅤ
+### 🟣 IV. THE PROFESSIONAL LAYER (Milestone-based)
+
+- 
+
+### 🟠 V. THE PLAYGROUND (Controlled Chaos)
+
+- 
