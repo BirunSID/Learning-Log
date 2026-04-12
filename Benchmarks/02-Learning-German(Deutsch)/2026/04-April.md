@@ -113,3 +113,5 @@
 
 <a id="2026-04-11"></a>
 ## 📅 Entry: Saturday, 11th April
+
+# Weekend break calibration
