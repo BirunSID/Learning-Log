@@ -186,3 +186,63 @@
 
 <a id="2026-04-13"></a>
 ## 📅 Entry: Monday, 13th April
+
+---
+### 📘 Lessons
+
+- [x] Duolingo
+- [x] Independent vocabulary
+- [x] Easy German youtube
+- [x] Nicos weg
+
+
+---
+
+### 📘 Vocabulary — Nicos Weg
+
+| German | English | Notes/Context |
+| ------ | ------- | ------------- |
+|        |         |               |
+
+
+---
+
+### 📗 Vocabulary — Duolingo
+
+| German | English | Notes/Context |
+| ------ | ------- | ------------- |
+|        |         |               |
+
+---
+
+### 🗒️Vocabulary outside source.
+
+#### till 85th
+
+| German              | English                    | Notes/Context |
+| ------------------- | -------------------------- | ------------- |
+| der Arbeitskollege  | the work colleague         |               |
+| die Arbeitskollegin | the work colleague(female) |               |
+| der arbeitplatz     | the workplace              |               |
+| der arbeitstag      | the working day            |               |
+| der arbeitszeit     | the working time           |               |
+
+
+---
+
+### 🧠 Logic / Grammar Notes
+
+> 
+
+---
+
+### 📝 Output / Practice Notes
+- 
+- 
+
+---
+
+### 📝 Practice Sentences
+
+```text
+```

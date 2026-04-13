@@ -9,7 +9,7 @@
 
 # 📅 12 April 2026: Summary Reports with PivotTables & SUMIFS
 
-> [!abstract] Progress: 00:00 - end
+> [!note] Progress: 00:00 - end
 > This module covers the fundamental logic of converting raw data into business intelligence using two primary methods: the `SUMIFS` function and PivotTables. Key focus areas include data set integrity and the trade-offs between formula-based reports and PivotTable reports.
 
 ---

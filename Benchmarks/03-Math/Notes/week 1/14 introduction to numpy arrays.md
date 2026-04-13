@@ -1,3 +1,18 @@
+---
+jupyter:
+  jupytext:
+    cell_metadata_filter: -all
+    formats: ipynb,md
+    text_representation:
+      extension: .md
+      format_name: markdown
+      format_version: '1.3'
+      jupytext_version: 1.19.1
+  kernelspec:
+    display_name: Python 3
+    language: python
+    name: python3
+---
 
 # This is what they said in the jupyter notebook. Quite a challenge for a first time numpy user, i didnt even knew it existed.
 
@@ -26,15 +41,15 @@ Follow along the cells using Shift+Enter. Alternatively, you can press Run in th
     - [[#1.2 - Advantages of using NumPy arrays]]
     - [[#1.3 - How to create NumPy arrays]]
     - [[#1.4 - More on NumPy arrays]]
-- [[2 - Multidimensional arrays]]
-    -[[ 2.1 - Finding size, shape and dimension]]
-- [[3 - Array math operations]]
-    - [[3.1 - Multiplying vector with a scalar (broadcasting)]]
-- [[4 - Indexing and slicing]]
-    - [[4.1 - Indexing]]
-    - [[4.2 - Slicing]]
-- [[5 - Stacking]]
-- [[6 - Exercises]]
+- [[#2 - Multidimensional arrays]]
+    -[[#2.1 Finding size, shape and dimension]]
+- [[#3 Array math operations]]
+    - [[#3.1 Multiplying vector with a scalar (broadcasting)]]
+- [[#4 Indexing and slicing]]
+    - [[#4.1 Indexing]]
+    - [[#4.2 Slicing]]
+- [[#5 Stacking]]
+- [[#Now they do have some exercise|Exercises]]
 
 ---
 
@@ -163,7 +178,233 @@ print(empt_arr)
 
 ```python
 # Return a new array of shape 3 with random numbers between 0 and 1.
-rand_arr = np.random.rand(3,3,3)
+rand_arr = np.random.rand(3)
 print(rand_arr)
 ```
 
+---
+# 2 - Multidimensional arrays
+
+With NumPy you can also create arrays with more than one dimension. In the above examples, you dealt with 1-D arrays, where you can access their elements using a single index. A multidimensional array has more than one column. Think of a multidimensional array as an excel sheet where each row/column represents a dimension.
+
+![alt text](<../../99 images/Pasted image 20260413095739.png>)
+
+```python
+# Create a 2 dimensional array (2-D)
+two_dim_arr = np.array([[1,2,3], [4,5,6]])
+print(two_dim_arr)
+```
+
+An alternative way to create a multidimensional array is by reshaping the initial 1-D array. Using `np.reshape()` you can rearrange elements of the previous array into a new shape.
+
+```python
+# 1-D array 
+one_dim_arr = np.array([1, 2, 3, 4, 5, 6])
+
+# Multidimensional array using reshape()
+multi_dim_arr = np.reshape(
+                one_dim_arr, # the array to be reshaped
+               (2,3) # dimensions of the new array
+              )
+# Print the new 2-D array with two rows and three columns
+print(multi_dim_arr)
+```
+
+## 2.1 Finding size, shape and dimension
+
+In future assignments, you will need to know how to find the size, dimension and shape of an array. These are all atrributes of a `ndarray` and can be accessed as follows:
+
+- `ndarray.ndim` - Stores the number dimensions of the array.
+- `ndarray.shape` - Stores the shape of the array. Each number in the tuple denotes the lengths of each corresponding dimension.
+- `ndarray.size` - Stores the number of elements in the array.
+
+```python
+# Dimension of the 2-D array multi_dim_arr
+multi_dim_arr.ndim
+```
+
+```python
+# Shape of the 2-D array multi_dim_arr
+# Returns shape of 2 rows and 3 columns
+multi_dim_arr.shape
+```
+
+```python
+# Size of the array multi_dim_arr
+# Returns total number of elements
+multi_dim_arr.size
+```
+
+---
+
+# 3 Array math operations
+
+In this section, you will see that NumPy allows you to quickly perform elementwise addition, substraction, multiplication and division for both 1-D and multidimensional arrays. The operations are performed using the math symbol for each '+', '-' and '*'. Recall that addition of Python lists works completely differently as it would append the lists, thus making a longer list, in addition, subtraction and multiplication of Python lists do not work.
+
+```python
+arr_1 = np.array([2, 4, 6])
+arr_2 = np.array([1, 3, 5])
+
+# Adding two 1-D arrays
+addition = arr_1 + arr_2
+print(addition)
+
+# Subtracting two 1-D arrays
+subtraction = arr_1 - arr_2
+print(subtraction)
+
+# Multiplying two 1-D arrays elementwise
+multiplication = arr_1 * arr_2
+print(multiplication)
+```
+
+
+## 3.1 Multiplying vector with a scalar (broadcasting)
+
+Suppose you need to convert miles to kilometers. To do so, you can use the NumPy array functions that you've learned so far. You can do this by carrying out an operation between an array (miles) and a single number (the conversion rate which is a scalar). Since, 1 mile = 1.6 km, NumPy computes each multiplication within each cell.
+
+This concept is called **broadcasting**, which allows you to perform operations specifically on arrays of different shapes.
+
+```python
+vector = np.array([1, 2])
+a = vector * 1.6
+print(a)
+```
+
+![alt text](<../../99 images/Pasted image 20260413101707.png>)
+
+
+# 4 Indexing and slicing
+
+Indexing is very useful as it allows you to select specific elements from an array. It also lets you select entire rows/columns or planes as you'll see in future assignments for multidimensional arrays.
+
+## 4.1 Indexing
+
+Let us select specific elements from the arrays as given.
+
+```python
+# Select the third element of the array. Remember the counting starts from 0.
+a = ([1, 2, 3, 4, 5])
+print(a[2])
+
+# Select the first element of the array.
+print(a[0])
+```
+
+For multidimensional arrays of shape `n`, to index a specific element, you must input `n` indices, one for each dimension.
+
+```python
+# Indexing on a 2-D array
+two_dim = np.array(([1, 2, 3],
+                    [4, 5, 6], 
+                    [7, 8, 9]))
+
+# Select element number 8 from the 2-D array using indices i, j.
+print(two_dim[2][1])
+```
+
+## 4.2 Slicing
+Slicing gives you a sublist of elements that you specify from the array. The slice notation specifies a start and end value, and copies the list from start up to but not including the end (end-exclusive).
+
+The syntax is:
+`array[start:end:step]`
+
+If no value is passed to start, it is assumed start = 0, if no value is passed for end, it is assumed that end = length of array and if no value is passed to step, it is assumed `step = 1`.
+
+```python
+# Slice the array a to get the array [2,3,4]
+sliced_arr = a[1:4:]
+print(sliced_arr)
+```
+
+```python
+# Slice the array a to get the array [1,2,3]
+sliced_arr = a[:3:]
+print(sliced_arr)
+```
+
+```python
+# Slice the array a to get the array [3,4,5]
+sliced_arr = a[2:]
+print(sliced_arr)
+```
+
+```python
+# Slice the array a to get the array [1,3,5]
+sliced_arr = a[::2]
+print(sliced_arr)
+```
+
+```python
+# Note that a == a[:] == a[::]
+print(a == a[:] == a[::])
+```
+
+```python
+# Slice the two_dim array to get the first two rows
+sliced_arr_1 = two_dim[0:2]
+print(sliced_arr_1)
+```
+
+```python
+# Similarily, slice the two_dim array to get the last two rows
+sliced_two_dim_rows = two_dim[1:3]
+print(sliced_two_dim_rows)
+```
+
+```python
+sliced_two_dim_cols = two_dim[0:,2]
+print(sliced_two_dim_cols)
+```
+
+---
+
+# 5 Stacking
+
+Finally, stacking is a feature of NumPy that leads to increased customization of arrays. It means to join two or more arrays, either horizontally or vertically, meaning that it is done along a new axis.
+
+- `np.vstack()` - stacks vertically
+- `np.hstack()` - stacks horizontally
+- `np.hsplit()` - splits an array into several smaller arrays
+
+```python
+a1 = np.array([[1,1], 
+               [2,2]])
+a2 = np.array([[3,3],
+              [4,4]])
+print(f'a1:\n{a1}')
+print(f'a2:\n{a2}')
+```
+
+```python
+# Stack the arrays vertically
+va3 = np.vstack((a1, a2))
+print(va3)
+```
+
+```python
+# Stack the arrays horizontally
+ha3 = np.hstack((a1, a2))
+print(ha3)
+```
+
+---
+
+VOiLA, we have learned a lot about numpy stuffs!!, this was a good workshop~!!!
+
+# Now they do have some exercise
+
+### Question 1
+Is there a difference between `np.zeros()` and `np.empty()`? Select one of the options given:
+
+- A. No difference, they both output arrays of zeros.
+- B. `np.zeros()` is not initialized, but gives an output of zeros.
+- C. `np.zeros()` is faster to execute than `np.empty()`.
+- D. `np.empty()` outputs an uninitialized array, but `np.zeros()` outputs an initialized array of value zero. TRUE
+
+```python
+# Run this cell to select your answer
+import quiz
+import ipywidgets as widgets
+q1 = quiz.mcq(quiz.question1, quiz.solution1)
+```

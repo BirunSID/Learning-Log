@@ -308,7 +308,7 @@ GS statement break
 	 - **Deep work** *progress* : done 20 pages
 
 - **Private university prep**
-	- **azfars book completion progress** : Today is analysis day. Analysis done.
+	- **a's book completion progress** : Today is analysis day. Analysis done.
 
 ### 🟢 II. THE ENGINE : (Non-Negotiable: Daily Foundation)
 
@@ -354,7 +354,7 @@ GS statement break
 	 - **Deep work** *progress* : none for today.  
 ㅤㅤ
 - **Private university prep**
-	- **azfars book completion progress** : yeah. 15 pages done, did not meet the  deadline, i have to increase my speed of comprehension and practice.
+	- **a's book completion progress** : yeah. 15 pages done, did not meet the  deadline, i have to increase my speed of comprehension and practice.
 
 ### 🟢 II. THE ENGINE : (Non-Negotiable: Daily Foundation)
 
@@ -373,6 +373,56 @@ GS statement break
 - **Microsoft Excel** (currently learning)
 	- **Topic:** learned pivot table and how to use sumifs formula to automate data analysis and raw data to specific wanted data
 	- **Notes:** [click here](../../Benchmarks/04-MSExcel/April/12-April-excel.md)
+ㅤㅤ
+### 🟣 IV. THE PROFESSIONAL LAYER (Milestone-based)
+
+- 
+
+### 🟠 V. THE PLAYGROUND (Controlled Chaos)
+
+
+---
+
+# 📅 Monday, 13 April 2026
+
+## 🚀 Engineering & Skills Log
+
+### 🔵I. Human OS : (Non-Negotiable: Maintenance)
+- **German 🇩🇪**
+    - **Focus:** Done for the day. Did all 4 modules to be adept in German.
+    - **Progress:** A lot. epsecially Nicos weg. progress in duolingo wasn't much due to to the 5 silly errors I made
+    - **Detailed Notes:** [click here](../../Benchmarks/02-Learning-German(Deutsch)/2026/04-April.md#2026-04-13)
+ㅤㅤ
+- **Reading & Research** (*Review session* : target 50 pages/day)  
+    - **Psychology of money** *REVIEW*  : 20 pages done. I'll have to gain more progress tomorrow.
+	    - progress :
+		    - 91-100 done
+		    - 101-110 done
+    - **Article/Paper:** NA  
+ㅤㅤ
+ - **Action Items zetteling**
+	 - **Deep work** *progress* : done zetteling what was necessary and the others, which are irrelevant now, have been skipped.
+ㅤㅤ
+- **Private university prep**
+	- **a's book completion progress** : Done for the day, read a lot and did a lot of math that i would have otherwise unable to answer if i didnt do this book.
+
+### 🟢 II. THE ENGINE : (Non-Negotiable: Daily Foundation)
+
+- **CS50x 💻**
+    - **Topic:** Done documenting 50% lol, this problem set is very big, i still can't gauge the difficulty properly. But one thing for sure, its heavy.
+    - **Notes:** [click here](../../Benchmarks/01-CS50x/01-Logs/04-April-2026/13-April-Monday.md)
+ㅤㅤ
+- **Linear Algebra for ML & DS** 📐
+	- **Topic:** done for the day, and got the numpy basics in my head, this is soo fun, doing matrices in computer. this is the best!!.  but i have to projectify it asap!!
+	- **Notes:** [click here](<../../Benchmarks/03-Math/04 April/13th-April-Math.md>)
+ㅤㅤ
+- **NumPy:** learning through deeplearning.ai and jupyter notebook.
+ㅤㅤ
+### 🟡 III. THE TOOLBELT (Applied: Project-Based Only)
+
+- **Microsoft Excel** (currently learning)
+	- **Topic:** Done for the day, it was the 5th video, learned about some advanced pivottable mechanisms. awesome!!, i love excel, it sure is fun.
+	- **Notes:** [click here](../../Benchmarks/04-MSExcel/April/13-April-excel.md)
 ㅤㅤ
 ### 🟣 IV. THE PROFESSIONAL LAYER (Milestone-based)
 
