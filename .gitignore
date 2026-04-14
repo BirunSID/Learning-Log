@@ -1,0 +1,43 @@
+# --- PERSONAL / SECURITY ---
+# Ignore executable files (Security Risk)
+*.exe
+*.msi
+*.bin
+
+# Ignore PDFs (Keep repo light)
+*.pdf
+
+# Ignore environment variables / secrets
+.env
+.env.local
+
+# --- OS CLUTTER ---
+# Windows
+Thumbs.db
+desktop.ini
+$RECYCLE.BIN/
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# --- IDE & TOOLS ---
+# VS Code
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+*.code-workspace
+
+# Obsidian
+# We ignore the workspace layout so your different screen sizes don't clash
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/graph.json
+.obsidian/appearance.json
+
+# --- TEMPORARY FILES ---
+*.tmp
+*.log

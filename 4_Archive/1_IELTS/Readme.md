@@ -16,4 +16,5 @@
 - Im also preparing for the mock tests by quickly familiarizing myself with all 4 modules . so that when its time for mock test, I can do better. (Got admitted into speakers council for this. 10 mocks , 1 month validity)
 
 ## if mocks aren't enough
-- I'll have to make sure i prioritize the module where I'm not getting much and make sure to score above 8.5 at any cost . 
+- I'll have to make sure i prioritize the module where I'm not getting much and make sure to score above 8.5 at any cost.
+---
