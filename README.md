@@ -6,6 +6,8 @@
 
 > "Knowledge is the compound interest of the mind. The goal is to get better by 1% every single day."
 
+![Obsidian_vault_graph_view](Assets/1_for_readme/2026.04.14_obsidian_GraphView.jpg)
+
 Welcome to my **Digital Garden**. This repository is a real-time "Proof of Work" for my journey into Computer, AI&ML, Data Science, and Personal Development. It tracks my progress from a "Systematic Mess" to an "Engineered Workflow."
 
 ---
@@ -47,12 +49,6 @@ This repository is constantly being refactored to improve scalability. For a ful
 - **Timezone:** All logs follow **GMT +6 (ISO 8601)**.
 - **Naming Conventions:** Strict use of `kebab-case` OR `snake_case` for file integrity.
 - **The Atomic Rule:** Since April 14, 2026, all logs are "Atomic" (one file per day) to ensure high resolution and low clutter.
-
----
-
-## 🖼️ Visualizing Progress
-
-![Visual Guide Placeholder_coming soon](https://via.placeholder.com/800x200.png?text=Obsidian+Vault+Visual+Graph+Coming+Soon)
 
 ---
 
