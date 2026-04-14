@@ -1,23 +1,60 @@
-# Learning-Log (outdated for now, will update things here later)
+# 🚀 Sidratul Al Birun's Learning Log
 
-## Personal Development log by & for : __*Sidratul Al Birun*__
-### Focus : Computer Science & Engineering (CSE)
->note: please, do not refer to tracking goals and status for it is not yet implemented.
-- [🎯 Tracking goals and status](./Targets.md)
-- [📅Daily Logs](./1_Logs)
-- [📄 Research & Reports](./2_Knowledge_Vault)
-- [📈 Performance Benchmarks](./Projects_and_Labs)
+![Status](https://img.shields.io/badge/Status-Active-success)
+![System](https://img.shields.io/badge/System-v2.0_Atomic-blue)
+![Timezone](https://img.shields.io/badge/Timezone-GMT%20%2B6-orange)
 
-**The time calculated is in GMT +6. (format ISO 8601)**
+> "Knowledge is the compound interest of the mind. The goal is to get better by 1% every single day."
 
-## Current Focus:
-- IELTS band 9.0 target |
-- German(Deutsch) Lang proficiency (A1 for now) |
-- CS50x course completion (Introduction to CSE) | 
-- Reading books 1."Can't hurt me" (by David Goggins) & 2.The Almanack of naval ravikant (by Eric Jorgenson) |
+Welcome to my **Digital Garden**. This repository is a real-time "Proof of Work" for my journey into Computer, AI&ML, Data Science, and Personal Development. It tracks my progress from a "Systematic Mess" to an "Engineered Workflow."
 
-**Naming conventions** : 
-- hyphen(-) and underscore(_) will be used instead of space for ensuring no errors happen.
-- proper numbers will be assinged to make sure we dont mess up the file order because vs code default is file order by name.
+---
 
-# update 1 : massive overhaul was done to daily logging from 14 March onwards.
+## 🏛️ Repository Architecture
+I use a three-layer system to separate **time**, **theory**, and **execution**.
+
+| Pillar             | Description | Link |
+| :---               | :---        | :--- |
+| **📅 Logs**        | Daily chronological tracking and consistency logs. | [Explore logs](1_Logs) |
+| **🧠 Knowledge Vault** | Synthesized theory, mental models, and study notes. | [Enter vault](2_Knowledge_Vault)|
+| **🛠️ Projects & Labs** | Source code, Excel workbooks, and practical evidence. | [View Labs](2_Knowledge_Vault)|
+| **🏆 Archive**         | Major milestones and completed certifications. | [See Trophies](4_Archive) |
+
+---
+
+## 🎯 Current Objectives (April 2026)
+
+### 🟢 The Engine (Core Skills)
+- [ ] **CS50x:** Harvard’s Introduction to Computer Science (Currently: Week 4 - Memory).
+- [ ] **Linear Algebra:** DeepLearning.AI Mathematics for ML & DS.
+- [ ] **MS Excel:** Advanced Data Analysis & Automation (excelisfun).
+
+### 🔵 Human OS (Maintenance)
+- [ ] **German (Deutsch):** Reaching A1 proficiency.
+- [ ] **Reading:** `WIll be updated later`.
+- [x] **IELTS:** Target Band 9.0 (**Current: Band 8.0 Achieved** ✅).
+
+---
+
+## 📈 System Evolution & Action Log
+This repository is constantly being refactored to improve scalability. For a full technical history of changes, system migrations, and version updates:
+
+👉 **[View the CHANGELOG.md](./CHANGELOG.md)**
+
+---
+
+## ⚙️ Methodology
+- **Timezone:** All logs follow **GMT +6 (ISO 8601)**.
+- **Naming Conventions:** Strict use of `kebab-case` OR `snake_case` for file integrity.
+- **The Atomic Rule:** Since April 14, 2026, all logs are "Atomic" (one file per day) to ensure high resolution and low clutter.
+
+---
+
+## 🖼️ Visualizing Progress
+*(Tip: You can insert a screenshot of your GitHub contribution graph or an Obsidian Graph View here later!)*
+
+![Visual Guide Placeholder](https://via.placeholder.com/800x200.png?text=Obsidian+Vault+Visual+Graph+Coming+Soon)
+
+---
+
+"Save money for the sake of saving." — Morgan Housel.
