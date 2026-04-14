@@ -4,9 +4,9 @@
 ### Focus : Computer Science & Engineering (CSE)
 >note: please, do not refer to tracking goals and status for it is not yet implemented.
 - [🎯 Tracking goals and status](./Targets.md)
-- [📅Daily Logs](./Logs)
-- [📄 Research & Reports](./Reports)
-- [📈 Performance Benchmarks](./Benchmarks)
+- [📅Daily Logs](./1_Logs)
+- [📄 Research & Reports](./2_Knowledge_Vault)
+- [📈 Performance Benchmarks](./Projects_and_Labs)
 
 **The time calculated is in GMT +6. (format ISO 8601)**
 
