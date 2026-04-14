@@ -30,7 +30,7 @@ To maintain the prestige of this directory, the following standards apply:
 
 ## 📑 Current Hall of Fame
 
-### 🗣️ IELTS Band 8.0 (Achieved)
+### IELTS Band 8.0 (Achieved)
 - **Status:** Completed. [results_here](1_IELTS/Results.md)
 - **Goal:** To achieve high-level English proficiency for international academic and professional standards.
 - **Result:** Successfully achieved a **Band 8.0** score.
@@ -41,7 +41,7 @@ Once a book from the "Human OS" or "Reading" list is fully read and the notes ar
 
 ---
 
-## 💡 Why an Archive?
+##  Why an Archive?
 In software development, we often focus on the "next feature." This folder exists to remind me (and show others) of the **foundations already built.** It proves the ability to set a high-level goal, maintain consistency over months, and deliver the final result.
 
 > *"Success is the sum of small efforts, repeated day-in and day-out."* — This folder is where those small efforts become a permanent record.
