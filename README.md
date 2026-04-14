@@ -51,9 +51,8 @@ This repository is constantly being refactored to improve scalability. For a ful
 ---
 
 ## 🖼️ Visualizing Progress
-*(Tip: You can insert a screenshot of your GitHub contribution graph or an Obsidian Graph View here later!)*
 
-![Visual Guide Placeholder](https://via.placeholder.com/800x200.png?text=Obsidian+Vault+Visual+Graph+Coming+Soon)
+![Visual Guide Placeholder_coming soon](https://via.placeholder.com/800x200.png?text=Obsidian+Vault+Visual+Graph+Coming+Soon)
 
 ---
 
