@@ -24,7 +24,8 @@ $RECYCLE.BIN/
 
 # --- IDE & TOOLS ---
 # VS Code
-.vscode/*
+**/.vscode/
+**/.vscode/*
 !.vscode/settings.json
 !.vscode/tasks.json
 !.vscode/launch.json

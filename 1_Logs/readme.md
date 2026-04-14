@@ -15,3 +15,7 @@ Logs/
 │       └── 📄 YYYY-MM-DD.md  <-- "The Atomic daily Log"
 └── 📂 Archive_Legacy_System  <-- Pre-Refactor Records (Jan - April 14, 2026)
 ```
+
+# Changes from v2.0
+
+- **Movement:** `/01-January.md`, `02-February.md`, `/03-March.md` and `/04-April.md` has been moved to `Archive_Legacy_Logs`.

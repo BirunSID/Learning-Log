@@ -49,7 +49,7 @@ GS statement break
 ㅤㅤ
 - **Linear Algebra for ML & DS** 📐
 	- **Topic:** Done for the day. almost at the end of week 1.
-	- **Notes:** [click here](../../Projects_and_Labs/03-Math/04%20April/5th-April-Math)
+	- **Notes:** [click here](<../../Projects_and_Labs/03-Math/04 April/5th-April-Math>)
 ㅤ
 ### 🟡 III. THE TOOLBELT (Applied: Project-Based Only)
 
@@ -92,7 +92,7 @@ GS statement break
 ㅤㅤ
 - **Linear Algebra for ML & DS** 📐
 	- **Topic:** Not done. Fam wastes my time with fiancial stress.
-	- **Notes:** [click here](../../Projects_and_Labs/03-Math/04%20April/6th-April-Math.md)
+	- **Notes:** [click here](<../../Projects_and_Labs/03-Math/04 April/6th-April-Math.md>)
 ㅤ
 ### 🟡 III. THE TOOLBELT (Applied: Project-Based Only)
 
@@ -135,7 +135,7 @@ GS statement break
 ㅤㅤ
 - **Linear Algebra for ML & DS** 📐
 	- **Topic:** Done for the day, learned some awesome ways to figure out determinant and also jupyter notebook is a wall that stopped me now.
-	- **Notes:** [click here](../../Projects_and_Labs/03-Math/04%20April/7th-April-Math.md)
+	- **Notes:** [click here](<../../Projects_and_Labs/03-Math/04 April/7th-April-Math.md>)
 ㅤ
 ### 🟡 III. THE TOOLBELT (Applied: Project-Based Only)
 
@@ -178,7 +178,7 @@ GS statement break
 ㅤㅤ
 - **Linear Algebra for ML & DS** 📐
 	- **Topic:** *First, I need to do a bare minimum tutorial on Jupyter NoteBook*
-	- **Notes:** [click here](../../Projects_and_Labs/03-Math/04%20April/8th-April-Math.md)
+	- **Notes:** [click here](<../../Projects_and_Labs/03-Math/04 April/8th-April-Math.md>)
 ㅤ
 ### 🟡 III. THE TOOLBELT (Applied: Project-Based Only)
 
@@ -224,7 +224,7 @@ GS statement break
 ㅤㅤ
 - **Linear Algebra for ML & DS** 📐
 	- **Topic:** DONE with JUPYTER. from tomorrow on, we can continue the MATH course works.
-	- **Notes:** [click here](../../Projects_and_Labs/03-Math/04%20April/9th-April-Math.md)
+	- **Notes:** [click here](<../../Projects_and_Labs/03-Math/04 April/9th-April-Math.md>)
 ㅤ
 ### 🟡 III. THE TOOLBELT (Applied: Project-Based Only)
 
@@ -270,7 +270,7 @@ GS statement break
 ㅤㅤ
 - **Linear Algebra for ML & DS** 📐
 	- **Topic:** # Weekend break
-	- **Notes:** [click here](../../Projects_and_Labs/03-Math/04%20April/10th-April-Math.md)
+	- **Notes:** [click here](<../../Projects_and_Labs/03-Math/04 April/10th-April-Math.md>)
 ㅤ
 ### 🟡 III. THE TOOLBELT (Applied: Project-Based Only)
 
@@ -318,7 +318,7 @@ GS statement break
 ㅤㅤ
 - **Linear Algebra for ML & DS** 📐
 	- **Topic:** # Weekend break calibration
-	- **Notes:** [click here](../../Projects_and_Labs/03-Math/04%20April/11th-April-Math.md)
+	- **Notes:** [click here](<../../Projects_and_Labs/03-Math/04 April/11th-April-Math.md>)
 ㅤ
 ### 🟡 III. THE TOOLBELT (Applied: Project-Based Only)
 
@@ -364,7 +364,7 @@ GS statement break
 ㅤㅤ
 - **Linear Algebra for ML & DS** 📐
 	- **Topic:** done for the day, it was intense but now we can note jupyer notebook stuffs inside of obsidain and are learning numpy too.
-	- **Notes:** [click here](../../Projects_and_Labs/03-Math/04%20April/12th-April-Math.md)
+	- **Notes:** [click here](<../../Projects_and_Labs/03-Math/04 April/12th-April-Math.md>)
 ㅤㅤ
 - **NumPy:** learned a lot today. have to projectify it later.
 ㅤ
@@ -414,7 +414,7 @@ GS statement break
 ㅤㅤ
 - **Linear Algebra for ML & DS** 📐
 	- **Topic:** done for the day, and got the numpy basics in my head, this is soo fun, doing matrices in computer. this is the best!!.  but i have to projectify it asap!!
-	- **Notes:** [click here](../../Projects_and_Labs/03-Math/04%20April/13th-April-Math.md)
+	- **Notes:** [click here](<../../Projects_and_Labs/03-Math/04 April/13th-April-Math.md>)
 ㅤㅤ
 - **NumPy:** learning through deeplearning.ai and jupyter notebook.
 ㅤㅤ

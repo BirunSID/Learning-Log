@@ -210,7 +210,7 @@ A day full of stress and pressure, but did the ielts writing test somehow.
 - **IELTS 🇬🇧**
     - **Activity:** Completed a dynamic bar & a line graph. Later, fixed my shortcomings and improved to band 7.5 in both graph types.
     - **Result:** Bar chart and line graph complete.
-    - **Analysis:** [click here for the bar graph](../../Projects_and_Labs/00-ARCHIVED/01-IELTS-Tests/WRITING/01_IELTS_PRACTICE_SITE/task%201/01%20Jan%202%20,%202026%20(Dynamic%20bar%20charts).md) & [click here for the line graph](../../Projects_and_Labs/00-ARCHIVED/01-IELTS-Tests/WRITING/01_IELTS_PRACTICE_SITE/task%201/02%20APR%201%20,%202026%20(static%20Line%20graph).md)
+    - **Analysis:** [click here for the bar graph](<../../Projects_and_Labs/00-ARCHIVED/01-IELTS-Tests/WRITING/01_IELTS_PRACTICE_SITE/task 1/01 Jan 2 , 2026 (Dynamic bar charts).md>) & [click here for the line graph](<../../Projects_and_Labs/00-ARCHIVED/01-IELTS-Tests/WRITING/01_IELTS_PRACTICE_SITE/task 1/02 APR 1 , 2026 (static Line graph).md>)
 
 - **CS50x 💻**
     - **Topic:** tidied up the validation part, but now the only thing part left is the card's first digits to validate specific card.
@@ -234,7 +234,7 @@ A day full of stress and pressure, but did the ielts writing test somehow.
 - **IELTS 🇬🇧**
     - **Activity:** Acted on two types of graphs: combinational and pure pie.
     - **Result:** I can perfect my lexical resources via word dump practice.
-    - **Analysis:** Check [combination](../../Projects_and_Labs/00-ARCHIVED/01-IELTS-Tests/WRITING/01_IELTS_PRACTICE_SITE/task%201/03%20Feb%202%20,%202026%20(mixed%20combination)) and [pure pie](../../Projects_and_Labs/00-ARCHIVED/01-IELTS-Tests/WRITING/01_IELTS_PRACTICE_SITE/task%201/03%20May%201%20,%202026%20(pie%20graph).md)
+    - **Analysis:** Check [combination](<../../Projects_and_Labs/00-ARCHIVED/01-IELTS-Tests/WRITING/01_IELTS_PRACTICE_SITE/task 1/03 Feb 2 , 2026 (mixed combination)>) and [pure pie](<../../Projects_and_Labs/00-ARCHIVED/01-IELTS-Tests/WRITING/01_IELTS_PRACTICE_SITE/task 1/03 May 1 , 2026 (pie graph).md>)
 
 - **CS50x 💻**
     - **Topic:** 
@@ -282,7 +282,7 @@ A day full of stress and pressure, but did the ielts writing test somehow.
 - **IELTS 🇬🇧**
     - **Activity:** Completed only map type task 1. pinpointed main area of interest.
     - **Result:** My main issue is subject verb agreement, i need to get this fixed. FAST
-    - **Analysis:** [click here for the map diagram](../../Projects_and_Labs/00-ARCHIVED/01-IELTS-Tests/WRITING/01_IELTS_PRACTICE_SITE/task%201/04%20March%201%20,%202026%20(Map%20diagram).md).
+    - **Analysis:** [click here for the map diagram](<../../Projects_and_Labs/00-ARCHIVED/01-IELTS-Tests/WRITING/01_IELTS_PRACTICE_SITE/task 1/04 March 1 , 2026 (Map diagram).md>).
 
 - **CS50x 💻**
     - **Topic:** Could not do much, only 10 minutes in.
@@ -306,7 +306,7 @@ A day full of stress and pressure, but did the ielts writing test somehow.
 - **IELTS 🇬🇧**
     - **Activity:** Did static bar and took all the previous improvements and used them against this one.
     - **Result:**  Scored 8.00 . So, there was no need for a 2nd trial.
-    - **Analysis:** [click here.](../../Projects_and_Labs/00-ARCHIVED/01-IELTS-Tests/WRITING/01_IELTS_PRACTICE_SITE/task%201/05%20June%201%20,%202026%20(Static%20bar).md)
+    - **Analysis:** [click here.](<../../Projects_and_Labs/00-ARCHIVED/01-IELTS-Tests/WRITING/01_IELTS_PRACTICE_SITE/task 1/05 June 1 , 2026 (Static bar).md>)
 
 - **CS50x 💻**
     - **Topic:** Learned a very helpful implementable concept and did till 30 minutes into the lecture. 
@@ -330,7 +330,7 @@ A day full of stress and pressure, but did the ielts writing test somehow.
 - **IELTS 🇬🇧**
     - **Activity:** Did the last remaining module process and transformation.
     - **Result:** I have achieved a good score in writing task 1, now will focus in task 2 from tomorrow onewards.
-    - **Analysis:** [click here.](../../Projects_and_Labs/00-ARCHIVED/01-IELTS-Tests/WRITING/01_IELTS_PRACTICE_SITE/task%201/06%20March%202%20,%202026%20(Process,%20transformations).md)
+    - **Analysis:** [click here.](<../../Projects_and_Labs/00-ARCHIVED/01-IELTS-Tests/WRITING/01_IELTS_PRACTICE_SITE/task 1/06 March 2 , 2026 (Process, transformations).md>)
 
 - **CS50x 💻**
     - **Topic:** 1 hour and 2 minutes in.
@@ -354,7 +354,7 @@ A day full of stress and pressure, but did the ielts writing test somehow.
 - **IELTS 🇬🇧**
     - **Activity:** clear stance stating and opinion types have been mastered.
     - **Result:** 7.5/8 mastered and some errors cleared.
-    - **Analysis:** [click here](../../Projects_and_Labs/00-ARCHIVED/01-IELTS-Tests/WRITING/01_IELTS_PRACTICE_SITE/task%202/01%20March%202%20,%202026%20(opinion%20clear%20stance).md)
+    - **Analysis:** [click here](<../../Projects_and_Labs/00-ARCHIVED/01-IELTS-Tests/WRITING/01_IELTS_PRACTICE_SITE/task 2/01 March 2 , 2026 (opinion clear stance).md>)
 
 - **CS50x 💻**
     - **Topic:** Done with the 2nd week lecture.
@@ -402,7 +402,7 @@ A day full of stress and pressure, but did the ielts writing test somehow.
 - **IELTS 🇬🇧**
     - **Activity:** did the 2nd type of task 2, discussion based weighed opinion. 
     - **Result:** perfected to 8.5 through multiple refactoring.
-    - **Analysis:** [click here](../../Projects_and_Labs/00-ARCHIVED/01-IELTS-Tests/WRITING/01_IELTS_PRACTICE_SITE/task%202/02%20%20January%201%20,%202026%20(DISCUSSION%20basesd%20opinion).md)
+    - **Analysis:** [click here](<../../Projects_and_Labs/00-ARCHIVED/01-IELTS-Tests/WRITING/01_IELTS_PRACTICE_SITE/task 2/02  January 1 , 2026 (DISCUSSION basesd opinion).md>)
 
 - **CS50x 💻**
     - **Topic:** Every short done, till array.
@@ -450,7 +450,7 @@ A day full of stress and pressure, but did the ielts writing test somehow.
 - **IELTS 🇬🇧**
     - **Activity:** Successfully upped band to 7.5 for advantage-disadvantage based task 2.
     - **Result:** first iteration was 6.5 due to grammar, and then it went up to 7.5
-    - **Analysis:** [click here](../../Projects_and_Labs/00-ARCHIVED/01-IELTS-Tests/WRITING/01_IELTS_PRACTICE_SITE/task%202/03%20February%201%20,%202026%20(Advantages%20Vs.%20disadvantages).md)
+    - **Analysis:** [click here](<../../Projects_and_Labs/00-ARCHIVED/01-IELTS-Tests/WRITING/01_IELTS_PRACTICE_SITE/task 2/03 February 1 , 2026 (Advantages Vs. disadvantages).md>)
 
 - **CS50x 💻**
     - **Topic:** Done with last shorts, tomorrow will be the beginning of pset 2 solve.
@@ -474,7 +474,7 @@ A day full of stress and pressure, but did the ielts writing test somehow.
 - **IELTS 🇬🇧**
     - **Activity:** Completed the problem and solutions type too. 7.0 - 7.5 refactored
     - **Result:** perfected and got familiarized to this. 
-    - **Analysis:** [click here](../../Projects_and_Labs/00-ARCHIVED/01-IELTS-Tests/WRITING/01_IELTS_PRACTICE_SITE/task%202/04%20February%202%20,%202026%20(Problem%20and%20solution).md)
+    - **Analysis:** [click here](<../../Projects_and_Labs/00-ARCHIVED/01-IELTS-Tests/WRITING/01_IELTS_PRACTICE_SITE/task 2/04 February 2 , 2026 (Problem and solution).md>)
 
 - **CS50x 💻**
     - **Topic:** We have done a lot today, 90% of pset 2.1 done, we have pset2.2 and pset2.3 completely left, this is going to be hell, but we have to do it fast.
@@ -528,7 +528,7 @@ Extreme burn out, no journaling, not even book reading.
 - **IELTS 🇬🇧**
     - **Activity:** Completed the last type today, and the score was not satisfactory. But the issues were again S linters.
     - **Result:** 6.5 and 6.5 both times of perfecting, because of S linters.
-    - **Analysis:** [click here](../../Projects_and_Labs/00-ARCHIVED/01-IELTS-Tests/WRITING/01_IELTS_PRACTICE_SITE/task%202/05%20April%202%20,%202026%20(2%20unrelated%20questions).md)
+    - **Analysis:** [click here](<../../Projects_and_Labs/00-ARCHIVED/01-IELTS-Tests/WRITING/01_IELTS_PRACTICE_SITE/task 2/05 April 2 , 2026 (2 unrelated questions).md>)
 
 - **CS50x 💻**
     - **Topic:** WE are done with pset 2.1. tomorrow, we begin pset 2.2
