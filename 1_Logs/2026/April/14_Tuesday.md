@@ -9,8 +9,8 @@
     - **Detailed Notes:** NA
 ㅤㅤ
 - **Reading & Research** (*Review session* : target 50 pages/day)  
-    - **Psychology of money** *REVIEW*  : 
-	    - progress :
+    - **Psychology of money** *REVIEW*  : # Bengali New year holiday.
+	    - progress : # Bengali New year holiday.
 		    - 
     - **Article/Paper:** NA  
 ㅤㅤ
@@ -18,7 +18,7 @@
 	 - **Deep work** *progress* : # Bengali New year holiday.
 ㅤㅤ
 - **Private university prep**
-	- **a's book completion progress** : 
+	- **a's book completion progress** : # Bengali New year holiday.
 
 ### 🟢 II. THE ENGINE : (Non-Negotiable: Daily Foundation)
 
