@@ -9,16 +9,16 @@
     - **Detailed Notes:** [daily capture note](../../../2_Knowledge_Vault/3_Learning_Deutsch_v2/0_daily_capture_note.md), [vocab master fiile](../../../2_Knowledge_Vault/3_Learning_Deutsch_v2/1_German_Vocab_master.md), [grammar codex](../../../2_Knowledge_Vault/3_Learning_Deutsch_v2/2_German_grammar_codex.md), [immersion tracker](../../../2_Knowledge_Vault/3_Learning_Deutsch_v2/3_German_immersion_tracker.md), [output and practice](../../../2_Knowledge_Vault/3_Learning_Deutsch_v2/4_Output_&_practice.md) files were created and some are still under experiment.
 ㅤㅤ
 - **Reading & Research** (*Review session* : target 50 pages/day)  
-    - **Psychology of money** *REVIEW*  : 
+    - **Psychology of money** *REVIEW*  : Not much due to redesigning a messy german learning system.
 	    - progress :
-		    - 
+		    - 111-120 done
     - **Article/Paper:** NA  
 ㅤㅤ
  - **Action Items zetteling**
-	 - **Deep work** *progress* : 
+	 - **Deep work** *progress* : Not necessary today.
 ㅤㅤ
 - **Private university prep**
-	- **a's book completion progress** :
+	- **a's book completion progress** :Done till page 202. Tomorrow, I will have to catch up with my quote.
 
 ### 🟢 II. THE ENGINE : (Non-Negotiable: Daily Foundation)
 
