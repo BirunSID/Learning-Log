@@ -32,7 +32,7 @@ I use a three-layer system to separate **time**, **theory**, and **execution**.
 - [ ] **MS Excel:** Advanced Data Analysis & Automation (excelisfun).
 
 ### 🔵 Human OS (Maintenance)
-- [ ] **German (Deutsch):** Reaching A1 proficiency.
+- [ ] **German (Deutsch):** Reaching A1 proficiency. V2 system deployed(15th Apr)
 - [ ] **Reading:** `WIll be updated later`.
 - [x] **IELTS:** Target Band 9.0 (**Current: Band 8.0 Achieved** ✅).
 

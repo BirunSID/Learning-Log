@@ -50,7 +50,7 @@ Hence, to ensure each pixel of the new image still has the same general brightne
 If you apply that to each pixel in the image, the result will be an image converted to grayscale.
 
 ---
-## eflection
+## Reflection
 Some filters might also move pixels around. Reflecting an image, for example, is a filter where the resulting image is what you would get by placing the original image in front of a mirror. So any pixels on the left side of the image should end up on the right, and vice versa.
 
 Note that all of the original pixels of the original image will still be present in the reflected image, it’s just that those pixels may have rearranged to be in a different place in the image.
@@ -155,3 +155,80 @@ which takes the image at images/yard.bmp, and generates a new image called out.b
 ---
 
 # Yeah. cs50x, nice, didn't even explain wtf `getopt` is. 
+
+
+---
+
+# Function TODO begins(helpers.c)
+
+# Grayscale
+
+Following the CS50x approach, grayscaling is done by averaging the Red, Green, and Blue values of a pixel and rounding that average to the nearest integer. We apply this to every pixel until the image is fully processed.
+
+
+## Logic & Implementation
+**Header**: Included `<math.h>` to access the `round()` function.
+**Navigation**: Since images are 2D planes, I used nested `for` loops with `i` (Y-coordinate/height) and `j` (X-coordinate/width) to navigate between every individual pixel.
+**Variable Handling**: Inside the loops, I declared `r`, `g`, and `b` as `float` variables. This ensures that when they are added, they aren't prematurely treated as integers.
+**The Calculation**: The average was calculated as `(r + g + b) / 3.0`. Using `3.0` is critical to ensure the division remains a floating-point operation.
+**Rounding**: Declared a `rounded_average` integer. Using `round(average)` ensures the value is accurate before assigning it back to the `rgbtRed`, `rgbtGreen`, and `rgbtBlue` components of the pixel.
+
+## Environment Fixes (The Windows "STUPIDITY")
+Even with perfect logic and code, the code initially fails on Windows(shows incompatiable file error) due to two specific OS behaviors:
+
+1. Binary File Handling (`filter.c`)
+Unlike Linux, Windows distinguishes between text and binary files. If not specified, it treats the BMP as text, which corrupts the data.
+The Fix: Modified `filter.c` (Lines 39 and 47) to use `rb` (read binary) and `wb` (write binary) in the `fopen` function.
+
+2. Struct Padding (bmp.h)
+The Windows GCC compiler adds "invisible bytes" (padding) to structs for memory alignment. Even though the BMP header should be exactly 14 bytes, Windows tries to make it 16, which breaks the file reading.
+
+The Nuclear Option: Wrapped the structs in `bmp.h` with `#pragma pack(push, 1)` at the top and `#pragma pack(pop)` at the bottom. This forces the compiler to respect the exact byte count and ignore the default padding.
+
+---
+
+# Reflect
+
+The function objective is to flip the image horizontally. Every row of pixels must be reversed, so the left side moves to the right and vice versa, creating a mirror image.
+
+**1. The Swap(The "Temporary variable")**
+In C, you cannot swap two values directly without losing one. To swap the pixel at the start of the row with the pixel at the end, I used a "temporary variable" strategy:
+*   Store the first pixel in a `temp` variable of type `RGBTRIPLE`.(DATA TYPE MUST BE `RGBTRIPLE`, this is very important)
+*   Move the last pixel into the first pixel’s position.
+*   Move the `temp` value into the last pixel’s position.
+
+**2. Navigation**
+I used nested `for` loops to process the image:
+*   **Outer Loop ($i$):** Iterates through every row from `0` to `height`.
+*   **Inner Loop ($j$):** Iterates through the columns. However, unlike Grayscale, this loop only goes from `0` to `width / 2`.
+
+**3. The Index Math**
+To find the pixel on the opposite side of the row, I used the formula: `width - 1 - j`.
+*   If `width` is 600 and we are at `j = 0`, the opposite is `599`.(this is using common sense cause arrays start at 0.)
+*   If `j = 1`, the opposite is `598`.
+
+### **Solving the "Halfway" Issue (Odd vs. Even Widths)**
+
+A major concern was whether `width / 2` would break the image if the width was an odd number (example: 501 pixels). Because C uses **Integer Division**, the math handles this perfectly.(which was unexpected by me)
+
+#### **Case 1: Even Width (4 pixels)**
+*   Indices: `[0] [1] [2] [3]`
+*   Loop Limit: `j < 4 / 2` → `j < 2`
+*   **j = 0:** Swaps `[0]` with `[3]`.
+*   **j = 1:** Swaps `[1]` with `[2]`.
+*   **Result:** All pixels swapped once. Loop ends.
+
+#### **Case 2: Odd Width (e.g., 5 pixels)**
+*   Indices: `[0] [1] [2] [3] [4]`
+*   Loop Limit: `j < 5 / 2` → `j < 2` (The `.5` is truncated by C)(positive behav).
+*   **j = 0:** Swaps `[0]` with `[4]`.
+*   **j = 1:** Swaps `[1]` with `[3]`.
+*   **j = 2:** The condition `2 < 2` is **False**. The loop stops.
+*   **Result:** The middle pixel at index `[2]` stays exactly where it is. This is mathematically correct for a reflection—the center point of a mirror image should not move.
+
+### **Environmental issues**
+Since I am working on a local Windows machine, this filter relies on the previously established **Binary Mode** fixes in `filter.c` and **Struct Packing** in `bmp.h` to ensure the image data is read and written without corruption.
+
+---
+
+# blur
