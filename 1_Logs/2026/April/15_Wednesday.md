@@ -28,7 +28,7 @@
 ㅤㅤ
 - **Linear Algebra for ML & DS** 📐
 	- **Topic:** Jupyter matplotlib made me frustrated. This is the worst obsidian plugin i have seen, i have to turn it on in vs code. Not much done today.
-	- **Notes:** [the .md file](<../../../2_Knowledge_Vault/2_Math/Notes/week 1/15 Linear systems as matrices.md>) and [the jupyter file](<../../../2_Knowledge_Vault/2_Math/Notes/week 1/15 Linear systems as matrices.ipynb>)
+	- **Notes:** [the .md file](<../../../2_Knowledge_Vault/2_Math/Notes/1_week-1/15 Linear systems as matrices.md>) and [the jupyter file](<../../../2_Knowledge_Vault/2_Math/Notes/1_week-1/15 Linear systems as matrices.ipynb>)
 ㅤㅤ
 - **NumPy:** still stalled. not much progress except for basic addition and prob solving.
 ㅤㅤ

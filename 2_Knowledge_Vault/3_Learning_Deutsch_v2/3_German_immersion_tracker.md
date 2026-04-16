@@ -1,5 +1,3 @@
->[!warning] Still In Eexperiment & test
-
 # Immersion & Progress Tracker
 
 # Table Of Content
@@ -9,18 +7,22 @@
 - [[#Duolingo Progress]]
 ---
 # Nicos Weg (A1 Path)
-- [ ] Episode 1: 
-- [ ] Episode 2: ...
-- [ ] Episode 3: ...
+
+- [x] ***Was machst du hier?***
+
 
 # Easy German / YouTube
-| Date       | Video Title           | Key Takeaway             |
-| :--------- | :-------------------- | :----------------------- |
-| 2026-04-15 | "How to order coffee" | Use 'Ich hätte gerne...' |
+| Date       | Video Title                                                      | link                                             |
+| :--------- | :--------------------------------------------------------------- | :----------------------------------------------- |
+| 2026-04-16 | *How to Book a Train Ticket in Germany \| Super Easy German 294* | https://youtu.be/wnVpyqtIQOE?si=dKuQoUs9hPewO9OG |
+|            |                                                                  |                                                  |
 
 # Duolingo Progress
-- **Current Unit:** Insert Unit 
-- **Current Streak:** Insert Days
+
+- **Current position:** 
+	- [ ] Section 1, Unit 9, 4/5
+	- [ ] 
+- **Current Streak:** 4
 
 ---
 *Update this weekly to visualize the 'volume' of immersion.*

@@ -1,4 +1,4 @@
-# 🚀 Sidratul Al Birun's Learning Log
+# ☼ Sidratul Al Birun's Learning Log
 
 ![Status](https://img.shields.io/badge/Status-Active-success)
 ![System](https://img.shields.io/badge/System-v2.0_Atomic-blue)
@@ -12,19 +12,19 @@ Welcome to my **Digital Garden**. This repository is a real-time "Proof of Work"
 
 ---
 
-## 🏛️ Repository Architecture
+## ∇ Repository Architecture
 I use a three-layer system to separate **time**, **theory**, and **execution**.
 
 | Pillar             | Description | Link |
 | :---               | :---        | :--- |
-| **📅 Logs**        | Daily chronological tracking and consistency logs. | [Explore logs](1_Logs) |
-| **🧠 Knowledge Vault** | Synthesized theory, mental models, and study notes. | [Enter vault](2_Knowledge_Vault)|
-| **🛠️ Projects & Labs** | Source code, Excel workbooks, and practical evidence. | [View Labs](2_Knowledge_Vault)|
-| **🏆 Archive**         | Major milestones and completed certifications. | [See Trophies](4_Archive) |
+| **▦ Logs**        | Daily chronological tracking and consistency logs. | [Explore logs](1_Logs) |
+| **◉ Knowledge Vault** | Synthesized theory, mental models, and study notes. | [Enter vault](2_Knowledge_Vault)|
+| **✥ Projects & Labs** | Source code, Excel workbooks, and practical evidence. | [View Labs](2_Knowledge_Vault)|
+| **❒ Archive**         | Major milestones and completed certifications. | [See Trophies](4_Archive) |
 
 ---
 
-## 🎯 Current Objectives (April 2026)
+## ♧ Current Objectives (April 2026)
 
 ### 🟢 The Engine (Core Skills)
 - [ ] **CS50x:** Harvard’s Introduction to Computer Science (Currently: Week 4 - Memory).
@@ -41,7 +41,7 @@ I use a three-layer system to separate **time**, **theory**, and **execution**.
 ## 📈 System Evolution & Action Log
 This repository is constantly being refactored to improve scalability. For a full technical history of changes, system migrations, and version updates:
 
-👉 **[View the CHANGELOG.md](./CHANGELOG.md)**
+➤ **[View the CHANGELOG.md](./CHANGELOG.md)**
 
 ---
 

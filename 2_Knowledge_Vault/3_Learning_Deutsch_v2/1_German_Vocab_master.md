@@ -353,8 +353,12 @@ A centralized, searchable database of all acquired German vocabulary. This is th
 | der Arbeitsplatz          | workplace                  | Noun (m)      | Independent | 2026-04-13 |
 | der Arbeitstag            | working day                | Noun (m)      | Independent | 2026-04-13 |
 | die Arbeitszeit           | working time               | Noun (f)      | Independent | 2026-04-13 |
-|                           |                            |               |             |            |
-|                           |                            |               |             |            |
+| Links                     | left                       | adverb        | duolingo    | 2026-04-16 |
+| das brot                  | Bread                      | noun          | Independent |            |
+| das Ei                    | egg                        | noun          | Independent |            |
+| die tomate                | tomato                     | noun          | Independent |            |
+| der apfel                 | the apple                  | noun          | Independent |            |
+| die banane                | banana                     | noun          | Independent |            |
 
 # Readme
 ---

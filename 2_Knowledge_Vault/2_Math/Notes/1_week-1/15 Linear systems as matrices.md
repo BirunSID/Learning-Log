@@ -1,19 +1,3 @@
----
-jupyter:
-  jupytext:
-    cell_metadata_filter: -all
-    formats: ipynb,md
-    text_representation:
-      extension: .md
-      format_name: markdown
-      format_version: '1.3'
-      jupytext_version: 1.19.1
-  kernelspec:
-    display_name: Python 3
-    language: python
-    name: python3
----
-
 # Representing Systems of Equations as Matrices
 
 By completing this lab, you will be able to use basic programming skills with Python and the `NumPy` package to represent systems of linear equations as matrices. In this notebook, you will:
@@ -194,5 +178,63 @@ d_2 = np.linalg.det(A_2)
 print(f"Determinant of matrix A_2: {d_2:.2f}")
 ```
 
+It is equal to zero, thus the system cannot have one unique solution. It will either have infinitely many solutions or none. The consistency of it will depend on the free coefficients (right-side coefficients). You can run the code in the following cell to check that the `np.linalg.solve()` function will give an error due to singularity.
+
+```python
+try:
+    x_2 = np.linalg.solve(A_2, b_2)
+except np.linalg.LinAlgError as err:
+    print(err)
+```
+
+
+Construct the matrix corresponding to this linear system
+
+```python
+A_2_system = np.hstack(A_2, b_2.reshape(2, 1))
+print(A_2_system)
+```
+
+```python
+plot_lines(A_2_system)
+```
+
+As expected, the lines of the two equations are parallel.
+
 ## 4 - System of Linear Equations with an Infinite Number of Solutions
+
+By changing the free coefficients of the system $(2)$, you can bring it to consistency:
+
+$$
+\begin{cases} 
+-x_1+3x_2=7, \\ 3x_1-9x_2=-21, \end{cases}\tag{3}
+$$
+
+```python
+b_3 = np.array([7, -21], dtype = np.dtype(float))
+```
+Prepare the new matrix, corresponding to the system (3):
+
+```python
+A_3_system = np.hstack(A_2, b_3.reshape(2, 1))
+print(A_3_system)
+```
+
+Thus, from the corresponding linear system
+$$
+\begin{cases} 
+-x_1+3x_2=7, \\ 0=0, \end{cases}\tag{4}
+$$
+
+the solutions of the linear system (3) are:
+$$
+x_1=3x_2-7, \tag{5}
+$$
+where $x_2$ is any real number.
+
+If you plot the equations of the system, how many lines do you expect to see in the graph now? Check it using the code below:
+
+```python
+plot_lines(A_3_system)
+```
 
