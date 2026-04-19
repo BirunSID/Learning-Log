@@ -3,6 +3,7 @@
 **Tags:** #excel #excel/basics #excel/shortcuts #excel/tips_tricks #excel/summing #excel/counting 
 **Source:** [# Excel Basics 3: # Intro Excel #3](https://youtu.be/fQsz6mKDobE?si=J9f8I0wXeFYxhgEZ)
 **Lab File:** [click here](./../lab/3_CountingAddingWithCriteria.xlsx) --> **Home works done locally**
+**HW's:** done
 
 ---
 

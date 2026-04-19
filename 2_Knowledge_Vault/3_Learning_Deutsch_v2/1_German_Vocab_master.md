@@ -354,12 +354,16 @@ A centralized, searchable database of all acquired German vocabulary. This is th
 | der Arbeitstag            | working day                | Noun (m)      | Independent | 2026-04-13 |
 | die Arbeitszeit           | working time               | Noun (f)      | Independent | 2026-04-13 |
 | Links                     | left                       | adverb        | duolingo    | 2026-04-16 |
-| das brot                  | Bread                      | noun          | Independent |            |
-| das Ei                    | egg                        | noun          | Independent |            |
-| die tomate                | tomato                     | noun          | Independent |            |
-| der apfel                 | the apple                  | noun          | Independent |            |
-| die banane                | banana                     | noun          | Independent |            |
-
+| das brot                  | Bread                      | noun          | Independent | 2026-04-16 |
+| das Ei                    | egg                        | noun          | Independent | 2026-04-16 |
+| die tomate                | tomato                     | noun          | Independent | 2026-04-16 |
+| der apfel                 | the apple                  | noun          | Independent | 2026-04-16 |
+| die banane                | banana                     | noun          | Independent | 2026-04-16 |
+| der kase                  | cheese                     | noun          | Independent |2026-04-19  |
+| der hamburger             | Hamburger                  | noun          | Independent | 2026-04-19 |
+| der salat                 | Salad                      | noun          | Independent | 2026-04-19 |
+| Das Sandwich              | sandwich                   | noun          | Independent | 2026-04-19 |
+| die Schokolade            | Chocolate                  | noun          | Independent | 2026-04-19 |
 # Readme
 ---
 > **Rule:** Every Saturday, harvest raw vocab from the `German_Daily_Inbox` and append here. Sort alphabetically once a month if needed.

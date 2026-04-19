@@ -3,6 +3,7 @@
 **Tags:** #excel #excel/basics #excel/shortcuts #excel/tips_tricks #excel/summing #excel/counting 
 **Source:** [  Excel Basics 4: PivotTables & SUMIFS Function to Create Summary Reports](https://youtu.be/uGNdFW_3NnY?si=x6m-YbKeMo6dUP3u)
 **Lab File:** [click here for the file](./../lab/4_SUMIFSandPivotTables.xlsx)
+**HW's:** done
 
 ---
 
