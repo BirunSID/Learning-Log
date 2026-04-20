@@ -364,6 +364,12 @@ A centralized, searchable database of all acquired German vocabulary. This is th
 | der salat                 | Salad                      | noun          | Independent | 2026-04-19 |
 | Das Sandwich              | sandwich                   | noun          | Independent | 2026-04-19 |
 | die Schokolade            | Chocolate                  | noun          | Independent | 2026-04-19 |
+| das salz                  | the salt                   | noun-food     | Independent | 2026-04-20 |
+| der lutscher              | the lollipop               | noun-food     | Independent | 2026-04-20 |
+| die erdnuss               | the peanut                 | noun-food     | Independent | 2026-04-20 |
+| die pizza                 | the pizza                  | noun-food     | Independent | 2026-04-20 |
+| die birne                 | pear                       | noun-food     | Independent | 2026-04-20 |
+
 # Readme
 ---
 > **Rule:** Every Saturday, harvest raw vocab from the `German_Daily_Inbox` and append here. Sort alphabetically once a month if needed.

@@ -3,6 +3,7 @@
 **Tags:** #excel #excel/basics 
 **Source:** [Excel Basics 5 PivotTable Power to Create Reports with Various Calculations & Layouts](https://youtu.be/miBRqg12xNU?si=cyjtiIIq3lkz8Eng)
 **Lab File:** [PivotTable Calculations Layout](./../lab/5-PivotTableCalculationsLayout.xlsx)
+**HW's:** done
 
 ---
 # 📅 April 13, 2026: Power of PivotTables, Layouts, & Slicers

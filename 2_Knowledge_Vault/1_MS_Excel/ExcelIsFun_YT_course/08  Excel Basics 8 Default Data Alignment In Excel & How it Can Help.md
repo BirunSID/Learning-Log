@@ -3,6 +3,7 @@
 **Tags:** #excel  
 **Source:** [# Excel Basics 8: Default Data Alignment In Excel & How it Can Help](https://youtu.be/IbaqV1-Vkn0?si=0rsSOnSBjahJ1iJh)  
 **Lab File:** [6-8 Excel Basics 8: Default Data Alignment In Excel & How it Can Help](file:///C:/Users/birun/Synk/Project_LIFE/Rb_Excel_Lab/6-8-QATKeyboardsDefaultAlign.xlsx)  
+**HW's:**
 
 ---
 # 📅 April 16, 2026: Excel Basics - Default Data Alignment & Error Spotting

@@ -3,6 +3,7 @@
 **Tags:** #excel #excel/ribbon #excel/addin   
 **Source:** [# Excel Basics 7: Keyboard Shortcuts Are Fast!](https://youtu.be/57HvO5k-iEU?si=ZPo8miBfa7RiG4k5)  
 **Lab File:** [6-8 Excel Basics 7: Keyboard Shortcuts Are Fast!](file:///C:/Users/birun/Synk/Project_LIFE/Rb_Excel_Lab/6-8-QATKeyboardsDefaultAlign.xlsx)   
+**HW's:**
 
 ---
 # 📅 April 16, 2026: Excel Basics - Keyboard Shortcuts & Efficiency
