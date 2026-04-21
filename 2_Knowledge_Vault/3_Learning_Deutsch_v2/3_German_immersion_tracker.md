@@ -9,14 +9,15 @@
 # Nicos Weg (A1 Path)
 
 - [x] ***Was machst du hier?***
-- [ ] ***Ich war schon in Berlin*** (13/15)
+- [ ] ***Ich war schon in Berlin*** (14/15)
 
 # Easy German / YouTube
-| Date       | Video Title                                                      | link                                             |
-| :--------- | :--------------------------------------------------------------- | :----------------------------------------------- |
-| 2026-04-16 | *How to Book a Train Ticket in Germany \| Super Easy German 294* | https://youtu.be/wnVpyqtIQOE?si=dKuQoUs9hPewO9OG |
-| 2026-04-19 | *Emergency Room in Slow German \| Super Easy German 293*         | https://youtu.be/jpgku1_n2y4?si=i8529FYG4GCEU6dM |
-| 2026-04-20 | *Train Ride in Slow German \| Super Easy German 292*             | https://youtu.be/qTIc0KR4VP0?si=IftftKz7C5cuOKkW |
+| Date       | Video Title                                                                             | link                                             |
+| :--------- | :-------------------------------------------------------------------------------------- | :----------------------------------------------- |
+| 2026-04-16 | *How to Book a Train Ticket in Germany \| Super Easy German 294*                        | https://youtu.be/wnVpyqtIQOE?si=dKuQoUs9hPewO9OG |
+| 2026-04-19 | *Emergency Room in Slow German \| Super Easy German 293*                                | https://youtu.be/jpgku1_n2y4?si=i8529FYG4GCEU6dM |
+| 2026-04-20 | *Train Ride in Slow German \| Super Easy German 292*                                    | https://youtu.be/qTIc0KR4VP0?si=IftftKz7C5cuOKkW |
+| 2026-04-21 | At the Bürgeramt: Aufenthaltstitel übertragen, Führungszeugnis \| Super Easy German 299 | https://youtu.be/XmFh5v6s2y4?si=wXpc7QD3YcsQ0QjV |
 
 # Duolingo Progress
 

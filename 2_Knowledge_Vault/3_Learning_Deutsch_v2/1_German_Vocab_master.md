@@ -369,6 +369,11 @@ A centralized, searchable database of all acquired German vocabulary. This is th
 | die erdnuss               | the peanut                 | noun-food     | Independent | 2026-04-20 |
 | die pizza                 | the pizza                  | noun-food     | Independent | 2026-04-20 |
 | die birne                 | pear                       | noun-food     | Independent | 2026-04-20 |
+| satt                      | full                       |               |             |            |
+| lustig                    | funny                      |               |             |            |
+
+
+
 
 # Readme
 ---

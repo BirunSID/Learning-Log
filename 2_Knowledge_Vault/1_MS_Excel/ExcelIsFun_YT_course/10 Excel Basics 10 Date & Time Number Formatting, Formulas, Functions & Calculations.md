@@ -8,7 +8,7 @@
 ---
 # 📅 2026-04-20: Excel Date & Time Formatting, Formulas, and Payroll Calculations
 
-> [!abstract] Progress: 00:00 - End
+> [!note] Progress: 00:00 - End
 
 ### 💡 Concepts & Logic
 
