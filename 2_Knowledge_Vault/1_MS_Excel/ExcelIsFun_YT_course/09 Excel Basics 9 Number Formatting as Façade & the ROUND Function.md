@@ -3,7 +3,7 @@
 **Tags:** #excel  #excel/underlying-data #excel/percentage-logic #excell/ROUND-function #excel/invoicing
 **Source:** [Excel Basics 9: Number Formatting as Façade & the ROUND Function](https://youtu.be/EJXI0Puf_oQ?si=Iy9WHA0s2qCKTipm)  
 **Lab File:** [Number Formatting And ROUND](../../../3_Projects_and_Labs/2_MS_Excel/1_ExcelIsfu_lab/9_NumberFormattingAndROUND.xlsm) 
-**HW's:** 
+**HW's:** done
 
 ---
 # 📅 April 19, 2026: Number Formatting as Façade & The ROUND Function
