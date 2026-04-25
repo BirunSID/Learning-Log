@@ -9,10 +9,10 @@
     - **Detailed Notes:** # Weekend break 
 ㅤㅤ
 - **Reading & Research** (*Review session* : target 50 pages/day)  
-    - **Psychology of money** *REVIEW*  : 
-	    - progress :
+    - **Psychology of money** *REVIEW*  : # Weekend break 
+	    - progress : # Weekend break 
 		    - .
-	- **Reading Atomic Habit (20 pages/day):** 
+	- **Reading Atomic Habit (20 pages/day):** # Weekend break 
     - **Article/Paper:** NA  
 ㅤㅤ
  - **Action Items zetteling**
