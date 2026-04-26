@@ -3,7 +3,7 @@
 **Tags:** #excel #excel/date-time #excel/formatting #excel/payroll #excel/formulas #excel/data-verification #excel/shortcuts #excel/time-calculations #excel/EOMONTH #excel/EDATE
 **Source:** [Excel Basics 10: Date & Time Number Formatting, Formulas, Functions & Calculations](https://youtu.be/rQh8pqICt5E?si=5Q87EekrpIle9Hyt)
 **Lab File:** [Date Time Number Formatting And Calculations](<10 Excel Basics 10 Date & Time Number Formatting, Formulas, Functions & Calculations.md>)
-**HW's:** 
+**HW's:** done
 
 ---
 # 📅 2026-04-20: Excel Date & Time Formatting, Formulas, and Payroll Calculations
