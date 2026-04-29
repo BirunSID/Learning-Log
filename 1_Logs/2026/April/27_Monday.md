@@ -32,7 +32,7 @@
 ㅤㅤ
 - **Linear Algebra for ML & DS** 📐
 	- **Topic:** enough for today, tomorrow is the real challenge.
-	- **Notes:** [[13 The Gaussian elimination algorithm]]
+	- **Notes:** [The Gaussian elimination algorithm](<../../../2_Knowledge_Vault/2_Math/Notes/2_week-2/13 The Gaussian elimination algorithm.md>)
 ㅤㅤ
 - **NumPy:** dedicated learning paused. (through deeplearning.ai only)
 ㅤㅤ
