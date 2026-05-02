@@ -1,4 +1,3 @@
-Go back to map-->[[00 Daily log April MOC]]
 # 📅 Monday, 27 April 2026
 
 > [!danger] # ALL TASKS ARE OFF.
