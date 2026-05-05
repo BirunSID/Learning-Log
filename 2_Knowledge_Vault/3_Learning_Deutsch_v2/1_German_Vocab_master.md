@@ -371,7 +371,14 @@ A centralized, searchable database of all acquired German vocabulary. This is th
 | die birne                 | pear                       | noun-food     | Independent | 2026-04-20 |
 | satt                      | full                       |               |             |            |
 | lustig                    | funny                      |               |             |            |
-
+| ins                       | into                       |               |             |            |
+| nicht                     | not                        |               |             |            |
+| gehen wir                 | do/shall we go to          |               |             |            |
+| sportlich                 | athletic                   |               |             |            |
+| punklich                  | punctual                   |               |             |            |
+| wir gehen ins             | we are going to            |               |             |            |
+| hoflich                   | polite                     |               |             |            |
+    
 
 
 
