@@ -3,7 +3,7 @@
 **Tags:** #excel/basics #excel/IF-function #excel/IS-functions #excel/logical-tests #excel/data-validation #excel/zero-length-string #excel/helper-columns #excel/accounting-excel
 **Source:** [Excel Basics 13 IF Function Made Easy! IS Functions Too! 14 Epic Examples!!](https://youtu.be/ODQWV0Vo1kM?si=qWGuIWzLS7rwC6xl)
 **Lab File:** [IF Function & IS Functions](<13 Excel Basics 13 IF Function Made Easy! IS Functions Too! 14 Epic Examples!!.md>)
-**HW's:** 
+**HW's:** done
 
 ---
 # 📅 26 April 2026: The IF Function, IS Functions, and Logical Decision Making
