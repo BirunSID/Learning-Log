@@ -9,7 +9,8 @@
 # Nicos Weg (A1 Path)
 
 - [x] ***Was machst du hier?***
-- [ ] ***Ich war schon in Berlin*** (14/15)
+- [x] ***Ich war schon in Berlin***
+
 
 # Easy German / YouTube
 | Date       | Video Title                                                                               | link                                             |
@@ -19,13 +20,15 @@
 | 2026-04-20 | *Train Ride in Slow German \| Super Easy German 292*                                      | https://youtu.be/qTIc0KR4VP0?si=IftftKz7C5cuOKkW |
 | 2026-04-21 | *At the Bürgeramt: Aufenthaltstitel übertragen, Führungszeugnis \| Super Easy German 299* | https://youtu.be/XmFh5v6s2y4?si=wXpc7QD3YcsQ0QjV |
 | 2026-04-26 | *Slow German Dialogue: Our Favorite Things \| Super Easy German 301*                      | https://youtu.be/opdykf17pCg?si=auApsjBlmBdhRiz6 |
+| 2026-05-05 | *A Day at University in Slow German \| Super Easy German 303*                             | https://youtu.be/paIiikWpnok?si=O53EkeNf3I1tuN3k |
+|            |                                                                                           |                                                  |
 
 # Duolingo Progress
 
 - **Current position:** 
 	- [x] Section 1, Unit 9
 	- [ ] section 1, unit 10
-- **Current Streak:** 1
+- **Current Streak:** 2
 
 ---
 *Update this weekly to visualize the 'volume' of immersion.*

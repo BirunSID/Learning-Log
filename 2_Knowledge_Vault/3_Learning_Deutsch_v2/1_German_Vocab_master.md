@@ -378,8 +378,18 @@ A centralized, searchable database of all acquired German vocabulary. This is th
 | punklich                  | punctual                   |               |             |            |
 | wir gehen ins             | we are going to            |               |             |            |
 | hoflich                   | polite                     |               |             |            |
+| tisch                     | table                      |               |             |            |
+| was ist das               | what's going on            |               |             |            |
+| was ist los               | what's wrong               |               |             |            |
+| glas                      | glass                      |               |             |            |
+| sauber                    | clean                      |               |             |            |
+| drauben                   | outside                    |               |             |            |
+| die wassermelone          | the watermelon             |               |             |            |
+| die kokosnuss             | the coconut                |               |             |            |
+| die kiwi                  | kiwi                       |               |             |            |
+| die kartoffel             | potato                     |               |             |            |
+| die mohre                 | carrot                     |               |             |            |
     
-
 
 
 # Readme
