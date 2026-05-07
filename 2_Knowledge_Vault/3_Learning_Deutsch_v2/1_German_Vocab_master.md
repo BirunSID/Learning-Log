@@ -389,7 +389,22 @@ A centralized, searchable database of all acquired German vocabulary. This is th
 | die kiwi                  | kiwi                       |               |             |            |
 | die kartoffel             | potato                     |               |             |            |
 | die mohre                 | carrot                     |               |             |            |
-    
+| suppe                     | soup                       |               |             |            |
+| :------------------       | :-----------------         | :--------     | :---------- | :--------- |
+| schmeckt                  | does ... taste             |               |             |            |
+| komisch                   | strange                    |               |             |            |
+| kuchen                    | cake                       |               |             |            |
+| obst                      | fruit                      |               |             |            |
+| suß                       | sweet                      |               |             |            |
+| Schade                    | too bad                    |               |             |            |
+| riecht                    | smell                      |               |             |            |
+| der mais                  | corn                       |               |             |            |
+| der melone                | melon                      |               |             |            |
+| die gurke                 | cucumber                   |               |             |            |
+| die Avocado               | Avocado                    |               |             |            |
+| der reis                  | rice                       |               |             |            |
+
+
 
 
 # Readme

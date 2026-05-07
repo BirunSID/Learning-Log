@@ -10,6 +10,7 @@
 
 - [x] ***Was machst du hier?***
 - [x] ***Ich war schon in Berlin***
+- [ ] ***Wo liegt das?*** 6/18 today
 
 
 # Easy German / YouTube
@@ -21,7 +22,7 @@
 | 2026-04-21 | *At the Bürgeramt: Aufenthaltstitel übertragen, Führungszeugnis \| Super Easy German 299* | https://youtu.be/XmFh5v6s2y4?si=wXpc7QD3YcsQ0QjV |
 | 2026-04-26 | *Slow German Dialogue: Our Favorite Things \| Super Easy German 301*                      | https://youtu.be/opdykf17pCg?si=auApsjBlmBdhRiz6 |
 | 2026-05-05 | *A Day at University in Slow German \| Super Easy German 303*                             | https://youtu.be/paIiikWpnok?si=O53EkeNf3I1tuN3k |
-|            |                                                                                           |                                                  |
+| 2026-05-06 | *Wohnungsbesichtigung in Slow German \| Super Easy German 304*                            | https://youtu.be/3KZnAVWL5IQ?si=F2t7a-kWs58Ml7kD |
 
 # Duolingo Progress
 

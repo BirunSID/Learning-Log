@@ -6,7 +6,7 @@
 - **German 🇩🇪**
     - **Focus:** Did one duolingo and half video of easy german. kinda stressed about the tuition, got the worst of them all.
     - **Progress:** learned a lot of new words and stuffs
-    - **Detailed Notes:** [daily capture note](../../../2_Knowledge_Vault/3_Learning_Deutsch_v2/0_daily_capture_note.md)
+    - **Detailed Notes:** no notes today. couldn't do these due to the hard pause.
 ㅤㅤ
 - **Reading & Research** (*Review session* : target 50 pages/day)    
     - **Can't Hurt Me** *REVIEW*  : started

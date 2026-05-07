@@ -2,13 +2,13 @@
 
 **Tags:** #MixedCellReferences #ExcelBasics #FinancialModeling #RoundingErrors #Efficiency
 **Source:** [Excel Basics 16 Mixed Cell References no.1 Trick to Creating Formulas Quickly!!!](https://youtu.be/b-aeB73pdt4?si=IWg5wNyAi6tlbpcw)
-**Lab File:** [Mixed Cell References](../../../3_Projects_and_Labs/2_MS_Excel/1_ExcelIsfu_lab/16_MixedCellReferences.xlsm)
+**Lab File:** [Mixed Cell References](../../../3_Projects_and_Labs/2_MS_Excel/1_ExcelIsfun_lab/16_MixedCellReferences.xlsm)
 **HW's:** 
 
 ---
 # 📅 6 May 2026: Mastering Mixed Cell References for Dynamic Models
 
-> [!abstract] Progress: 00:00 - END
+> [!note] Progress: 00:00 - END
 ### 💡 Concepts & Logic
 *   **The Power of One:** The ultimate goal of mixed cell references is to create a single "master formula" in the top-left cell of a range that can be copied both down (across rows) and across (across columns) to fill the entire grid correctly.
 *   **The Mental Model: The "Two-Question Method"**

@@ -2,7 +2,7 @@
 
 **Tags:** #excel #excel/insert-function #excel/PMT #excel/financial-formulas #excel/MEDIAN #excel/AVERAGE #excel/data-analysis #excel/shortcuts
 **Source:** [Excel Basics 11: Search for Excel Functions & get help with Function Arguments](https://youtu.be/2MizbiiZgjg?si=680n2-R7bFOO6zoH)
-**Lab File:** [Search For Functions](../../../3_Projects_and_Labs/2_MS_Excel/1_ExcelIsfu_lab/11_SearchForFunctions.xlsm)
+**Lab File:** [Search For Functions](../../../3_Projects_and_Labs/2_MS_Excel/1_ExcelIsfun_lab/11_SearchForFunctions.xlsm)
 **HW's:** No hw here on this note.
 
 ---

@@ -2,13 +2,13 @@
 
 **Tags:** #excel/basics #excel/excel-tables #excel/dynamic-ranges #excel/structured-references #excel/table-nomenclature #excel/dynamic-charts #excel/pivottable-refresh #excel/auto-expansion #excel/financial-rounding
 **Source:** [Excel Basics 14 Excel VLOOKUP Function Made Easy! 9 Examples to Make Your Job Easier!](https://youtu.be/wLtIpBrXZ5M?si=c-MPPRisRmbKcU8Q)
-**Lab File:** [Excel Table Feature](../../../3_Projects_and_Labs/2_MS_Excel/1_ExcelIsfu_lab/15_ExcelTableFeature.xlsm)
+**Lab File:** [Excel Table Feature](../../../3_Projects_and_Labs/2_MS_Excel/1_ExcelIsfun_lab/15_ExcelTableFeature.xlsm)
 **HW's:** 
 
 ---
 # 📅 5 May 2026: Excel Table Feature & Dynamic Ranges for VLOOKUP, PivotTables, & more!
 
-> [!abstract] Progress: 00:00 - END
+> [!note] Progress: 00:00 - END
 > This lesson explores the **Excel Table** feature, the primary tool for creating "Dynamic Ranges." It ensures that any new data added to a list is automatically incorporated into formulas, charts, and PivotTables without manual range adjustments.
 
 ---

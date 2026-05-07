@@ -2,13 +2,13 @@
 
 **Tags:** #excel #excel/ribbon #excel/addin 
 **Source:** [# Excel Basics 6 Customize Quick Access Toolbar (QAT) and Show New Ribbon Tabs](https://youtu.be/Cw40hnv3NOE?si=D9lB5Gjxp6Xt6o35)
-**Lab File:** [6-8 QAT Keyboards Default Align](../../../3_Projects_and_Labs/2_MS_Excel/1_ExcelIsfu_lab/6-8-QATKeyboardsDefaultAlign.xlsx)
+**Lab File:** [6-8 QAT Keyboards Default Align](../../../3_Projects_and_Labs/2_MS_Excel/1_ExcelIsfun_lab/6-8-QATKeyboardsDefaultAlign.xlsx)
 **HW's:**
 
 ---
 # 📅 April 15, 2026: Customizing the Quick Access Toolbar (QAT) & Ribbon Optimization
 
-> [!abstract] Progress: 00:00 - END
+> [!note] Progress: 00:00 - END
 > This session focuses on workspace ergonomics—minimizing "mouse travel" by centralizing frequently used tools and unlocking advanced functionality not found in the standard Ribbon tabs.
 
 ---

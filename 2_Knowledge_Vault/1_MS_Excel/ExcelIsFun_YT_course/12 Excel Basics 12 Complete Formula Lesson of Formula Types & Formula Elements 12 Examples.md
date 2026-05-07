@@ -2,7 +2,7 @@
 
 **Tags:** #excel/PMT basics #excel/formula-elements #excel/logical-formulas #excel/text-formulas #excel/order-of-operations #excel/accounting-logic
 **Source:** [Excel Basics 12 Complete Formula Lesson of Formula Types & Formula Elements 12 Examples](https://youtu.be/HN4QEHN0NtI?si=j45ObFnYqvtmQOMj)
-**Lab File:** [Formula Elements](../../../3_Projects_and_Labs/2_MS_Excel/1_ExcelIsfu_lab/12_FormulaElements.xlsm)
+**Lab File:** [Formula Elements](../../../3_Projects_and_Labs/2_MS_Excel/1_ExcelIsfun_lab/12_FormulaElements.xlsm)
 **HW's:** done
 
 ---

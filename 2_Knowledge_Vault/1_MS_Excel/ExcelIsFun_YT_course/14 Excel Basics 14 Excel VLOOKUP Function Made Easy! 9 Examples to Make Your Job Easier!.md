@@ -2,7 +2,7 @@
 
 **Tags:** 
 **Source:** [Excel Basics 14 Excel VLOOKUP Function Made Easy! 9 Examples to Make Your Job Easier!](https://youtu.be/zqFE6uIJ65s?si=m2ZDXV_Tr13obNxa)
-**Lab File:** [VLOOKUP Function](../../../3_Projects_and_Labs/2_MS_Excel/1_ExcelIsfu_lab/14_EB14-VLOOKUPFunction.xlsm)
+**Lab File:** [VLOOKUP Function](../../../3_Projects_and_Labs/2_MS_Excel/1_ExcelIsfun_lab/14_EB14-VLOOKUPFunction.xlsm)
 **HW's:** 
 
 ---
