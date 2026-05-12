@@ -62,4 +62,44 @@ Within the default dictionary, mind you, are 143,091 words, all of which must be
 where `text` is the file you wish to spell-check. Don’t move on until you’re sure you understand how `speller` itself works!
 Odds are, you didn’t spend enough time looking over `speller.c`. Go back one square and walk yourself through it again!
 
-###
+### texts/
+
+So that you can test your implementation of `speller`, we’ve also provided you with a whole bunch of texts, among them the script from La La Land, the text of the Affordable Care Act, three million bytes from Tolstoy, some excerpts from The Federalist Papers and Shakespeare, and more. So that you know what to expect, open and skim each of those files, all of which are in a directory called `texts` within your `pset5` directory.
+
+Now, as you should know from having read over `speller.c` carefully, the output of `speller`, if executed with, say,
+
+`./speller texts/lalaland.txt`
+
+will eventually resemble the below.
+Below’s some of the output you’ll see. For information’s sake, we’ve excerpted some examples of “misspellings.” And lest we spoil the fun, we’ve omitted our own statistics for now.
+
+```powershell
+MISSPELLED WORDS
+
+[...]
+AHHHHHHHHHHHHHHHHHHHHHHHHHHHT
+[...]
+Shangri
+[...]
+fianc
+[...]
+Sebastian's
+[...]
+
+WORDS MISSPELLED:
+WORDS IN DICTIONARY:
+WORDS IN TEXT:
+TIME IN load:
+TIME IN check:
+TIME IN size:
+TIME IN unload:
+TIME IN TOTAL:
+```
+
+`TIME IN load` represents the number of seconds that `speller` spends executing your implementation of `load`. `TIME IN check` represents the number of seconds that `speller` spends, in total, executing your implementation of `check`. `TIME IN size` represents the number of seconds that `speller` spends executing your implementation of `size`. `TIME IN unload` represents the number of seconds that `speller` spends executing your implementation of `unload`. `TIME IN TOTAL` is the sum of those four measurements.
+
+**Note that these times may vary somewhat across executions of speller, depending on what else your codespace is doing, even if you don’t change your code.**
+
+Incidentally, to be clear, by “misspelled” we simply mean that some word is not in the dictionary provided.
+
+### 
