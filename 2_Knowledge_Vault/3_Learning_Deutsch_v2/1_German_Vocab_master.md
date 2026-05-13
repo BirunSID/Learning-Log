@@ -403,7 +403,10 @@ A centralized, searchable database of all acquired German vocabulary. This is th
 | die gurke                 | cucumber                   |               |             |            |
 | die Avocado               | Avocado                    |               |             |            |
 | der reis                  | rice                       |               |             |            |
-
+| bar                       | money                      |               |             |            |
+| zahlst                    | pay                        |               |             |            |
+| mit karte                 | by card                    |               |             |            |
+| wir                       | we                         |               |             |            |
 
 
 
