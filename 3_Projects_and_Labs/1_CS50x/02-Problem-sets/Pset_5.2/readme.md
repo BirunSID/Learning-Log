@@ -129,4 +129,50 @@ Alright, the challenge now before you is to implement, in `order`, `load`, `hash
 - Your spell checker must not leak any memory. Be sure to check for leaks with `valgrind`.
 - The hash function you write should ultimately be your own, not one you search for online.
 
-###
+### What I have to do:
+
+- Implement load.
+- Implement hash.
+- Implement size.
+- Implement check.
+- Implement unload.
+
+### LOAD implementation
+
+#### Overview
+The `load` function is responsible for migrating words from a dictionary file into a memory-resident data structure—specifically a **Hash Table**. This allows for near-constant time lookup ($O(1)$ or $O(n/k)$) during the spell-checking process.
+
+#### Implementation Details
+
+The implementation follows a strict 7-step process to ensure data integrity and memory safety:
+
+1.  **File Stream Initialization**:
+    The function opens the dictionary file using `fopen` in read mode (`"r"`). It includes a safety check to ensure the file exists; if the file pointer returns `NULL`, the function exits early to prevent a crash.
+
+2.  **Efficient Word Parsing**:
+    Using a `while` loop, the function employs `fscanf` to read strings from the file one by one. The loop terminates automatically when `fscanf` reaches the End Of File (`EOF`).
+
+3.  **Dynamic Memory Allocation**:
+    For every word read, a new `node` is created using `malloc`. This is the most memory-intensive part of the program.
+    *   **Safety Logic**: If `malloc` fails (returning `NULL`), the function captures this, closes the open file stream to prevent a resource leak, and returns `false`.
+
+4.  **Data Population**:
+    The dictionary word is copied into the node's `word` array using `strcpy`.
+
+5.  **Index Determination (Hashing)**:
+    The function calls the `hash` function, passing the word to receive an integer index. This index determines which "bucket" in the hash table the word will reside in.
+
+6.  **Linked List Insertion (Prepend Logic)**:
+    To keep the insertion time at $O(1)$ (constant time), the function performs a **prepend** operation:
+    *   The new node’s `next` pointer is set to the current head of the list at that hash index (`n->next = table[index]`).
+    *   The head of the hash table is then updated to point to the new node (`table[index] = n`).
+    *   This ensures that no existing data is "orphaned" or lost during the insertion.
+
+7.  **Telemetry and Cleanup**:
+    A global variable `word_count` is incremented during every successful loop iteration. This allows the `size` function to return the total word count instantly without re-scanning the table. Finally, `fclose` is called to release the file system resources.
+#### Design Challenges Solved
+*   **Preventing Memory Leaks**: I ensured that if a memory allocation fails mid-load, the file is closed properly before the program exits.
+*   **Collision Handling**: By using an array of linked lists (Chaining), the function can store multiple words that hash to the same index without data loss.
+*   **Pointer Maintenance**: The order of operations in Step 6 was critical. By pointing the new node to the list *before* updating the table head, I maintained the integrity of the linked list chain.
+
+## 

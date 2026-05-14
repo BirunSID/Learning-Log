@@ -24,7 +24,7 @@ import numpy as np
 # 1 - Scalar Multiplication and Sum of Vectors
 
 
-# 1.1 - Visualization of a Vector $v\in\mathbb{R}^2$
+## 1.1 - Visualization of a Vector $v\in\mathbb{R}^2$
 
 You already have seen in the videos and labs, that vectors can be visualized as arrows, and it is easy to do it for a $v\in\mathbb{R}^2$, e.g.
 
@@ -64,7 +64,7 @@ plot_vectors([v], [f"$v$"], ["black"])
 
 The vector is defined by its **norm (length, magnitude)** and **direction**, not its actual position. But for clarity and convenience vectors are often plotted starting in the origin (in $\mathbb{R}^2$ it is a point $(0,0)$) .
 
-# 1.2 - Scalar Multiplication
+## 1.2 - Scalar Multiplication
 
 **Scalar multiplication** of a vector $v=\begin{bmatrix}
           v_1 & v_2 & \ldots & v_n 
@@ -77,7 +77,7 @@ plot_vectors([v, 2*v, -2*v], [f"$v$", f"$2v$", f"$-2v$"], ["black", "green", "bl
 ```
 
 
-# 1.3 - Sum of Vectors
+## 1.3 - Sum of Vectors
 
 **Sum of vectors (vector addition)** can be performed by adding the corresponding components of the vectors: if $v=\begin{bmatrix}
           v_1 & v_2 & \ldots & v_n 
@@ -101,7 +101,7 @@ plot_vectors([v, w, v + w], [f"$v$", f"$w$", f"$v + w$"], ["black", "black", "re
 # plot_vectors([v, w, np.add(v, w)], [f"$v$", f"$w$", f"$v + w$"], ["black", "black", "red"])
 ```
 
-# 1.4 - Norm of a Vector
+## 1.4 - Norm of a Vector
 
 The norm of a vector $v$ is denoted as $\lvert v\rvert$. It is a nonnegative number that describes the extent of the vector in space (its length). The norm of a vector can be found using `NumPy` function `np.linalg.norm()`:
 
@@ -109,3 +109,145 @@ The norm of a vector $v$ is denoted as $\lvert v\rvert$. It is a nonnegative num
 print("Norm of a vector v is", np.linalg.norm(v))
 ```
 
+# 2 - Dot Product
+
+## 2.1 - Algebraic Definition of the Dot Product
+
+The **dot product** (or **scalar product**) is an algebraic operation that takes two vectors $x=\begin{bmatrix}
+          x_1 & x_2 & \ldots & x_n 
+\end{bmatrix}^T\in\mathbb{R}^n$ and  
+$y=\begin{bmatrix}
+          y_1 & y_2 & \ldots & y_n 
+\end{bmatrix}^T\in\mathbb{R}^n$ and returns a single scalar. The dot product can be represented with a dot operator $x\cdot y$ and defined as:
+
+$$x\cdot y = \sum_{i=1}^{n} x_iy_i = x_1y_1+x_2y_2+\ldots+x_ny_n \tag{1}$$
+
+
+## 2.2 - Dot Product using Python
+
+
+```python
+x = [1, -2, -5]
+y = [4, 3, -1]
+```
+
+Next, let’s define a function `dot(x,y)` for the dot product calculation:
+
+```python
+def dot(x, y):
+    s=0
+    for xi, yi in zip(x, y):
+        s += xi * yi
+    return s
+```
+
+For the sake of simplicity, let’s assume that the vectors passed to the above function are always of the same size, so that you don’t need to perform additional checks.
+
+Now everything is ready to perform the dot product calculation calling the function `dot(x,y)`:
+
+```python
+print("The dot product of x and y is", dot(x, y))
+```
+
+Dot product is very a commonly used operator, so `NumPy` linear algebra package provides quick way to calculate it using function `np.dot()`:
+
+```python
+print("np.dot(x,y) function returns dot product of x and y:", np.dot(x, y)) 
+```
+
+Note that you did not have to define vectors $x$ and $y$ as `NumPy` arrays, the function worked even with the lists. But there are alternative functions in Python, such as explicit operator `@` for the dot product, which can be applied only to the `NumPy` arrays. You can run the following cell to check that.
+
+```python
+print("This line output is a dot product of x and y: ", np.array(x) @ np.array(y))
+
+print("\nThis line output is an error:")
+try:
+    print(x @ y)
+except TypeError as err:
+    print(err)
+```
+
+As both `np.dot()` and `@` operators are commonly used, it is recommended to define vectors as `NumPy` arrays to avoid errors. Let's redefine vectors $x$ and $y$ as `NumPy` arrays to be safe:
+
+```python
+x = np.array(x)
+y = np.array(y)
+```
+
+
+## 2.3 - Speed of Calculations in Vectorized Form
+
+Dot product operations in Machine Learning applications are applied to the large vectors with hundreds or thousands of coordinates (called **high dimensional vectors**). Training models based on large datasets often takes hours and days even on powerful machines. Speed of calculations is crucial for the training and deployment of your models. 
+
+It is important to understand the difference in the speed of calculations using vectorized and the loop forms of the vectors and functions. In the loop form operations are performed one by one, while in the vectorized form they can be performed in parallel. In the section above you defined loop version of the dot product calculation (function `dot()`), while `np.dot()` and `@` are the functions representing vectorized form.
+
+Let's perform a simple experiment to compare their speed. Define new vectors $a$ and $b$ of the same size $1,000,000$:
+
+```python
+a = np.random.rand(1000000)
+b = np.random.rand(1000000)
+```
+
+Use `time.time()` function to evaluate amount of time (in seconds) required to calculate dot product using the function `dot(x,y)` which you defined above: 
+
+```python
+import time
+
+tic = time.time()
+c = dot(a,b)
+toc = time.time()
+print("Dot product: ", c)
+print ("Time for the loop version:" + str(1000*(toc-tic)) + " ms")
+```
+
+Now compare it with the speed of the vectorized versions:
+
+```python
+tic = time.time()
+c = np.dot(a,b)
+toc = time.time()
+print("Dot product: ", c)
+print ("Time for the vectorized version, np.dot() function: " + str(1000*(toc-tic)) + " ms")
+```
+
+```python
+tic = time.time()
+c = a @ b
+toc = time.time()
+print("Dot product: ", c)
+print ("Time for the vectorized version, @ function: " + str(1000*(toc-tic)) + " ms")
+```
+
+You can see that vectorization is extremely beneficial in terms of the speed of calculations!
+
+## 2.4 - Geometric Definition of the Dot Product
+
+In [Euclidean space](https://en.wikipedia.org/wiki/Euclidean_space), a Euclidean vector has both magnitude and direction. The dot product of two vectors $x$ and $y$ is defined by:
+
+$$x\cdot y = \lvert x\rvert \lvert y\rvert \cos(\theta),\tag{2}$$
+
+where $\theta$ is the angle between the two vectors:
+
+<img src = "02 Projects/06 Learning/01 Current/05 Math/1 notes/Linear algebra for ML&DS/99 images/dot_product_geometric.png" width="230" align="middle"/>
+
+This provides an easy way to test the orthogonality between vectors. If $x$ and $y$ are orthogonal (the angle between vectors is $90^{\circ}$), then since $\cos(90^{\circ})=0$, it implies that **the dot product of any two orthogonal vectors must be $0$**. Let's test it, taking two vectors $i$ and $j$ we know are orthogonal:
+
+```python
+i = np.array([1, 0, 0])
+j = np.array([0, 1, 0])
+print("The dot product of i and j is", dot(i, j))
+```
+
+## 2.5 - Application of the Dot Product: Vector Similarity
+
+Geometric definition of a dot product is used in one of the applications - to evaluate **vector similarity**. In Natural Language Processing (NLP) words or phrases from vocabulary are mapped to a corresponding vector of real numbers. Similarity between two vectors can be defined as a cosine of the angle between them. When they point in the same direction, their similarity is 1 and it decreases with the increase of the angle. 
+
+Then equation $(2)$ can be rearranged to evaluate cosine of the angle between vectors:
+
+$\cos(\theta)=\frac{x \cdot y}{\lvert x\rvert \lvert y\rvert}.\tag{3}$
+
+Zero value corresponds to the zero similarity between vectors (and words corresponding to those vectors). Largest value is when vectors point in the same direction, lowest value is when vectors point in the opposite directions.
+
+This example of vector similarity is given to link the material with the Machine Learning applications. There will be no actual implementation of it in this Course. Some examples of implementation can be found in the Natual Language Processing Specialization.
+
+Well done, you have finished this lab!

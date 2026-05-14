@@ -407,7 +407,7 @@ A centralized, searchable database of all acquired German vocabulary. This is th
 | zahlst                    | pay                        |               |             |            |
 | mit karte                 | by card                    |               |             |            |
 | wir                       | we                         |               |             |            |
-
+| komisch                   | smell                      |               |             |            |
 
 
 # Readme
