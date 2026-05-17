@@ -1,5 +1,31 @@
 # Speller
 
+<details>
+  <summary>Performance Results:</summary>
+  My implementation achieved a total execution time of 0.07s on texts/lalana.txt, matching the performance of the CS50 Staff solution. While the staff solution was 0.01s faster in the check function, my implementation was 0.01s faster in load, demonstrating a highly efficient file-parsing and memory-allocation strategy.
+
+### staff code
+  WORDS MISSPELLED:     955  
+WORDS IN DICTIONARY:  143091  
+WORDS IN TEXT:        17756  
+TIME IN load:         0.03  
+TIME IN check:        0.03  
+TIME IN size:         0.00  
+TIME IN unload:       0.01  
+TIME IN TOTAL:        0.07  
+
+---
+### my code
+WORDS MISSPELLED:     955  
+WORDS IN DICTIONARY:  143091  
+WORDS IN TEXT:        17756  
+TIME IN load:         0.02  
+TIME IN check:        0.04  
+TIME IN size:         0.00  
+TIME IN unload:       0.00  
+TIME IN TOTAL:        0.07  
+</details>
+
 ## problem to solve
 For this problem, we’ll implement a program that spell-checks a file, a la the below, using a hash table.
 
@@ -175,4 +201,170 @@ The implementation follows a strict 7-step process to ensure data integrity and 
 *   **Collision Handling**: By using an array of linked lists (Chaining), the function can store multiple words that hash to the same index without data loss.
 *   **Pointer Maintenance**: The order of operations in Step 6 was critical. By pointing the new node to the list *before* updating the table head, I maintained the integrity of the linked list chain.
 
-## 
+## HASH implementation
+The `hash` function is the "Sorting Machine" of the program. It converts a string (a word) into a specific numerical index. By using a **three-letter positional system**, this function distributes words across **17,576 buckets**, ensuring that each linked list remains short and fast to search.
+
+### The "Base-26" Logic
+This implementation treats the first three letters of a word like a 3-digit number, but instead of "Base-10" (0–9), it uses **"Base-26"** (A–Z).
+
+1.  **The 1st Letter (The "676s" place):** 
+    We take the first letter and multiply it by $26 \times 26$ (676). This creates 26 massive "zones" in the hash table, one for every starting letter of the alphabet.
+2.  **The 2nd Letter (The "26s" place):** 
+    We take the second letter and multiply it by 26. This divides each "starting letter zone" into 26 smaller "sub-zones" based on the second letter.
+3.  **The 3rd Letter (The "1s" place):** 
+    We add the value of the third letter directly. This pinpoints the exact bucket for that specific three-letter combination (e.g., "ABA", "ABB", "ABC").
+
+### Step-by-Step Breakdown
+
+#### 1. Case Insensitivity
+The function uses `toupper()` on every character. This ensures that "Apple", "APPLE", and "aPpLe" all calculate the exact same hash value, which is a requirement for a case-insensitive spell-checker.
+
+#### 2. Bounds Safety (The `\0` checks)
+Before accessing `word[1]` or `word[2]`, the function checks `word[i] != '\0'`. 
+*   **Why:** If a word only has one letter (like "I"), trying to look at the second or third letter would cause the program to read "garbage" memory or crash. These checks act as safety gates.
+
+#### 3. Handling Non-Alphabetic Characters (`isalpha`)
+Since the dictionary contains words with apostrophes (like `can't`), the function uses `isalpha()`.
+*   **Logic:** If the second or third character is an apostrophe, the math for that specific letter is skipped. This prevents the function from returning a negative index or a value that is mathematically "off the map."
+
+#### 4. The Modulo Lock (`% N`)
+Even though the math is designed to produce a number within the range of $N$ ($17,576$), the function concludes with `return hash_value % N;`.
+*   **Purpose:** This is a standard "Defensive Programming" technique. It guarantees that the index returned will **always** be a valid index within the hash table array, preventing "Segmentation Faults" (crashes).
+
+### Performance Impact
+By shifting from a 1-letter hash (26 buckets) to a 3-letter hash (17,576 buckets):
+*   **Collision Reduction:** Words are spread out much more thinly.
+*   **Search Speed:** Instead of searching through a list of 5,000+ words in `check`, the computer only has to look at a tiny list (usually fewer than 10 words). This moves the program's efficiency closer to $O(1)$ (constant time).
+
+
+
+## Size Implementation
+The `size` function is responsible for returning the total number of words successfully loaded into the hash table. In this implementation, the function is a **constant-time ($O(1)$)** operation, meaning it returns the answer instantly regardless of whether the dictionary has 10 words or 10 million.
+
+### Implementation Strategy: "Pre-calculation"
+The `size` function is implemented as a single line of code:
+```c
+return word_count;
+```
+
+#### Why is it only one line?
+In many programming tasks, there are two ways to find the "size" of a data structure:
+1.  **The "Count-on-Demand" Method (Slow):** Every time `size` is called, the computer iterates through all 17,576 buckets and traverses every linked list to count the nodes. This is extremely slow ($O(N)$).
+2.  **The "Running-Total" Method (Fast):** You keep a counter that you update as you go. By the time `size` is called, the work is already done.
+
+We chose the **Running-Total** method to ensure our spell-checker is as fast as possible.
+
+### The Synergy with `load`
+The `size` function relies entirely on the work done in the `load` function. Here is how they work together:
+
+*   **Step 1 (Initialization):** A global variable `unsigned int word_count` is initialized to `0` at the top of the program.
+*   **Step 2 (The Load Loop):** Inside the `load` function’s `while` loop, every time a new word is successfully read from the file and inserted into the hash table, the code executes `word_count++;`.
+*   **Step 3 (Hand-off):** By the time `load` finishes and closes the dictionary file, `word_count` contains the exact final tally of nodes in memory.
+*   **Step 4 (Instant Retrieval):** When the main program calls `size()`, the function doesn't perform any math or searching. It simply hands over the value already stored in the `word_count` variable.
+
+### Efficiency and Speed
+By moving the "work" of counting into the `load` function (which only runs once), we have optimized the `size` function to be a **zero-cost** operation during the actual spell-checking phase. This is a classic example of **Space-Time Tradeoff**: we use a tiny bit of space (one integer variable) to save a massive amount of time.
+
+## Check Implementation
+The `check` function is the core of the spell-checker. Its job is to determine if a specific word exists in the dictionary that was loaded into memory. Thanks to the hash table structure, this search does not require looking through the entire dictionary. Instead, it uses the "Jump and Search" method to find the word in **near-constant time**.
+
+### The "Jump and Search" Logic
+
+#### 1. The Instant Jump (Hashing)
+The very first step is to run the input word through the `hash` function:
+```c
+unsigned int index = hash(word);
+```
+Because the `hash` function is a mathematical formula, the computer doesn't "search" for the index—it **calculates** it. This gives the program a direct "address" (an index between 0 and 17,575). 
+
+Instead of checking 140,000 words, the program instantly **jumps** to that specific index in the `table` array. This effectively ignores 99.9% of the dictionary instantly.
+
+#### 2. The Finger (The Cursor)
+Once the program is at the correct "drawer" (bucket) in the hash table, it needs to look at the chain of words inside. 
+```c
+node *cursor = table[index];
+```
+A "cursor" pointer is created to act like a finger pointing at the folders. We use a cursor instead of the `table[index]` itself so that we don't lose the "hook" at the top of the drawer.
+
+#### 3. Navigating the Chain (The Traversal)
+The function uses a `while` loop to move the cursor from node to node:
+```c
+while (cursor != NULL)
+{
+    // ... logic ...
+    cursor = cursor->next;
+}
+```
+If the cursor reaches `NULL`, it means we have reached the end of the chain without finding the word.
+
+#### 4. Case-Insensitive Comparison
+The program uses `strcasecmp` to compare the word from the text with the word stored in the current node:
+```c
+if (strcasecmp(word, cursor->word) == 0)
+```
+*   **Why `strcasecmp`?** This function is essential because it treats "APPLE", "apple", and "ApPlE" as the exact same word. 
+*   **The Match:** If `strcasecmp` returns `0`, it means a match was found, and the function returns `true` immediately.
+
+### This is Fast!!
+By using 17,576 buckets, we have divided the dictionary into thousands of tiny piles. 
+*   In a standard list, you might have to check **70,000 words** on average.
+*   In this Hash Table, you only check the **~8 words** that happen to share the same 3-letter hash index.
+
+### Design Safety
+*   **Pointer Safety:** The loop condition `while (cursor != NULL)` ensures that we never try to read a word from a "non-existent" node, preventing crashes on empty buckets or at the end of a list.
+*   **Read-Only:** The `check` function does not move or change any data in the hash table; it only reads it.
+
+
+
+## Unload Implementation
+The `unload` function is the program's "cleanup crew." It is responsible for releasing all the memory borrowed from the system via `malloc`. This implementation uses a **Recursive Helper Function** called `free_chain` to perform a **Post-Order Traversal**, ensuring that every node is freed without losing pointers to the rest of the list.
+
+### 1. The Main Function: `unload`
+The primary `unload` function serves as the orchestrator. Its job is simple:
+*   It iterates through every "hook" (index) in the hash table from `0` to `N-1`.
+*   For each index, it calls the helper function `free_chain` and passes in the head of the linked list found at that index (`table[i]`).
+*   Once all buckets have been processed, it returns `true` to signal a successful cleanup.
+
+### 2. The Helper Function: `free_chain(node *n)`
+Because the standard `unload` function (defined by CS50) takes no arguments, a helper function is required to perform recursion. This function follows the **"Parent-Child"** logic:
+
+#### **A. The Base Case (The Stop Sign)**
+```c
+if (n == NULL)
+{
+    return;
+}
+```
+Every recursive function needs a way to stop. When the function reaches the end of a linked list (where the pointer is `NULL`), it stops "diving" and starts returning.
+
+#### **B. The Recursive Step (The Dive)**
+```c
+free_chain(n->next);
+```
+Before the function frees the current node (the "Parent"), it calls itself on the next node (the "Child"). This creates a stack in the computer's memory. The computer "freezes" the parent and moves to the child. This continues until the very last node in the chain is reached.
+
+#### **C. The Backtrack (The Cleanup)**
+```c
+free(n);
+```
+This line is only reached **after** the recursive call to the child has finished and returned. By the time `free(n)` executes for a parent, the computer has already finished freeing all of its children. This prevents "orphaned memory" because we never destroy a node until we are 100% finished with the pointers it contains.
+
+---
+
+### 🧠 Design Justification: Why Recursion?
+
+1.  **Logical Flow**: Since a linked list is a recursive data structure (a node contains a pointer to another node), using recursion is the most mathematically elegant way to traverse it.
+2.  **No Temporary Pointers**: Unlike the iterative approach (using `while` loops), the recursive approach doesn't require creating a manual `tmp` pointer. The **System Stack** acts as the temporary storage, remembering the address of the "Parent" while the "Child" is being processed.
+3.  **Safety and Scale**: While recursion can sometimes risk a "Stack Overflow" if chains are too long, this program is safe. Because we used a **3-letter hash function** with **17,576 buckets**, our word chains are very short (averaging ~8 nodes). This depth is easily handled by modern computer memory.
+
+### Summary of the "Demolition" Order
+If a chain is **[A] -> [B] -> [C] -> NULL**, the function:
+1. Dives to **A**, then **B**, then **C**, then **NULL**.
+2. Hits **NULL** and returns.
+3. Frees **[C]**.
+4. Returns to **B** and frees **[B]**.
+5. Returns to **A** and frees **[A]**.
+6. **Result**: The memory is perfectly clean.
+---
+
+# VOILA~!
