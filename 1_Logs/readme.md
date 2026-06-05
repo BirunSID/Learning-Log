@@ -1,4 +1,4 @@
-# Log
+# LOG
 
 ## Purpose:
 This directory serves as the **chronological HeartBeat** of my journey. It is a record of consistency, "Proof of Work," and daily problem-solving. While the `2_Knowledge_Vault` and `3_projects_and_Labs` stores *what* I know and am working on, this folder stores *when* and *how* I learned it.
