@@ -1,8 +1,8 @@
 # 📊 Excel Basics 21 Relationships Rather than VLOOKUP for PivotTable Reports (Excel 2016 Data Model)
 
 **Tags:** 
-**Source:** [Excel Basics 21 Relationships Rather than VLOOKUP for PivotTable Reports (Excel 2016 Data Model)](https://youtu.be/yFxjkaXKjPM?si=uL9aaQRIzafZNEA9)
-**Lab File:** [Pivot Tables Relationships Start](../../../3_Projects_and_Labs/2_MS_Excel/1_ExcelIsfun_lab/21_PivotTablesRelationshipsStart.xlsm)
+**Source:** [Excel Basics 21 Relationships Rather than VLOOKUP for PivotTable Reports (Excel 2016 Data Model)](https://youtu.be/yFxjkaXKjPM?si=uL9aaQRIzafZNEA9) 
+**Lab File:** [Pivot Tables Relationships Start](../../../3_Projects_and_Labs/2_MS_Excel/1_ExcelIsfun_lab/21_PivotTablesRelationshipsStart.xlsm) 
 **HW's:** 
 
 ---
