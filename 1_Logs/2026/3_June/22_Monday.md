@@ -7,20 +7,20 @@
 ## 🔵I. Human OS: (Non-Negotiable: Maintenance)
 
 ###  Deutsch Learnen
-- **Focus**:: 
-- **Progress**:: 
-- **Deutsch Note**:: 
+- **Focus**:: Not done.
+- **Progress**:: Not done.
+- **Deutsch Note**:: Not done.
 
 ### Book Reading
 - **Zero To One** *READ (20pg/day)*
-- **Pages Read**:: 
-- **Notes**:: 
+- **Pages Read**:: Not done.
+- **Notes**:: Not done.
 
 ### Private university preparation
-- **Prep Progress**:: 
+- **Prep Progress**:: done for the day. learned a lot tbh.
 
 ### Percentile Improvement ladder
-- **Typing Speed**:: 
+- **Typing Speed**:: Not done.
 
 ---
 
@@ -31,31 +31,31 @@
 - **CS50 Notes**:: [readme for credit](../../../3_Projects_and_Labs/1_CS50x/02-Problem-sets/Pset_6.3/readme.md) and [credit code](../../../3_Projects_and_Labs/1_CS50x/02-Problem-sets/Pset_6.3/sentimental-credit)
 
 ### Linear Algebra for ML & DS 📐
-- **Linalg Topic**:: 
-- **Linalg Notes**:: 
+- **Linalg Topic**:: Not done.
+- **Linalg Notes**:: Not done.
 
 ### NumPy
-- **NumPy Topic**:: 
-- **NumPy Notes**:: 
+- **NumPy Topic**:: Not done.
+- **NumPy Notes**:: Not done.
 
 ---
 
 ## 🟡 III. THE TOOLBELT (Applied: Project-Based Only)
 
 ### Microsoft Excel
-- **Excel Topic**:: 
-- **Excel Notes**:: 
+- **Excel Topic**:: Not done.
+- **Excel Notes**:: Not done.
 
 ---
 
 ## 🟣 IV. THE PROFESSIONAL LAYER (Milestone-based)
 
 ### Tuition *(7 PM - 9 PM)*
-- **tuition-log**:: 
-- **tuition-hours**:: 
-- **tuition-subject**:: 
+- **tuition-log**:: Not done.
+- **tuition-hours**:: Not done.
+- **tuition-subject**:: Not done.
 
 ---
 
 ## 🟠 V. THE PLAYGROUND (Controlled Chaos)
-- **Playground Notes**:: 
+- **Playground Notes**:: Not done.
