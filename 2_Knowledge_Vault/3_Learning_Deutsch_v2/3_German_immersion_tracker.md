@@ -26,6 +26,9 @@
 | 2026-05-17 | *Jobcenter in Slow German \| Super Easy German 305*                                       | https://youtu.be/IChcogLkMrs?si=wdSJjQfDMYPbeEEQ |
 | 2026-06-01 | *What's your favourite country? \| Easy German 306*                                       | https://youtu.be/MkJORaGrS2s?si=La9PvKo3VFFEJ0zn |
 | 2026-06-09 | *Do Germans Like to Work? \| Easy German 636*                                             | https://youtu.be/g_h1DtGIAfQ?si=HqzR7MBd7S1eS3ns |
+| 2026-06-17 | *Do Germans Plan for the Future? \| Easy German 602*                                      | https://youtu.be/klP5-rSG3U4?si=XKAOqEhg-7thGkjb |
+|            |                                                                                           |                                                  |
+|            |                                                                                           |                                                  |
 |            |                                                                                           |                                                  |
 
 
