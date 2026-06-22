@@ -33,7 +33,7 @@ I use a three-layer system to separate **time**, **theory**, and **execution**.
 
 ### 🔵 Human OS (Maintenance)
 - [ ] **German (Deutsch):** Reaching A1 proficiency. V2 system deployed(15th Apr)
-- [ ] **Reading:** `WIll be updated later`.
+- [ ] **Reading:** Currently reading books 20 page/day.
 - [x] **IELTS:** Target Band 9.0 (**Current: Band 8.0 Achieved** ✅).
 
 ---
@@ -52,4 +52,4 @@ This repository is constantly being refactored to improve scalability. For a ful
 
 ---
 
-"Save money for the sake of saving." — Morgan Housel.
+"Just do the shit, don't wait for a good time." — Me.
