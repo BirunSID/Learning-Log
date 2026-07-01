@@ -27,17 +27,10 @@
 | 2026-06-01 | *What's your favourite country? \| Easy German 306*                                       | https://youtu.be/MkJORaGrS2s?si=La9PvKo3VFFEJ0zn |
 | 2026-06-09 | *Do Germans Like to Work? \| Easy German 636*                                             | https://youtu.be/g_h1DtGIAfQ?si=HqzR7MBd7S1eS3ns |
 | 2026-06-17 | *Do Germans Plan for the Future? \| Easy German 602*                                      | https://youtu.be/klP5-rSG3U4?si=XKAOqEhg-7thGkjb |
-|            |                                                                                           |                                                  |
+| 2026-06-30 | *Can You Live Well on This Salary in Germany?*                                            | https://youtu.be/ERHUpp091Kw?si=8EcaUzJB0ZUrACFs |
 |            |                                                                                           |                                                  |
 |            |                                                                                           |                                                  |
 
-
-# Duolingo Progress
-
-- **Current position:** 
-	- [x] Section 1, Unit 9
-	- [ ] section 1, unit 10
-- **Current Streak:** 1
 
 ---
 *Update this weekly to visualize the 'volume' of immersion.*
