@@ -28,6 +28,11 @@
 | 2026-06-09 | *Do Germans Like to Work? \| Easy German 636*                                             | https://youtu.be/g_h1DtGIAfQ?si=HqzR7MBd7S1eS3ns |
 | 2026-06-17 | *Do Germans Plan for the Future? \| Easy German 602*                                      | https://youtu.be/klP5-rSG3U4?si=XKAOqEhg-7thGkjb |
 | 2026-06-30 | *Can You Live Well on This Salary in Germany?*                                            | https://youtu.be/ERHUpp091Kw?si=8EcaUzJB0ZUrACFs |
+| 2026-07-02 | *Decluttering in Slow German \| Super Easy German 275*                                    | https://youtu.be/cWTQOkIz4Ts?si=osHJgwgJHwi3NMVW |
+|            |                                                                                           |                                                  |
+|            |                                                                                           |                                                  |
+|            |                                                                                           |                                                  |
+|            |                                                                                           |                                                  |
 |            |                                                                                           |                                                  |
 |            |                                                                                           |                                                  |
 
