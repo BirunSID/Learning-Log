@@ -1,0 +1,9 @@
+Answer to question 1:
+To characterize their audio aura, I would take the average metrics for danceability, energy, loudness, speechiness, valence, and tempo across the 100 songs. I would then map these averages into specific trait ranges (e.g., high energy = "vibrant", low valence = "wistful"). Instead of just assigning a single number, the final aura would be represented as a combined 6-trait profile, giving a complete picture of the listener's musical personality in 2018.
+
+Answer to question 2:
+This method might not be representative because a simple average treats a song played once the exact same as a song played a hundred times, easily destroying the fairness of the data. It also creates a confusing cluster of 6 traits without a clear priority order, ignoring factors like genre (rock vs. pop) or track length. 
+
+A better approach would be to calculate a weighted average by multiplying each metric by the song's "play count" before averaging. This ensures the final aura heavily leans toward the user's actual favorite, most-listened tracks rather than casual skips.
+
+And for an extreme calculation, we could even take the total song time for each specific category and then figure out the average and do another average or create a complex unique algorithm formula to calculate everything instead of just averaging all the time.

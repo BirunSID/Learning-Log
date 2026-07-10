@@ -1,6 +1,6 @@
 # --- PERSONAL / SECURITY ---
 # Ignore executable files (Security Risk)
-*.exe
+
 *.msi
 *.bin
 

@@ -29,13 +29,18 @@
 | 2026-06-17 | *Do Germans Plan for the Future? \| Easy German 602*                                      | https://youtu.be/klP5-rSG3U4?si=XKAOqEhg-7thGkjb |
 | 2026-06-30 | *Can You Live Well on This Salary in Germany?*                                            | https://youtu.be/ERHUpp091Kw?si=8EcaUzJB0ZUrACFs |
 | 2026-07-02 | *Decluttering in Slow German \| Super Easy German 275*                                    | https://youtu.be/cWTQOkIz4Ts?si=osHJgwgJHwi3NMVW |
-|            |                                                                                           |                                                  |
-|            |                                                                                           |                                                  |
+| 2026-07-08 | *What’s in Our Backpacks? (Slow German Conversation)*                                     | https://youtu.be/aC5IIC5y7UQ?si=K7PcXDEPg5ZzBSy  |
+| 2026-07-09 | *Public Transport in Slow German \| Super Easy German 239*                                | https://youtu.be/S3SRcxJB31Q?si=4GBPrUMF3PKuFJvl |
 |            |                                                                                           |                                                  |
 |            |                                                                                           |                                                  |
 |            |                                                                                           |                                                  |
 |            |                                                                                           |                                                  |
 
+
+# duolingo progress
+
+***streak:*** 2 days
 
 ---
-*Update this weekly to visualize the 'volume' of immersion.*
+
+## *Update this weekly to visualize the 'volume' of immersion.*
