@@ -28,13 +28,17 @@ I use a three-layer system to separate **time**, **theory**, and **execution**.
 
 ### 🟢 The Engine (Core Skills)
 - [ ] **CS50x:** Harvard’s Introduction to Computer Science (Currently: Week 4 - Memory).
-- [ ] **Linear Algebra:** DeepLearning.AI Mathematics for ML & DS.
-- [ ] **MS Excel:** Advanced Data Analysis & Automation (excelisfun).
+- [ ] **Linear Algebra:** DeepLearning.AI Math for ML & DS.
+- [ ] **MS powerpoint:** ongoing.
+- [ ] **MS Excel:** Intermediate next
 
 ### 🔵 Human OS (Maintenance)
 - [ ] **German (Deutsch):** Reaching A1 proficiency. V2 system deployed(15th Apr)
 - [ ] **Reading:** Currently reading books 20 page/day.
+
+### Milestones
 - [x] **IELTS:** Target Band 9.0 (**Current: Band 8.0 Achieved** ✅).
+- [x] **MS Excel:** Basics (excelisfun).
 
 ---
 
