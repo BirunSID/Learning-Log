@@ -31,7 +31,7 @@
 | 2026-07-02 | *Decluttering in Slow German \| Super Easy German 275*                                    | https://youtu.be/cWTQOkIz4Ts?si=osHJgwgJHwi3NMVW |
 | 2026-07-08 | *What’s in Our Backpacks? (Slow German Conversation)*                                     | https://youtu.be/aC5IIC5y7UQ?si=K7PcXDEPg5ZzBSy  |
 | 2026-07-09 | *Public Transport in Slow German \| Super Easy German 239*                                | https://youtu.be/S3SRcxJB31Q?si=4GBPrUMF3PKuFJvl |
-|            |                                                                                           |                                                  |
+| 2026-07-14 | *At the Hotel in Slow German \| Super Easy German 283*                                    | https://youtu.be/_dddL1ddmXQ?si=9MD6gvWaCgD7mN-A |
 |            |                                                                                           |                                                  |
 |            |                                                                                           |                                                  |
 |            |                                                                                           |                                                  |
@@ -39,7 +39,7 @@
 
 # duolingo progress
 
-***streak:*** 2 days
+***Streak:*** 1 days
 
 ---
 
