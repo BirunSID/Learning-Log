@@ -6,7 +6,7 @@
 
 > "Knowledge is the compound interest of the mind. The goal is to get better by 1% every single day."
 
-![Obsidian_vault_graph_view](Assets/1_for_readme/2026.04.14_obsidian_GraphView.jpg)
+![Obsidian_vault_graph_view](Assets/1_for_readme/2026.08.17_obsidian_GraphView.png)
 
 Welcome to my **Digital Garden**. This repository is a real-time "Proof of Work" for my journey into Computer, AI&ML, Data Science, and Personal Development. It tracks my progress from a "Systematic Mess" to an "Engineered Workflow."
 
