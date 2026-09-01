@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+
+<html lang="en">
+    <head>
+        <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap" rel="stylesheet">
+        <link href="styles.css" rel="stylesheet">
+        <title>Trivia!</title>
+    </head>
+    <body>
+        <div class="header">
+            <h1>Trivia!</h1>
+        </div>
+
+        <div class="container">
+            <div class="section">
+                <h2>Part 1: Multiple Choice </h2>
+                <hr>
+                <!-- TODO: Add multiple choice question here -->
+                <h3>What is the capital of Germany?</h3>
+                <p id="feedback"></p>
+                <button class="choice-btn" id="btn-berlin">Berlin</button>
+                <button class="choice-btn" id="btn-leipzig">Leipzig</button>
+                <button class="choice-btn" id="btn-hamburg">Hamburg</button>
+                <button class="choice-btn" id="btn-cologne">Cologne</button>
+            </div>
+
+            <div class="section">
+                <h2>Part 2: Free Response</h2>
+                <hr>
+                <!-- TODO: Add free response question here -->
+                 <h3>In which country is chewing gum banned?</h3>
+                 <p id="free-response-feedback"></p>
+                 <input id="answer-input" type="text" placeholder="click & type here">
+                 <input id="submit-btn" type="submit">
+            </div>
+        </div>
+
+        <script>
+            // part 1
+// get the informations
+const choiceButtons = document.querySelectorAll('.choice-btn');
+const feedback = document.querySelector('#feedback');
+
+// loop through all the buttons
+choiceButtons.forEach(button => {
+    button.addEventListener('click', function(){
+        // removes previous selected buttons if any were selected
+        choiceButtons.forEach(button2 => button2.classList.remove('correct', 'incorrect'));
+
+        // checks if the clicked button is berlin and assigns properties
+        if (button.id === 'btn-berlin') {
+            button.classList.add('correct');
+            feedback.textContent = 'Correct!';
+        }
+        else {
+            button.classList.add('incorrect');
+            feedback.textContent = 'Incorrect';
+        }  
+    });
+});
+
+
+// part 2
+let inputField = document.querySelector('#answer-input');
+let submitBtn = document.querySelector('#submit-btn');
+let feedback2 = document.querySelector('#free-response-feedback')
+
+submitBtn.addEventListener('click', function(){
+    let userTyped = inputField.value.trim().toLowerCase();
+
+    //resets previous answer
+    inputField.classList.remove('correct','incorrect');
+
+    if (userTyped === 'singapore'){
+        feedback2.textContent = 'Correct!';
+        inputField.classList.add('correct');
+    }
+    else {
+        feedback2.textContent = 'Incorrect';
+        inputField.classList.add('incorrect');
+    }
+});
+        </script>
+    </body>
+</html>
