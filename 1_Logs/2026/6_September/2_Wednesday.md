@@ -1,21 +1,21 @@
-# 📅 Tuesday, 1 September 2026
+# 📅 Wednesday, 2 September 2026
 
 # Learning & Skills Log (PUBLIC)
 
 ## 🔵I. Human OS: (Non-Negotiable: Maintenance)
 
 ###  Deutsch Learnen
-- **Focus**:: not done
-- **Progress**:: not done
-- **Deutsch Note**:: not done
+- **Focus**::  not done
+- **Progress**::  not done
+- **Deutsch Note**::  not done
 
 ### Book Reading
 - **Meditation** *READ (10pg/day)*
-- **Pages Read**:: not done
-- **Notes**:: not done
+- **Pages Read**::  not done
+- **Notes**::  not done
 
 ### Timeless Studies
-- **Prep Progress**:: not done
+- **Prep Progress**::  not done
 
 ### Percentile tasks
 
@@ -24,8 +24,8 @@
 ## 🟢 II. THE Primary Focus
 
 ### CS50x💻
-- **CS50 Topic**:: done with pset 8.1 trivia
-- **CS50 Notes**:: [readme](../../../3_Projects_and_Labs/1_CS50x/02-Problem-sets/Pset_8.1/readme.md) and code here ---> [html](../../../3_Projects_and_Labs/1_CS50x/02-Problem-sets/Pset_8.1/trivia/index.html) [css](../../../3_Projects_and_Labs/1_CS50x/02-Problem-sets/Pset_8.1/trivia/styles.css)
+- **CS50 Topic**:: not done
+- **CS50 Notes**:: not done
 
 ---
 
