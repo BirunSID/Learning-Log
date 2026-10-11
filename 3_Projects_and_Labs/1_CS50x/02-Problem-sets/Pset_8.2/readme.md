@@ -63,3 +63,8 @@ but commenting your HTML code is not as imperative as it is when commenting code
 ```css
 /* Comment goes here */
 ```
+
+
+# process of doing this
+
+So, there was no process of doing this. I had to do the bare minimum to achieve pass marks and then get it over with. As my university life begins. things are gonna get hard from here onwards.

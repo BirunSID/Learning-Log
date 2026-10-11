@@ -1,0 +1,24 @@
+HTML Tags Used:
+1. <nav>
+2. <a>
+3. <h1>
+4. <h2>
+5. <p>
+6. <ul>
+7. <li>
+8. <table>
+9. <tr>
+10. <button>
+
+CSS Properties Used:
+1. background-color
+2. font-family
+3. color
+4. margin-top
+5. padding
+
+Bootstrap Description:
+I used Bootstrap for the responsive navigation bar, the grid container, buttons, and the styled table component.
+
+JavaScript Description:
+I used JavaScript on contact.html to listen for a button click and dynamically display a greeting message on the page.
