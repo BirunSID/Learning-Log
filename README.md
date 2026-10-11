@@ -29,8 +29,7 @@ I use a three-layer system to separate **time**, **theory**, and **execution**.
 ### 🟢 The Engine (Core Skills)
 - [ ] **CS50x:** Harvard’s Introduction to Computer Science (Currently: Week 4 - Memory).
 - [ ] **Linear Algebra:** DeepLearning.AI Math for ML & DS.
-- [ ] **MS powerpoint:** ongoing.
-- [ ] **MS Excel:** Intermediate next
+- [x] **MS powerpoint:** done.
 
 ### 🔵 Human OS (Maintenance)
 - [ ] **German (Deutsch):** Reaching A1 proficiency. V2 system deployed(15th Apr)

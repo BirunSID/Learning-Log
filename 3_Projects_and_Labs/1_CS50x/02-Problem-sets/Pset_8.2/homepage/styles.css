@@ -1,0 +1,25 @@
+/* Selector 1: Tag selector */
+body {
+    background-color: #f1f5f9; /* Property 1: background-color */
+    font-family: Arial, sans-serif; /* Property 2: font-family */
+}
+
+/* Selector 2: Tag selector */
+h1 {
+    color: #0f172a; /* Property 3: color */
+}
+
+/* Selector 3: Class selector */
+.lead {
+    margin-top: 15px; /* Property 4: margin-top */
+}
+
+/* Selector 4: Tag selector */
+footer {
+    padding: 20px 0; /* Property 5: padding */
+}
+
+/* Selector 5: ID selector */
+#alert-btn:hover {
+    opacity: 0.9;
+}
