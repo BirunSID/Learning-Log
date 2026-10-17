@@ -5,17 +5,17 @@
 ## 🔵I. Human OS: (Non-Negotiable: Maintenance)
 
 ###  Deutsch Learnen
-- **Focus**:: 
-- **Progress**:: 
-- **Deutsch Note**:: 
+- **Focus**:: not done
+- **Progress**:: not done
+- **Deutsch Note**:: not done
 
 ### Book Reading
 - **Meditation** *READ (10pg/day)*
-- **Pages Read**:: 
-- **Notes**:: 
+- **Pages Read**:: not done
+- **Notes**:: not done
 
 ### Timeless Studies
-- **Prep Progress**:: 
+- **Prep Progress**:: done
 
 ### Percentile tasks
 
@@ -24,8 +24,8 @@
 ## 🟢 II. THE Primary Focus
 
 ### CS50x💻
-- **CS50 Topic**:: 
-- **CS50 Notes**:: 
+- **CS50 Topic**:: not done
+- **CS50 Notes**:: not done
 
 ---
 
@@ -40,11 +40,11 @@
 ## 🟣 V. THE PROFESSIONAL LAYER (Milestone-based)
 
 ### Tuition
-- **tuition-log**:: 
-- **tuition-hours**:: 
-- **tuition-subject**:: 
+- **tuition-log**:: not done
+- **tuition-hours**:: not done
+- **tuition-subject**:: not done
 
 ---
 
 ## 🟠 VI. THE PLAYGROUND (Controlled Chaos)
-- **Playground Notes**::
+- **Playground Notes**:: not done
